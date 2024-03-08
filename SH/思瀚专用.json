@@ -289,8 +289,46 @@
             "timeout": 25
         },
         {
+            "key": "csp_AiPanSou",
+            "name": "🥰 | 爱盘 搜【☯️】",
+            "type": 3,
+            "api": "csp_AiPanSou",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "file://TV/quark_cookie.txt",
+                "danmu": true
+            },
+            "timeout": 15,
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
+        },
+        {
+            "key": "易搜",
+            "name": "🛸 | 易搜 盘【☣️】",
+            "type": 3,
+            "api": "csp_YiSo",
+            "changeable": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./lib/tokenm.json$$$satoken=83536a1e-4b96-4a86-96c9-51550ade43fc",
+            "timeout": 60
+        },
+        {
+            "key": "Xpanpan",
+            "name": "🤤 | 小盘 盘【☣️】",
+            "type": 3,
+            "api": "csp_Xpanpan",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"
+        },
+        {
             "key": "盘友圈",
-            "name": "🤤丨盘友 圈【☣️】",
+            "name": "😋丨盘友 圈【☣️】",
             "type": 3,
             "api": "csp_Panyq",
             "timeout": 60,
@@ -298,7 +336,7 @@
         },
         {
             "key": "校长影视",
-            "name": "🔔丨校长影视【☣️】",
+            "name": "🔔丨校长 盘【☣️】",
             "type": 3,
             "api": "csp_XiaoZhang",
             "quickSearch": 1,
@@ -309,7 +347,7 @@
         },
         {
             "key": "团长资源",
-            "name": "✨丨团长资源【☣️】",
+            "name": "✨丨团长 盘【☣️】",
             "type": 3,
             "api": "csp_TZFile",
             "quickSearch": 1,
