@@ -52,7 +52,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "json":"./bli/bili.json"
+                "json":"file://TV/bili.json"
             }
         },
         {
