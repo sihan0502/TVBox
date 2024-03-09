@@ -77,7 +77,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "json": "http://127.0.0.1:9978/file/TV/bili_cookie.txt",
+                "json": "http://127.0.0.1:9978/file/TV/bili.json",
                 "cookie": "",
                 "categories": "",
                 "type": ""
