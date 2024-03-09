@@ -77,7 +77,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "json": "http://127.0.0.1:9978/file/TV/bili.json",
+                "json": "./bli/B站番剧.json",
                 "cookie": "",
                 "categories": "",
                 "type": ""
