@@ -94,7 +94,22 @@
                 "danmu": true
             },
             "timeout": 10
-        },{
+        },
+        {
+            "key": "酷看弹幕版",
+            "name": "😎酷看 | 🆗",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "timeout": 20
+        },
+        {
             "key": "360弹幕",
             "name": "🔰360 | 🆗",
             "type": 3,
