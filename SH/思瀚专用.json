@@ -47,7 +47,7 @@
             "key":"哔哩影视",
             "name":"📺丨哔哩 官【🅱️】",
             "type": 3,
-            "api":"./bli/py_bilibilidy.py",
+            "api":"./bli/py_bilibilimd.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
