@@ -50,7 +50,7 @@
             "key":"哔哩影视",
             "name":"🍃 | B站官源 | bili",
             "type": 3,
-            "api":"./bli/py_bilibilimd.py",
+            "api":"./bli/py_bilibilidy.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
