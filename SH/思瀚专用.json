@@ -1,10 +1,10 @@
 {
-    "wallpaper": "./壁纸/鞭炮.jpg",
-    "spider": "./pg.jar",
-    "sites": [
+空
+制表符
+空
      	{
 	    "key":"lf_js_search",
-	    "name":"🍀主页🍀|俺滴",
+制表符
 	    "type":3,
 	    "searchable":0,
 	    "changeable":1,
@@ -13,30 +13,30 @@
 	    "api":"https://cloud.lxweb.cn/f/6gVVHw/lf_search3_min.js"
 	},
         {
-	    "key": "豆瓣",
-	    "name": "🍀主页🍀|豆瓣",
-	    "type": 3,
-	    "api": "csp_Douban",
-	    "searchable": 0,
-	    "changeable": 1,
-	    "ext": "./lib/douban.json"
+缩进尺寸
+换行模式
+无包裹
+软包
+通过
+拖拽，
+选择或粘贴它们。
         },
         {
-            "key": "配置中心",
-            "name": "☯️OK | 配置☯️",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
-            "style": {
-                "type": "rect",
-                "ratio": 1
+上传你的文件……
+我们不支持这种文件类型。
+再试一次
+有
+GIF、JPEG、JPG、MOV、MP4、PNG、SVG或 WEBM
+再试一次
+有在 TVBox you you you. json
+GIF、JPEG、JPG、MOV、MP4、PNG、SVG或 WEBM
+我们不支持这种文件类型。面包屑
+再试一次 TVBox
             }
-        },
+有嘘
         {
             "key": "网盘配置",
-            "name": "☣️PG | 配置☣️",
+            "name": “❤️PG|配置 moto❤️”,
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -67,7 +67,7 @@
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "filter": "https://already.free.hr/okcaptain/okjar/rm/wogg.json",
-                "danmu": true
+                "danmu": 真正的
             }
         },
         {
@@ -82,7 +82,7 @@
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
-                "danmu": true
+                "danmu": 真正的
             }
         },
         {
@@ -133,7 +133,7 @@
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
-                "site": "http://www.ttkx.live",
+                "site": "http://www.kxys.site:66/",
                 "danmu": true
             },
             "timeout": 25
