@@ -1,42 +1,42 @@
 {
-空
-制表符
-空
-     	{
-	    "key":"lf_js_search",
-制表符
-	    "type":3,
-	    "searchable":0,
-	    "changeable":1,
-	    "quickSearch":0,
-	    "filterable":0,
-	    "api":"https://cloud.lxweb.cn/f/6gVVHw/lf_search3_min.js"
-	},
-        {
-缩进尺寸
-换行模式
-无包裹
-软包
-通过
-拖拽，
-选择或粘贴它们。
+    "wallpaper": "./壁纸/鞭炮.jpg",
+    "spider": "./pg.jar",
+    "sites": [
+       {
+	        "key": "lf_js_search",
+            "name": "🍀主页🍀 | 俺滴",
+	        "type": 3,
+	        "searchable": 0,
+	        "changeable": 0,
+	        "quickSearch": 0,
+	        "indexs": 1,
+	        "api": "http://127.0.0.1:9978/file/TVBox/SH/js/lf_search3_min.js"
         },
         {
-上传你的文件……
-我们不支持这种文件类型。
-再试一次
-有
-GIF、JPEG、JPG、MOV、MP4、PNG、SVG或 WEBM
-再试一次
-有在 TVBox you you you. json
-GIF、JPEG、JPG、MOV、MP4、PNG、SVG或 WEBM
-我们不支持这种文件类型。面包屑
-再试一次 TVBox
+            "key": "豆瓣",
+	        "name": "🍀主页🍀|豆瓣",
+            "type": 3,
+	        "api": "csp_Douban",
+	        "searchable": 0,
+	        "changeable": 1,
+	        "ext": "./lib/douban.json"
+        },
+        {
+            "key": "配置中心",
+            "name": "☯️OK | 配置☯️",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "style": {
+                "type": "rect",
+                "ratio": 1
             }
-有嘘
+        },
         {
             "key": "网盘配置",
-            "name": “❤️PG|配置 moto❤️”,
+            "name": "☣️PG | 配置☣️",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -44,16 +44,48 @@ GIF、JPEG、JPG、MOV、MP4、PNG、SVG或 WEBM
             "ext": "./lib/tokenm.json"
         },
         {
+            "key": "哔哩哔哩",
+            "name": "🍻哔哩┃官源",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 2,
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
+            "filterable": 1,
+            "ext": {
+                "type": "短剧#沙雕动漫#纪录片#演唱会#iu演唱会#周杰伦演唱会#电影#电视剧#帕梅拉#广场舞#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
+                "cookie": "./jar/bili.txt"
+            }
+        },
+        {
             "key":"哔哩影视",
             "name":"📺丨哔哩 官【🅱️】",
             "type": 3,
-            "api":"./bli/py_bilibilimd.py",
+            "api":"./bli/py_bilibilidy.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "json":"http://127.0.0.1:9978/file/TV/bili.json"
+                "json":"./bli/bili.json"
             }
+        },
+        {
+          "key": "酷看弹幕版",
+          "name": "😎酷看┃弹幕【☯️】",
+          "type": 3,
+           "api": "csp_Kkys",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "ext": {
+           "danmu": true
+        },
+           "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+           "timeout": 20
         },
         {
             "key": "玩偶弹幕版",
@@ -67,7 +99,7 @@ GIF、JPEG、JPG、MOV、MP4、PNG、SVG或 WEBM
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "filter": "https://already.free.hr/okcaptain/okjar/rm/wogg.json",
-                "danmu": 真正的
+                "danmu": true
             }
         },
         {
@@ -82,7 +114,7 @@ GIF、JPEG、JPG、MOV、MP4、PNG、SVG或 WEBM
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
-                "danmu": 真正的
+                "danmu": true
             }
         },
         {
