@@ -45,7 +45,7 @@
         },
         {
             "key": "哔哩哔哩",
-            "name": "🍻哔哩┃官源",
+            "name": "🍻 哔哩官源【🅱️】",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -70,22 +70,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "json":"./bli/bili.json"
+                "json":"http://127.0.0.1:9978/file/TV/bili.json"
             }
-        },
-        {
-          "key": "酷看弹幕版",
-          "name": "😎酷看┃弹幕【☯️】",
-          "type": 3,
-           "api": "csp_Kkys",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "ext": {
-           "danmu": true
-        },
-           "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
-           "timeout": 20
         },
         {
             "key": "玩偶弹幕版",
