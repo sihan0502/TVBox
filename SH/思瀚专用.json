@@ -2,15 +2,6 @@
     "wallpaper": "./壁纸/鞭炮.jpg",
     "spider": "./pg.jar",
     "sites": [
-        {
-            "key": "豆瓣",
-	    "name": "🍀主页🍀|豆瓣",
-            "type": 3,
-	    "api": "csp_Douban",
-	    "searchable": 0,
-	    "changeable": 1,
-	    "ext": "./lib/douban.json"
-        },
 	{
 	    "key": "lf_js_search",
             "name": "🍀主页🍀 | 俺滴",
@@ -19,6 +10,15 @@
 	    "changeable": 0,
 	    "quickSearch": 0,
 	    "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/lf_search3_min.js"
+        },    
+        {
+            "key": "豆瓣",
+	    "name": "🍀主页🍀|豆瓣",
+            "type": 3,
+	    "api": "csp_Douban",
+	    "searchable": 0,
+	    "changeable": 1,
+	    "ext": "./lib/douban.json"
         },
         {
             "key": "配置中心",
