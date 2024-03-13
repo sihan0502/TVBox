@@ -3,12 +3,12 @@
     "sites": [
         {
             "key": "豆瓣",
-	        "name": "🍀主页🍀|豆瓣",
+	    "name": "🍀主页🍀|豆瓣",
             "type": 3,
-	        "api": "csp_Douban",
-	        "searchable": 0,
-	        "changeable": 1,
-	        "ext": "./lib/douban.json"
+	    "api": "csp_Douban",
+	    "searchable": 0,
+	    "changeable": 1,
+	    "ext": "./lib/douban.json"
         },   
 	{
     	    "key":"lf_js_search",
