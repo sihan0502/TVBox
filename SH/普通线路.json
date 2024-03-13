@@ -1,6 +1,15 @@
 {
     "spider": "./pg.jar",
     "sites": [
+	{
+	    "key": "lf_js_search",
+            "name": "🍀主页🍀 | 俺滴",
+	    "type": 3,
+	    "searchable": 0,
+	    "changeable": 0,
+	    "quickSearch": 0,
+	    "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/lf_search3_min.js"
+        },    
         {
             "key": "豆瓣",
 	    "name": "🍀主页🍀|豆瓣",
@@ -10,16 +19,6 @@
 	    "changeable": 1,
 	    "ext": "./lib/douban.json"
         },   
-	{
-    	    "key":"lf_js_search",
-    	    "name":"🍀主页🍀|俺滴",
-    	    "type":3,
-    	    "searchable":0,
-    	    "changeable":1,
-    	    "quickSearch":0,
-    	    "filterable":0,
-    	    "api":"https://cloud.lxweb.cn/f/6gVVHw/lf_search3_min.js"
-	    },
         {
             "key": "南瓜弹幕版",
             "name": "🎃南瓜 | 🆗",
