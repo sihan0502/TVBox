@@ -50,7 +50,7 @@
             "key": "py_m1905",
             "name": "🍃 | m1950 | py",
             "type": 3,
-            "api": "./lib/1905.py",
+            "api": "./lib/m1905.py",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
