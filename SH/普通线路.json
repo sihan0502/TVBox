@@ -146,6 +146,20 @@
             "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/nmys.js",
             "timeout": 15
         },
+	{
+      	    "key": "白票弹幕版",
+            "name": "白票 ┃ 🆗",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",	
+            "ext": {
+                "danmu": true
+                },
+            "timeout": 25
+        },
         {
             "key": "NanGua",
             "name": "🎃南瓜 | 🅿️",
