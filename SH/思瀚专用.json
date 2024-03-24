@@ -302,6 +302,14 @@
             "timeout": 15,
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
         },
+	{
+            "key": "YingSo",
+            "name": "🌪️ | 影搜 盘【☣️】",
+            "type": 3,
+            "api": "csp_YingSo",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json"
+        },
         {
             "key": "易搜",
             "name": "🛸 | 易搜 盘【☣️】",
