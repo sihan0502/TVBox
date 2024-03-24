@@ -658,6 +658,22 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+        },
+	    {
+            "key": "push_agent",
+            "name": "🛴丨推送 盘【♋】",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+	    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "danmu": true
+                },
+            "timeout": 15
         }
     ],
     "lives": [
