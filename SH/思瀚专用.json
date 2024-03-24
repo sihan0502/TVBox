@@ -65,6 +65,7 @@
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
+		"cookie": "file://TV/quark_cookie.txt",
                 "filter": "https://already.free.hr/okcaptain/okjar/rm/wogg.json",
                 "danmu": true
             }
