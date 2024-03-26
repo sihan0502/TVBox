@@ -421,7 +421,16 @@
             "changeable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"
-},
+        },
+        {
+            "key": "wnlg",
+            "name": "🥎丨爱玩 哥【☣️】",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$"
+        },
         {
             "key": "盘搜",
             "name": "⭕丨盘搜 盘【☣️】",
