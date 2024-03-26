@@ -320,6 +320,32 @@
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
         },
 	{
+	    "key":"老哥网盘弹幕",
+	    "name":"⛹🏻‍♂️ | 爱玩 哥【☯️】",
+	    "type":3,
+	    "api":"csp_Wobg",
+	    "quickSearch":1,
+	    "changeable":1,
+	    "filterable":1,
+	    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+	    "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "site": "https://tv.yydsys.top",
+                "danmu" : true
+            }, 
+	    "timeout": 25
+	},
+	{
+            "key": "wnlg",
+            "name": "🥎丨爱玩 弟【☣️】",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$"
+        },
+	{
             "key": "YingSo",
             "name": "🌪️ | 影搜 盘【☣️】",
             "type": 3,
@@ -421,15 +447,6 @@
             "changeable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"
-        },
-        {
-            "key": "wnlg",
-            "name": "🥎丨爱玩 哥【☣️】",
-            "type": 3,
-            "api": "csp_Wobg",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$"
         },
         {
             "key": "盘搜",
