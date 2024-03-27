@@ -235,7 +235,7 @@
         },   
 	{
             "key": "地瓜",
-            "name": "地瓜 | 💠",
+            "name": "🍠地瓜 | 💠",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -246,7 +246,7 @@
         },
         {
             "key": "sliu_spider",
-            "name": "🛹石榴|三方",
+            "name": "🍊石榴 | 💠",
             "api": "csp_ShiLiuDY",
             "type": 3,
             "jar": "./jar/qq.jar",
@@ -259,7 +259,7 @@
         }, 
         {
             "key": "鑫鑫影视",
-            "name": "鑫鑫 | 💠",
+            "name": "💫鑫鑫 | 💠",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -269,7 +269,7 @@
         },
         {
             "key": "boxcj",
-            "name": "BOX | 💠",
+            "name": "🎁BOX | 💠",
             "type": 1,
             "api": "http://film.benmx.com/api.php/tvbox",
             "searchable": 1,
@@ -278,7 +278,7 @@
         },
         {
             "key": "快看",
-            "name": "快看 | 💠",
+            "name": "👀快看 | 💠",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -288,7 +288,7 @@
         },
         {
             "key": "非凡",
-            "name": "非凡 | 💠",
+            "name": "💥非凡 | 💠",
             "type": 1,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "playerType": 1,
@@ -328,7 +328,7 @@
         },
         {
             "key": "櫻花",
-            "name": "櫻花 | 🌸",
+            "name": "🌸櫻花 | 动漫 ",
             "type": 3,
             "api": "csp_Ying",
             "searchable": 1,
@@ -336,7 +336,7 @@
         },
         {
             "key": "巴士",
-            "name": "巴士 | 🚌",
+            "name": "🚌巴士 | 动漫",
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
