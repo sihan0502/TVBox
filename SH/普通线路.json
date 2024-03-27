@@ -3,7 +3,7 @@
     "sites": [
 	{
 	    "key": "lf_js_search",
-            "name": "🍀主页🍀 | 俺滴",
+            "name": "🍀主页🍀 ┃ 俺滴",
 	    "type": 3,
 	    "searchable": 0,
 	    "changeable": 0,
@@ -12,7 +12,7 @@
         },    
         {
             "key": "豆瓣",
-	    "name": "🍀主页🍀 | 豆瓣",
+	    "name": "🍀主页🍀 ┃ 豆瓣",
             "type": 3,
 	    "api": "csp_Douban",
 	    "searchable": 0,
@@ -21,7 +21,7 @@
         },
         {
             "key": "南瓜弹幕版",
-            "name": "🎃南瓜 | 🆗",
+            "name": "🎃南瓜 ┃ 🆗",
             "type": 3,
             "api": "csp_Nangua",
             "searchable": 1,
@@ -50,7 +50,7 @@
         },
         {
             "key": "天天弹幕版",
-            "name": "⛅️天天 | 🆗",
+            "name": "⛅️天天 ┃ 🆗",
             "type": 3,
             "api": "csp_TianTian",
             "searchable": 1,
@@ -77,7 +77,7 @@
         },
         {
             "key":"厂长弹幕版",
-            "name":"🍺厂长 | 🆗",
+            "name":"🍺厂长 ┃ 🆗",
             "type": 3,
             "api":"csp_Czzy",
             "searchable":1,
@@ -91,7 +91,7 @@
         },
         {
             "key":"️爱看Bot弹幕版",
-            "name":"💖爱看 | 🆗",
+            "name":"💖爱看 ┃ 🆗",
             "type": 3,
             "api":"csp_Ikanbot",
             "searchable":1,
@@ -105,7 +105,7 @@
         },
         {
             "key": "酷看弹幕版",
-            "name": "😎酷看 | 🆗",
+            "name": "😎酷看 ┃ 🆗",
             "type": 3,
             "api": "csp_Kkys",
             "searchable": 1,
@@ -119,7 +119,7 @@
         },
         {
             "key": "360弹幕",
-            "name": "🔰360 | 🆗",
+            "name": "🔰360 ┃ 🆗",
             "type": 3,
             "api": "csp_Sp360",
             "searchable": 1,
@@ -162,7 +162,7 @@
         },
         {
             "key": "NanGua",
-            "name": "🎃南瓜 | 🅿️",
+            "name": "🎃南瓜 ┃ 🅿️",
             "type": 3,
             "api": "csp_NanGua",
             "searchable": 1,
@@ -179,7 +179,7 @@
         },
         {
             "key": "Zhuiyitv",
-            "name": "💞追忆 | 🅿️",
+            "name": "💞追忆 ┃ 🅿️",
             "type": 3,
             "api": "csp_Zhuiyitv",
             "quickSearch": 1,
@@ -198,7 +198,7 @@
         },
         {
             "key": "Yingtantv",
-            "name": "🌿 影探 | 🅿️",
+            "name": "🌿 影探 ┃ 🅿️",
             "type": 3,
             "api": "csp_Yingtantv",
             "quickSearch": 1,
@@ -235,7 +235,7 @@
         },   
 	{
             "key": "地瓜",
-            "name": "🍠地瓜 | 💠",
+            "name": "🍠地瓜 ┃ 💠",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -246,7 +246,7 @@
         },
         {
             "key": "sliu_spider",
-            "name": "🍊石榴 | 💠",
+            "name": "🍊石榴 ┃ 💠",
             "api": "csp_ShiLiuDY",
             "type": 3,
             "jar": "./jar/qq.jar",
@@ -259,7 +259,7 @@
         }, 
         {
             "key": "鑫鑫影视",
-            "name": "💫鑫鑫 | 💠",
+            "name": "💫鑫鑫 ┃ 💠",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -269,7 +269,7 @@
         },
         {
             "key": "boxcj",
-            "name": "🎁BOX | 💠",
+            "name": "🎁BOX ┃ 💠",
             "type": 1,
             "api": "http://film.benmx.com/api.php/tvbox",
             "searchable": 1,
@@ -278,7 +278,7 @@
         },
         {
             "key": "快看",
-            "name": "👀快看 | 💠",
+            "name": "👀快看 ┃ 💠",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -288,7 +288,7 @@
         },
         {
             "key": "非凡",
-            "name": "💥非凡 | 💠",
+            "name": "💥非凡 ┃ 💠",
             "type": 1,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "playerType": 1,
@@ -328,7 +328,7 @@
         },
         {
             "key": "櫻花",
-            "name": "🌸櫻花 | 动漫 ",
+            "name": "🌸櫻花 ┃ 动漫 ",
             "type": 3,
             "api": "csp_Ying",
             "searchable": 1,
@@ -336,7 +336,7 @@
         },
         {
             "key": "巴士",
-            "name": "🚌巴士 | 动漫",
+            "name": "🚌巴士 ┃ 动漫",
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
@@ -344,7 +344,7 @@
         },
         {
             "key": "酷狗",
-            "name": "🐶酷狗 | 🎶",
+            "name": "🐶酷狗 ┃ 🎶",
             "type": 3,
             "api": "csp_Kugou",
             "searchable": 1,
@@ -352,7 +352,7 @@
         },
         {
             "key": "Yinyuetai",
-            "name": "🛰音悦台 | 🎶",
+            "name": "🛰音悦台 ┃ 🎶",
             "type": 3,
             "api": "csp_Yinyuetai",
             "style":{ "type":"oval" },
@@ -362,13 +362,13 @@
         },
         {
             "key": "xyyy",
-            "name": "🎵艺音乐 | 🎶",
+            "name": "🎵艺音乐 ┃ 🎶",
             "type": 4,
             "api": "https://catbox.n13.club/wy.php"
         },
         {
             "key": "Iktv",
-            "name": "🎤KTV | 🎼",
+            "name": "🎤KTV ┃ 🎼",
             "type": 3,
             "api": "csp_Iktv",
             "style":{ "type":"oval" },
