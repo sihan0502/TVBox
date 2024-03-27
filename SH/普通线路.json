@@ -245,6 +245,19 @@
             "ext": "https://www.qiqiguai.cn/api.php/app/$$$null$$$1"
         },
         {
+            "key": "sliu_spider",
+            "name": "🛹石榴|三方",
+            "api": "csp_ShiLiuDY",
+            "type": 3,
+            "jar": "./jar/qq.jar",
+            "filterable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "",
+            "timeout": 60
+        }, 
+        {
             "key": "鑫鑫影视",
             "name": "鑫鑫 | 💠",
             "type": 3,
