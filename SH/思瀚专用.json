@@ -353,6 +353,17 @@
             "timeout": 60,
             "ext": "./lib/tokenm.json"
         },
+	{
+            "key": "Xinshijue",
+            "name": "👀 | 新视 觉【☣️】",
+            "type": 3,
+            "api": "csp_Xinshijue",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"
+        },
         {
             "key": "易搜",
             "name": "🛸 | 易搜 盘【☣️】",
