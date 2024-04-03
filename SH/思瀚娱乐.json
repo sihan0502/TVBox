@@ -1,7 +1,7 @@
 {
 	"wallpaper": "http://maoyingshi.cc/api.php",
 
-	"spider": "http://127.0.0.1:9978/file/TVBox/SH/pg.jar",
+	"spider": "./pg.jar",
 	"lives": [],
 	"sites": [{
 			"key": "酷狗",
