@@ -783,15 +783,6 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "🔴自用直播🔴",
-            "type": 0,
-            "url": "https://wds.ecsxs.com/230864.json",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
             "name": "🟢自用直播🟢",
             "type": 0,
             "url": "./tv/自用直播1.txt",
@@ -801,9 +792,9 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "😻喵影视直播😻",
+            "name": "☘️春盈直播☘️",
             "type": 0,
-            "url": "./tv/喵影视直播.txt",
+            "url": "https://wds.ecsxs.com/230864.json",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -858,15 +849,6 @@
             "name": "🐏肥羊直播🐏",
             "type": 0,
             "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "☘️春盈直播☘️",
-            "type": 0,
-            "url": "https://wds.ecsxs.com/230864.json",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
