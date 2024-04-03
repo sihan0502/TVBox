@@ -1,9 +1,8 @@
 {
-	"wallpaper": "http://maoyingshi.cc/api.php",
-
-	"spider": "./pg.jar",
-	"lives": [],
-	"sites": [{
+        "spider": "./pg.jar",
+	
+	"sites": [
+		{
 			"key": "酷狗",
 			"name": "🐶 | 酷  狗",
 			"type": 3,
