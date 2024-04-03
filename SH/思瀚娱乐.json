@@ -116,18 +116,7 @@
 				"简介": "评书合集",
 				"分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
 				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
-			}
-		},
-		{
-			"key": "戏曲自定义",
-			"name": "🎥 | 戏曲",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://gitee.com/hailin886/fty/raw/master/tvbox/xiqu.json",
-			"spider": "https://gitee.com/hailin886/fty/raw/master/tvbox/xiqu.jar"
+			    }
 		},
 		{
 			"key": "88js",
