@@ -30,9 +30,9 @@
 		},
 		{
                         "key":"ktv",
-                        "name":"🎸KTV｜[cat]",
+                        "name":"🎸 | M T V",
                         "type":3,
-                        "api":"./lib/ktv_open.js"
+                        "api":"./js/ktv_open.js"
                 },
 		{
 			"key": "Iktv",
