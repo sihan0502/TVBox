@@ -341,41 +341,8 @@
             "api": "csp_Dm84",
             "searchable": 1,
             "changeable": 0
-        },
-        {
-            "key": "酷狗",
-            "name": "🐶酷狗 ┃ 🎶",
-            "type": 3,
-            "api": "csp_Kugou",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Yinyuetai",
-            "name": "🛰音悦台 ┃ 🎶",
-            "type": 3,
-            "api": "csp_Yinyuetai",
-            "style":{ "type":"oval" },
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./jar/xe.jar"
-        },
-        {
-            "key": "xyyy",
-            "name": "🎵艺音乐 ┃ 🎶",
-            "type": 4,
-            "api": "https://catbox.n13.club/wy.php"
-        },
-        {
-            "key": "Iktv",
-            "name": "🎤KTV ┃ 🎼",
-            "type": 3,
-            "api": "csp_Iktv",
-            "style":{ "type":"oval" },
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./jar/xe.jar"
         }
+        
     ],
     "lives": [
         {
