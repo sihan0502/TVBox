@@ -800,15 +800,6 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "🔯恒星直播🔯",
-            "type": 0,
-            "url": "https://pan.shangui.cc/f/mlqLCb/dsj1.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
 	{
             "name": "🍭糖意直播🍭",
             "type": 0,
@@ -864,9 +855,9 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "🆑cally直播🆑",
+            "name": "🔯恒星直播🔯",
             "type": 0,
-            "url": "https://d.kstore.space/download/2883/20240210.txt",
+            "url": "https://pan.shangui.cc/f/mlqLCb/dsj1.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
