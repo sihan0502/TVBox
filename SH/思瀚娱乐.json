@@ -29,6 +29,12 @@
 			"api": "https://catbox.n13.club/wy.php"
 		},
 		{
+                        "key":"ktv",
+                        "name":"🎸KTV｜[cat]",
+                        "type":3,
+                        "api":"./lib/ktv_open.js"
+                },
+		{
 			"key": "Iktv",
 			"name": "🎙️ | K T V",
 			"type": 3,
