@@ -89,18 +89,24 @@
 				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
 			    }
 		},
-		{
-			"key": "88js",
-			"name": "⚽ | 看  球",
-			"type": 3,
-			"api": "csp_Kanqiu",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
+	        {
+                        "key": "企鹅体育",
+                        "name": "🐧 | 体  育",
+                        "type": 3,
+                        "api": "csp_XPath",
+                        "searchable": 0,
+                        "changeable": 0,
+                        "ext": "./json/企鹅体育.json"
+                },
+                {
+                        "key": "310直播",
+                        "name": "⚽ | 看  球",
+                        "type": 3,
+                        "api": "./api/drpy2.min.js",
+                        "searchable": 0,
+                        "changeable": 0,
+                        "ext": "./js/310直播.js"
+                },
 		{
 			"key": "drpy_js_蜻蜓FM",
 			"name": "🐞 | 蜻蜓FM",
