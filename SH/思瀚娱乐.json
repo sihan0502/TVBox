@@ -47,6 +47,18 @@
 			"jar": "./jar/xe.jar"
 		},
 		{
+                        "key": "t42直播转点播",
+                        "name": "🎬 | 聚 直播",
+                        "type": 4,
+                        "style": {
+                              "type": "rect",
+                              "ratio": 1.485
+                        },
+                        "api": "http://120.53.102.254/dsp999",
+                        "searchable": 0,
+                        "changeable": 0
+                },
+		{
 			"key": "drpy_js_相声随身听",
 			"name": "📽️ | 相  声",
 			"type": 3,
