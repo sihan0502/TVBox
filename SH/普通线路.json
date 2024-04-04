@@ -19,6 +19,16 @@
 	    "changeable": 1,
 	    "ext": "./lib/douban.json"
         },
+	{
+	    "key":"py_cctv",
+            "name": "🎃CCTV ┃ 🅰️",
+            "type": 3,
+            "api": "./227/py_cctv_1.py",
+            "jar": "./227/pg.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
         {
             "key": "南瓜弹幕版",
             "name": "🎃南瓜 ┃ 🆗",
