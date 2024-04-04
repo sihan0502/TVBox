@@ -43,6 +43,15 @@
             "ext": "./lib/tokenm.json"
         },
         {
+	    "key":"py_cctv",
+            "name": "📺丨CCTV【🅰️】",
+            "type": 3,
+            "api": "./lib/py_cctv_1.py",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key":"哔哩影视",
             "name":"📺丨哔哩 官【🅱️】",
             "type": 3,
