@@ -96,7 +96,7 @@
                         "api": "csp_XPath",
                         "searchable": 0,
                         "changeable": 0,
-                        "ext": "./json/企鹅体育.json"
+                        "ext": "./js/企鹅体育.json"
                 },
                 {
                         "key": "310直播",
