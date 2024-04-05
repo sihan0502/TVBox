@@ -22,7 +22,7 @@
         },
         {
             "key": "配置中心",
-            "name": "☯️OK | 配置☯️",
+            "name": "☯️️༺OK配置༻☯️",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -35,7 +35,7 @@
         },
         {
             "key": "网盘配置",
-            "name": "☣️PG | 配置☣️",
+            "name": "☣️️༺PG配置༻☣️",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
