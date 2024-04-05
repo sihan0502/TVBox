@@ -3,7 +3,7 @@
     "sites": [
 	{
 	    "key": "lf_js_search",
-            "name": "🍀༺主༒页༻🍀",
+            "name": "🍀༺主✿页༻🍀",
 	    "type": 3,
 	    "searchable": 0,
 	    "changeable": 0,
@@ -12,7 +12,7 @@
         },    
         {
             "key": "豆瓣",
-	    "name": "🍀༺豆༒瓣༻🍀",
+	    "name": "🍀༺豆✿瓣༻🍀",
             "type": 3,
 	    "api": "csp_Douban",
 	    "searchable": 0,
