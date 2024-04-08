@@ -1,25 +1,34 @@
 {
    "spider": "./pg.jar",
     "sites": [
-	    {
-	    "key": "lf_js_search",
-            "name": "🍀༺主✿页༻🍀",
-	    "type": 3,
-	    "searchable": 0,
-	    "changeable": 0,
-	    "quickSearch": 0,
-	    "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/lf_search3_domestic_min.js"
-        },
-        {
-			"key": "py_cctv",
-			"name": "📺cctv ┃ 🅰️",
-			"type": 3,
-			"api": "./lib/py_cctv_1.py",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
-		{
+	{
+	       "key": "lf_js_search",
+           "name": "🍀༺主✿页༻🍀",
+	       "type": 3,
+	       "searchable": 0,
+	       "changeable": 0,
+	       "quickSearch": 0,
+	       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/lf_search3_domestic_min.js"
+    },
+    {
+	       "key": "豆瓣",
+	       "name": "🍀️༺豆༒瓣༻🍀",
+           "type": 3,
+	       "api": "csp_Douban",
+	       "searchable": 0,
+	       "changeable": 1,
+	       "ext": "./lib/douban.json"
+	},
+    {
+	       "key": "py_cctv",
+	       "name": "📺cctv ┃ 🅰️",
+	       "type": 3,
+	       "api": "./lib/py_cctv_1.py",
+	       "searchable": 0,
+	       "quickSearch": 0,
+	       "filterable": 0
+	},
+	{
 			"key": "drpy_360影视",
 			"name": "🔰360 ┃ 🅰️",
 			"type": 3,
@@ -87,7 +96,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": {
+	                "ext": {
 				"json": "http://127.0.0.1:9978/file/TV/bili.json"
 			}
 		},
