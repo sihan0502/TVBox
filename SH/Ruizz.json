@@ -1,11 +1,11 @@
 {
-    //壁纸
+   
     "wallpaper": "https://d.kstore.space/download/7799/TVBox/SH/壁纸_msw.json",
 
-    //jar
-    "spider":"./jar/pg.jar",
+   
+    "spider":"./pg.jar",
 
-    //规则
+  
     "sites":[
                {
 			"key": "lf_js_search",
