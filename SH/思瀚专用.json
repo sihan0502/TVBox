@@ -27,7 +27,7 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -71,7 +71,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
 		"cookie": "file://TV/quark_cookie.txt",
@@ -87,7 +87,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -124,7 +124,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -138,7 +138,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -155,7 +155,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -172,7 +172,7 @@
              "quickSearch": 1,
              "changeable": 1,
              "filterable": 1,
-             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
              "ext": {
                  "token": "file://TV/ali_token.txt",
                  "cookie": "file://TV/quark_cookie.txt",
@@ -189,7 +189,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -205,7 +205,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -219,7 +219,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -233,7 +233,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token":"file://TV/ali_token.txt",
                 "danmu": true
@@ -247,7 +247,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -261,7 +261,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -275,7 +275,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt",
                 "danmu": true
@@ -290,7 +290,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -306,7 +306,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt",
                 "danmu": true
@@ -326,7 +326,7 @@
                 "danmu": true
             },
             "timeout": 15,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt"
         },
 	{
 	    "key":"老哥网盘弹幕",
@@ -336,7 +336,7 @@
 	    "quickSearch":1,
 	    "changeable":1,
 	    "filterable":1,
-	    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+	    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
 	    "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -739,7 +739,7 @@
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
-	    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+	    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
