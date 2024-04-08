@@ -5,13 +5,8 @@
   "storeHouse": [
     {
       "sourceName": "弹幕开",
-      "sourceUrl": "./思瀚仓库.json",
+      "sourceUrl": "./本地仓库.json",
       "parse": "{\"danma\": true}"
-    },
-    {
-      "sourceName": "弹幕关",
-      "sourceUrl": "./思瀚仓库.json",
-      "parse": "{\"danma\": false}"
     }
   ]
 }
