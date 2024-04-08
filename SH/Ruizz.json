@@ -1,11 +1,11 @@
 {
-    //壁纸
+   
     "wallpaper":"https://d.kstore.space/download/4954/图库/雪中孤树.jpg",
 
-    //jar
+   
     "spider":"./pg.jar",
 
-    //规则
+  
     "sites":[
 
         {
