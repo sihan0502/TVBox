@@ -1,0 +1,17 @@
+
+
+
+ {
+  "storeHouse": [
+    {
+      "sourceName": "弹幕开",
+      "sourceUrl": "./思瀚仓库.json",
+      "parse": "{\"danma\": true}"
+    },
+    {
+      "sourceName": "弹幕关",
+      "sourceUrl": "./思瀚仓库.json",
+      "parse": "{\"danma\": false}"
+    }
+  ]
+}
