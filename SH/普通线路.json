@@ -279,7 +279,7 @@
         },
         {
             "key": "Yingtantv",
-            "name": "🌿 影探 ┃ 🅿️",
+            "name": "🌿影探 ┃ 🅿️",
             "type": 3,
             "api": "csp_Yingtantv",
             "quickSearch": 1,
@@ -290,7 +290,7 @@
         },
         {
             "key": "賤賤",
-            "name": "✴️荐片 | 🅿️",
+            "name": "✴️荐片 ┃ 🅿️",
             "type": 3,
             "api": "csp_Jianpian",
             "searchable": 1,
