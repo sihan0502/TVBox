@@ -1,7 +1,7 @@
 {
    "spider": "./pg.jar",
     "sites": [
-	{
+    {
 	       "key": "lf_js_search",
            "name": "🍀༺主✿页༻🍀",
 	       "type": 3,
@@ -18,7 +18,7 @@
 	       "searchable": 0,
 	       "changeable": 1,
 	       "ext": "./lib/douban.json"
-	},
+    },
     {
 	       "key": "py_cctv",
 	       "name": "📺cctv ┃ 🅰️",
@@ -27,8 +27,8 @@
 	       "searchable": 0,
 	       "quickSearch": 0,
 	       "filterable": 0
-	},
-	{
+     },
+     {
 			"key": "drpy_360影视",
 			"name": "🔰360 ┃ 🅰️",
 			"type": 3,
