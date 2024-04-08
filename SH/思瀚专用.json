@@ -55,66 +55,6 @@
 			"filterable": 0
 		},
 		{
-			"key": "drpy_360影视",
-			"name": "🔰丨360 官【🅰️】",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/360ys.js"
-		},
-		{
-			"key": "drpy_腾讯视频",
-			"name": "🐧丨企鹅 官【🅰️】",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/txqq.js"
-		},
-		{
-			"key": "drpy_爱奇艺",
-			"name": "🥝丨奇奇 官【🅰️】",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/iqy.js"
-		},
-		{
-			"key": "drpy_优酷视频",
-			"name": "▶️丨优酷 官【🅰️】",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/youku.js"
-		},
-		{
-			"key": "drpy_芒果TV",
-			"name": "🍋丨芒果 官【🅰️】",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/百忙无果.js"
-		},
-		{
-			"key": "drpy_搜狗视频",
-			"name": "🐶丨搜狗 官【🅰️】",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/sougou.js"
-		},
-		{
 			"key": "哔哩影视",
 			"name": "📺丨哔哩 官【🅱️】",
 			"type": 3,
