@@ -391,15 +391,6 @@
             "ext": "http://yingszj.xn--654a.cc/api.php/app/$$$null$$$1"
         },
         {
-            "key": "boxcj",
-            "name": "🎁BOX ┃ 💠",
-            "type": 1,
-            "api": "http://film.benmx.com/api.php/tvbox",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "快看",
             "name": "👀快看 ┃ 💠",
             "type": 3,
