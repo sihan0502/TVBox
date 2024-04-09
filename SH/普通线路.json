@@ -157,20 +157,6 @@
             "timeout": 25
         },
         {
-            "key":"厂长弹幕版",
-            "name":"🍺厂长 ┃ 🆗",
-            "type": 3,
-            "api":"csp_Czzy",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
-            "ext": {
-                "danmu": true
-            }, 
-            "timeout": 25
-        },
-        {
             "key":"️爱看Bot弹幕版",
             "name":"💖爱看 ┃ 🆗",
             "type": 3,
@@ -268,14 +254,6 @@
             "filterable": 1,
             "timeout": 30,
             "ext": "$$$./lib/yt.json$$$1"
-        },
-        {
-            "key": "蝴蝶",
-            "name": "🦋蝴蝶 ┃ 🅿️",
-            "type": 3,
-            "api": "csp_Hudie",
-            "playerType": 2,
-            "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
         },
         {
             "key": "賤賤",
@@ -458,6 +436,7 @@
                 "分类数组":"hidden-sm hidden-md&&</li>",
                 "分类标题":">&&/a>",
                 "分类ID":"/&&/\""
+	}
 
 },
 	{
