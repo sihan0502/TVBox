@@ -100,49 +100,6 @@
 				"json": "http://127.0.0.1:9978/file/TV/bili.json"
 			}
 		},
-		{
-            "key": "南瓜弹幕版",
-            "name": "🎃南瓜 ┃ 🆗",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10
-        },
-        {
-            "key": "荐片弹幕版",
-            "name": "🐭贱片 ┃ 🆗",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 25
-        },
-        {
-            "key": "天天弹幕版",
-            "name": "⛅️天天 ┃ 🆗",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10
-        },
         {
             "key": "996影院",
             "name": "📚996 ┃ 🆗",
@@ -184,35 +141,6 @@
             "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "timeout": 20
         },
-        {
-            "key": "360弹幕",
-            "name": "🔰360 ┃ 🆗",
-            "type": 3,
-            "api": "csp_Sp360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "style": {
-            "type": "rect",
-            "ratio": 1.597
-            },
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
-            "ext": {
-            "danmu": true
-            }
-        },
-        {
-            "key": "nmys_js",
-            "name": "🌾‍农民 ┃ 🆗",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
-            "filterable": 1,
-            "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
-            "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/nmys.js",
-            "timeout": 15
-        },
 	{
       	    "key": "白票弹幕版",
             "name": "🦄白票 ┃ 🆗",
@@ -243,17 +171,6 @@
             "api": "csp_TTian",
             "playerType": 1,
             "ext": "http://op.ysdqjs.cn$$$null$$$1"
-        },
-        {
-            "key": "Zhuiyitv",
-            "name": "💞追忆 ┃ 🅿️",
-            "type": 3,
-            "api": "csp_Zhuiyitv",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "ext": "$$$./lib/yt.json$$$1"
         },
         {
             "key": "賤賤",
