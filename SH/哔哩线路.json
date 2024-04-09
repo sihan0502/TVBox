@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://maoyingshi.cc/api.php",
-    "spider": "./pg.jar",
+    "spider": "./jar/pg.jar",
     "sites": [
         {
             "key": "哔哩哔哩",
