@@ -1,7 +1,7 @@
 {
 	"wallpaper": "https://d.kstore.space/download/7799/TVBox/SH/壁纸_msw.json",
 
-	"spider": "./pg.jar",
+	"spider": "./jar/pg.jar",
 
 	"sites": [
 
