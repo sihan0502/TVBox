@@ -1115,6 +1115,63 @@
 			"value": "600000000"
 		}]
 	}],
+	 "lives":[
+        {
+            "name":"Ipv4_1",
+            "type":0,
+            "url":"./tv/live.txt",
+            "playerType":1,
+            "ua":"okhttp/3.15",
+            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name":"Ipv4_2",
+            "type":0,
+            "url":"./tv/lives.txt",
+            "playerType":1,
+            "ua":"okhttp/3.15",
+            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name":"ipv6_0",
+            "type":0,
+            "url":"./tv/livesh.txt",
+            "playerType":1,
+            "ua":"okhttp/3.15",
+            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name":"ipv6_1",
+            "type":0,
+            "url":"https://cloud.lxweb.cn/f/qonQue/v6zb.txt",
+            "playerType":1,
+            "ua":"okhttp/3.15",
+            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name":"ipv6_2",
+            "type":0,
+            "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+            "playerType":1,
+            "ua":"okhttp/3.15",
+            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name":"ipv6_3",
+            "type":0,
+            "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "playerType":1,
+            "ua":"okhttp/3.15",
+            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
+
 	 "doh":[
         {
             "name":"Google",
