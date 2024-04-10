@@ -190,6 +190,20 @@
 			"timeout": 25
 		},
 		{
+			"key": "PPTV06",
+			"name": "💞PPTV ┃ ❎",
+			"type": 3,
+			"api": "csp_XBPQ",	
+			"jar":"./jar/XBPQ.jar",
+			"searchable": 1,
+    			"quickSearch": 1,
+    			"filterable": 1,
+			"ext": {
+				"分类url": "https://www.pptv06.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+				"分类": "短剧$5#电影$1#电视剧$2#动漫$4#综艺$3"
+			}
+		},
+		{
 			"key": "端端影视",
 			"name": "🧬端端 ┃ ❎",
 			"type": 3,
@@ -328,19 +342,6 @@
 				"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/",
 				"分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"
 			}
-		},
-		{
-                        "key": "wangfei",
-                        "name": "📡网飞 ┃ ❎",
-                        "type": 3,
-                        "api": "csp_XBPQ",    
-                        "jar":"./jar/xbpq.jar",
-                        "ext": {
-                             "线路数组":"<div class=\"module-tab-item&&</div>[排序:][排序:HN线路>SO线路>KK线路]",
-	      		     "线路标题":"<span>&&</small>[替换:</span><small>>>✮更新]",
-        		     "分类url": "https://www.wangfei.live/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-       			     "分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman#综艺$zongyi#电影解说$dyjs"
-   			}
 		},
 		{
 			"key": "影视大全",
