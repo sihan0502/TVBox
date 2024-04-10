@@ -23,7 +23,7 @@
 			"name": "📺cctv ┃ 🅰️",
 			"type": 3,
 			"api": "./lib/py_cctv_1.py",
-			"searchable": 0,
+			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0
 		},
