@@ -190,6 +190,20 @@
 			"timeout": 25
 		},
 		{
+      			"key": "csp_Vidz",
+      			"name": "♈Vidz ┃ ❎",
+      			"type": 3,
+      			"api": "csp_XBPQ",
+      			"searchable": 1,
+	  		"quickSearch": 1,
+	  		"filterable": 1,
+      			"jar": "./jar/XBPQ.jar",
+      			"ext": {
+        			"分类url":"https://ys.vidz.asia/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}",
+        			"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$21" 
+      			}
+		},
+		{
 			"key": "PPTV06",
 			"name": "💞PPTV ┃ ❎",
 			"type": 3,
