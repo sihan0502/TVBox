@@ -358,10 +358,6 @@
 			"jar": "http://52bsj.vip:81/api/v3/file/get/168078/Yoursmile.zip?sign=R6qPnqaZO1r9RiyTlEuDIna2v13tH-Cu_J9FXAaKgU0%3D%3A0"
 		}
 
-	],
-	"rules": [
-
-	],
-	"parses": [],
-	"flags": []
+	]
+	
 }
