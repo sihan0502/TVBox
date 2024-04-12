@@ -290,6 +290,23 @@
 			}
 		},
 		{
+    			"key": "XBPQ_毒蛇",
+    			"name": "🐍毒蛇 ┃ ❎",
+    			"type": 3,
+    			"api": "csp_XBPQ",
+    			"jar": "./jar/XBPQ.jar",
+   			"ext": {
+        			"数组":"class=\"module-item\">&&</div>",
+        			"图片": "data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]",
+        			"搜索url": "https://dushe5.app/search?os=pc&k={wd}&page={pg}",
+        			"线路数组":"<a&&</a>[排序:蓝光8>蓝光>FF线路]",
+        			"线路标题":"class=\"source-item-label\">&&</span>",
+        			"分类url": "https://dushe5.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+        			"分类": "电影&电视剧&动漫&综艺纪录&短剧",
+        			"分类值": "1&2&3&4&6"
+    			}
+		},
+		{
 			"key": "大师兄",
 			"name": "🦁师兄 ┃ ❎",
 			"type": 3,
