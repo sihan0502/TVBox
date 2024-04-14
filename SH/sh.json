@@ -16,7 +16,7 @@
 		},
 		{
 			"sourceName": "✨云星👀zx❤️‍🔥",
-			"sourceUrl": "http://itvbox.cc/可视仓库",
+			"sourceUrl": "./云星仓库.json",
 			"parse": "{\"danma\": true,\"danma_colors\": [\"#FF0000\",\"#FFD700\",\"#008000\",\"#800080\",\"#00BFFF\",\"#FFA500\",\"#800000\",\"#7CFC00\",\"#808000\",\"#FF00FF\",\"#FFFFFF\"]}"
 		}
 	]
