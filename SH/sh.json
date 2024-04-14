@@ -6,7 +6,7 @@
 		},
 		{
 			"sourceName": "✨无忧👀滴❤️‍🔥",
-			"sourceUrl": "file://TVBox/lib./本地仓库.json",
+			"sourceUrl": "http://127.0.0.1:9978/file/TVBox/lib/本地仓库.json",
 			"parse": "{\"danma\": true,\"danma_colors\": [\"#FF0000\",\"#FFD700\",\"#008000\",\"#800080\",\"#00BFFF\",\"#FFA500\",\"#800000\",\"#7CFC00\",\"#808000\",\"#FF00FF\",\"#FFFFFF\"]}"
 		},
 		{
