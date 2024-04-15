@@ -1,5 +1,4 @@
 {
-    "wallpaper": "http://maoyingshi.cc/api.php",
     "spider": "./jar/pg.jar",
     "sites": [
         {
