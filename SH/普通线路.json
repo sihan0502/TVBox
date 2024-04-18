@@ -681,7 +681,7 @@
 	    "parses":[
 		              {
             		"name": "解析1",
-            		"type": 1,
+            		"type": 0,
             		"url": "https://jx.xyflv.com/?url="
        		 },
  
