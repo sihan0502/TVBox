@@ -679,7 +679,13 @@
 	],
 
 	    "parses":[
-		        {
+		              {
+            		"name": "解析1",
+            		"type": 1,
+            		"url": "https://jx.xyflv.com/?url="
+       		 },
+ 
+		{
 		            "name": "全解🎠", 
 		            "type": 1, 
 		            "url":"http://119.91.123.253:2345/Api/yun.php?url=",
