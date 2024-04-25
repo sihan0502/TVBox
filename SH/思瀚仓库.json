@@ -1,8 +1,8 @@
 {
 "urls": [
-{"url": "./思瀚专用.json","name":"✨思瀚👀网盘❤️‍🔥"},
-{"url": "./普通线路.json","name":"✨思瀚👀普线❤️‍🔥"},
-{"url": "./哔哩线路.json","name":"✨思瀚👀哔哩❤️‍🔥"},
-{"url": "./思瀚娱乐.json","name":"✨思瀚👀娱乐❤️‍🔥"}  
+{"url": "clan://localhost/TVBox/SH/思瀚专用.json","name":"✨思瀚👀网盘❤️‍🔥"},
+{"url": "clan://localhost/TVBox/SH/普通线路.json","name":"✨思瀚👀普线❤️‍🔥"},
+{"url": "clan://localhost/TVBox/SH/哔哩线路.json","name":"✨思瀚👀哔哩❤️‍🔥"},
+{"url": "clan://localhost/TVBox/SH/思瀚娱乐.json","name":"✨思瀚👀娱乐❤️‍🔥"}  
 ]
 }
