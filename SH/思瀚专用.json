@@ -789,6 +789,14 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
+    			"name": "☘️春盈天下☘️",
+    			"type": 0,
+    			"url": "aHR0cDovLzEyMC4yNC4yMDQuNzQ6MTg4OC8/ZXhwbG9yZXIvc2hhcmUvZmlsZSZoYXNoPTNlMTlUZVFvSVJ0eUpwMnZSeG9GdXhqcXV5S25qOFFTaFZEU25uUlBJSmhod28yN1hHMHdtTnVqX2REaDQ4MEpSUSZuYW1lPS8lRTYlOTglQTUlRTclOUIlODglRTUlQTQlQTklRTQlQjglOEIlRTYlOTYlQjBkcy5jc3M=",
+    			"ua": "okhttp/3.15",
+    			"playerType": 1,
+    			"epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+		},
+		{
 			"name": "🍭糖意直播🍭",
 			"type": 0,
 			"url": "https://raw.gitcode.com/tytv/ty2024/raw/main/糖意",
