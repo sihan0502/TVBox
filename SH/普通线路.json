@@ -443,6 +443,19 @@
 			}
 		},
 		{
+    				"key": "狐狸看剧",
+    				"name": "狐狸看剧",
+    				"type": 3,
+    				"api": "csp_XBPQ",
+    				"jar": "./jar/XBPQ.jar",
+    				"ext": {
+        				"简介": "line-height: 20px;\">&&</div>",
+        				"播放数组": "class=\"module-play-list&&</div",
+        				"分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        				"分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
+    				}
+		},
+		{
 			"key": "csp_桵空影院",
 			"name": "🌫桵空 ┃ ❎",
 			"type": 3,
@@ -490,20 +503,7 @@
 			"ext": "",
 			"timeout": 60
 		},
-		{
-    			"key": "狐狸看剧",
-    			"name": "🦊狐狸 ┃ 💠",
-    			"type": 3,
-    			"api": "csp_XBPQ",
-    			"ext": {
-        			"简介": "line-height: 20px;\">&&</div>",
-        			"播放数组": "class=\"module-play-list&&</div",
-        			"分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        			"分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
-    			}
-		},
-
-		{
+                {
 			"key": "鑫鑫影视",
 			"name": "💫鑫鑫 ┃ 💠",
 			"type": 3,
