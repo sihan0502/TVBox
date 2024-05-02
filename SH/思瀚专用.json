@@ -797,12 +797,6 @@
     			"epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
 		},
 		{
-            		"name": "🪐全球直播🪐",
-            		"url": "http://oy.oyxx-1.eu.org/p3p.php",
-            		"epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
-            		"logo": "http://epg.112114.eu.org/logo/{name}.png"
-       		 },
-		 {
 			"name": "🍭糖意直播🍭",
 			"type": 0,
 			"url": "https://raw.gitcode.com/tytv/ty2024/raw/main/糖意",
