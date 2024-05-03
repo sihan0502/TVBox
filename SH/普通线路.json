@@ -476,6 +476,35 @@
             }
         },
         {
+            "key": "https://leshizy.com/",
+            "name": "📺乐视 ┃ ❎",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "timeout": 60,
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "搜索url": "https://www.leshizy1.com//index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
+                "线路标题": "<h1>播放类型：&&</h1>",
+                "播放列表": "class=\"listitems  row\">&&</div>",
+                "搜索模式": "1",
+                "搜索二次截取": "list\":[&&]",
+                "搜索数组": "{&&}",
+                "搜索图片": "pic\"*\"&&\"",
+                "搜索标题": "name\"*\"&&\"",
+                "搜索链接": "https://www.leshizy1.com/index.php/vod/detail/id/+\"id\":&&+.html"
+            }
+        },
+        {
+            "key": "地瓜",
+            "name": "🍠地瓜 ┃ 💠",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://qiqiguai.cn/api.php/app/$$$null$$$1"
+        },
+        {
             "key": "sliu_spider",
             "name": "🍊石榴 ┃ 💠",
             "api": "csp_ShiLiuDY",
