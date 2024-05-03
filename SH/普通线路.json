@@ -483,7 +483,7 @@
             "timeout": 60,
             "jar": "./jar/XBPQ.jar",
             "ext": {
-                "搜索url": "https://www.leshizy1.com//index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
+                "搜索url": "https://www.leshizy1.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
                 "线路标题": "<h1>播放类型：&&</h1>",
                 "播放列表": "class=\"listitems  row\">&&</div>",
                 "搜索模式": "1",
