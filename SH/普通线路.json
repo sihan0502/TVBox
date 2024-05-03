@@ -192,14 +192,6 @@
             "timeout": 60
         },
         {
-            "key": "tvbsk",
-            "name": "🌩️云播 ┃ 🅿️",
-            "type": 3,
-            "api": "csp_Skapp",
-            "playerType": 2,
-            "ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1"
-        },
-        {
             "key": "996影院",
             "name": "📚996 ┃ 🆗",
             "type": 3,
@@ -302,19 +294,6 @@
             "ext": {
                 "分类url": "https://ddys.fun/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
                 "分类": "短剧$21#电影$1#电视剧$2#综艺$4#动漫$3"
-            }
-        },
-        {
-            "key": "皮蛋影视",
-            "name": "🦔皮蛋 ┃ ❎",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "线路数组": "module-tab-item tab-item&&</small>",
-                "搜索url": "https://www.pidanys.vip/index.php/vod/search.html?wd={wd}",
-                "分类url": "https://www.pidanys.vip/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/year/{year}/page/{catePg}.html;;mak",
-                "分类": "电影$1#剧集$2#综艺$3#动漫$4"
             }
         },
         {
@@ -473,19 +452,6 @@
             }
         },
         {
-            "key": "狐狸看剧",
-            "name": "🦊狐狸 ┃ ❎",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "简介": "line-height: 20px;\">&&</div>",
-                "播放数组": "class=\"module-play-list&&</div",
-                "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-                "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
-            }
-        },
-        {
             "key": "csp_桵空影院",
             "name": "🌫桵空 ┃ ❎",
             "type": 3,
@@ -508,17 +474,6 @@
                 "分类标题": ">&&/a>",
                 "分类ID": "/&&/\""
             }
-        },
-        {
-            "key": "地瓜",
-            "name": "🍠地瓜 ┃ 💠",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://www.qiqiguai.cn/api.php/app/$$$null$$$1"
         },
         {
             "key": "sliu_spider",
