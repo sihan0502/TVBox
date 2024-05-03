@@ -365,6 +365,35 @@
 			}
 		},
 		{
+      			"key": "csp_沙雕",
+      			"name": "🦅沙雕 ┃ ❎",
+      			"type": 3,
+      			"api": "csp_XBPQ",
+      			"jar": "./jar/XBPQ.jar",
+      			"ext": {
+        			"分类url":"http://shadiao8.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+        			"分类": "短剧$35#电影$1#电视剧$2#综艺$4#动漫$3" 
+      			}
+		},
+		{
+			"key": "七味在线",
+			"name": "🍸七味 ┃ ❎",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./jar/XBPQ.jar",
+			"ext": {
+			        "搜索url": "https://www.qwavi.com/vs/{wd}----------{catePg}---.html",
+			        "链接":"href=\"&&\"",
+			        "图片":"data-original=\"&&\"",
+			        "播放数组": "<ul&&</ul[不包含:首页]",
+			        "分类二次截取": "<ul&&</ul>",
+			        "分类数组": "<li&&</li>",
+			        "分类标题": ">&&</a",
+			        "分类ID": "/vt/&&.html",
+			        "分类url": "https://www.qwavi.com/ms/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
+			}
+		},
+		{
     			"key": "XBPQ_毒蛇",
     			"name": "🐍毒蛇 ┃ ❎",
 			"type": 3,
