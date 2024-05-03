@@ -154,20 +154,6 @@
             }
         },
         {
-        	"key": "MV",
-        	"name": "🍃 | B站MV | bili",
-        	"type": 3,
-        	"api": "csp_Bili",
-        	"style": {
-        		"type": "rect",
-        		"ratio": 1.597
-        	},
-        	"searchable": 0,
-        	"quickSearch": 0,
-        	"filterable": 1,
-        	"ext": "./bli/哔哩MTV.json"
-        },
-        {
             "key": "4py_bilivd.py",
             "name": "🍃 | B站MTV | bili",
             "type": 3,
