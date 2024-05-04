@@ -154,20 +154,19 @@
             }
         },
         {
-            "key": "4py_bilivd.py",
-            "name": "🍃 | B站MTV | bili",
-            "type": 3,
-            "api": "./bli/py_bilibilivd.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "json": "./bli/哔哩MTV.json",
-                "cookie": "",
-                "categories": "",
-                "type": ""
-            }
+	        "key": "MV",
+	        "name": "🍃 | B站MV | bili",
+	        "type": 3,
+	        "api": "csp_Bili",
+	        "style": {
+		            "type": "rect",
+		            "ratio": 1.597
+	            },
+	        "searchable": 1,
+	        "quickSearch": 1,
+	        "filterable": 1,
+	        "jar": "./jar/fm.jar",
+	        "ext": "./bli/哔哩MTV.json"
         },
         {
             "key": "5py_bilivd.py",
