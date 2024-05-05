@@ -708,7 +708,7 @@
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$./lib/thundershare.txt"
+			"ext": "http://127.0.0.1:9978/file/TV/tokenm.json$$$./lib/thundershare.txt"
 		},
 		{
 			"key": "PikPakShare",
@@ -720,7 +720,7 @@
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "file://TV/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.db.gz",
+			"ext": "http://127.0.0.1:9978/file/TV/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.db.gz",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
