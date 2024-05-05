@@ -608,7 +608,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"
+			"ext": "http://127.0.0.1:9978/file/TV/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"
 		},
 		{
 			"key": "DaPanSo",
