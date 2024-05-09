@@ -340,7 +340,7 @@
     			"searchable": 1,
     			"filterable": 0,
     			"changeable": 0,
-			"jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt"
+			"jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
     			"ext": {
         			"token": "file://TV/ali_token.txt"
     			},
