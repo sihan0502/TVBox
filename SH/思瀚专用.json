@@ -333,6 +333,20 @@
 			"jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt"
 		},
 		{
+    			"key": "Up云搜",
+    			"name": "📌 | U P 搜【☯️】",
+    			"type": 3,
+    			"api": "csp_Upys",
+    			"searchable": 1,
+    			"filterable": 0,
+    			"changeable": 0,
+			"jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt"
+    			"ext": {
+        			"token": "file://TV/ali_token.txt"
+    			},
+    			"timeout": 15
+		},
+		{
 			"key": "老哥网盘弹幕",
 			"name": "🏀 | 爱玩 哥【☯️】",
 			"type": 3,
