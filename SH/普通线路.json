@@ -192,19 +192,6 @@
             "timeout": 60
         },
         {
-            "key": "996影院",
-            "name": "📚996 ┃ 🆗",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 25
-        },
-        {
             "key": "️爱看Bot弹幕版",
             "name": "💖爱看 ┃ 🆗",
             "type": 3,
@@ -231,20 +218,6 @@
             },
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
             "timeout": 20
-        },
-        {
-            "key": "白票弹幕版",
-            "name": "🦄白票 ┃ 🆗",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 25
         },
         {
             "key": "达达龟",
