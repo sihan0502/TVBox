@@ -783,7 +783,23 @@
 		}
 	],
 	"lives": [
-		｛eyAibmFtZSI6ICLinKjmmKXnm4jlpKnkuIvinKgiLCAidHlwZSI6IDAsICJ1cmwiOiAiaHR0cDovLzEyMC4yNC4yMDQuNzQ6MTg4OC8/ZXhwbG9yZXIvc2hhcmUvZmlsZSZoYXNoPThlYWEzWHd0eXd5QWctMDJSOXNJaHdqOGpoVFZpUjQ2YnRIaTdtOTM1cnAwLTZSN3Rac2N1ZnRfVUdCQTJhRnZtdyZuYW1lPS8lRTYlOTglQTUlRTclOUIlODglRTUlQTQlQTklRTQlQjglOEIlRTYlOTYlQjBkcy5jc3MiLCAidWEiOiAib2todHRwLzMuMTUiLCAicGxheWVyVHlwZSI6IDEsICJlcGciOiAiaHR0cHM6Ly93d3cucmVhbGZhbnNsZWFrZWQuc2hvcC9pbmRleC5waHA/aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei8/Y2g9e25hbWV9JmRhdGU9e2RhdGV9In0s},
+		{
+                        "name": "☘️春盈天下☘️",
+                        "type": 0,
+                        "url": "aHR0cDovLzEyMC4yNC4yMDQuNzQ6MTg4OC8/ZXhwbG9yZXIvc2hhcmUvZmlsZSZoYXNoPThlYWEzWHd0eXd5QWctMDJSOXNJaHdqOGpoVFZpUjQ2YnRIaTdtOTM1cnAwLTZSN3Rac2N1ZnRfVUdCQTJhRnZtdyZuYW1lPS8lRTYlOTglQTUlRTclOUIlODglRTUlQTQlQTklRTQlQjglOEIlRTYlOTYlQjBkcy5jc3M=",
+                        "ua": "okhttp/3.15",
+                        "playerType": 1,
+                        "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+		},
+		{
+			"name": "✨无忧直播✨",
+			"type": 0,
+			"url": "./tv/live.txt",
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
 		{
 			"name": "🟢自用直播🟢",
 			"type": 0,
@@ -810,23 +826,6 @@
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "✨无忧直播✨",
-			"type": 0,
-			"url": "./tv/live.txt",
-			"playerType": 1,
-			"ua": "okhttp/3.15",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-                        "name": "☘️春盈天下☘️",
-                        "type": 0,
-                        "url": "aHR0cDovLzEyMC4yNC4yMDQuNzQ6MTg4OC8/ZXhwbG9yZXIvc2hhcmUvZmlsZSZoYXNoPThlYWEzWHd0eXd5QWctMDJSOXNJaHdqOGpoVFZpUjQ2YnRIaTdtOTM1cnAwLTZSN3Rac2N1ZnRfVUdCQTJhRnZtdyZuYW1lPS8lRTYlOTglQTUlRTclOUIlODglRTUlQTQlQTklRTQlQjglOEIlRTYlOTYlQjBkcy5jc3M=",
-                        "ua": "okhttp/3.15",
-                        "playerType": 1,
-                        "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
 		},
 		{
 			"name": "🍭糖意直播🍭",
