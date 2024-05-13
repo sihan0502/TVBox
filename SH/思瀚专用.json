@@ -784,9 +784,9 @@
 	],
 	"lives": [
 		{
-			"name": "🚀IPTV4🚀",
+			"name": "🟢自用直播🟢",
 			"type": 0,
-			"url": "https://7538.kstore.space/88.txt",
+			"url": "./tv/自用直播1.txt",
 			"playerType": 1,
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -820,18 +820,9 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-			"name": "🟢自用直播🟢",
-			"type": 0,
-			"url": "./tv/自用直播1.txt",
-			"playerType": 1,
-			"ua": "okhttp/3.15",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
                         "name": "☘️春盈天下☘️",
                         "type": 0,
-                        "url": "aHR0cDovLzEyMC4yNC4yMDQuNzQ6MTg4OC8/ZXhwbG9yZXIvc2hhcmUvZmlsZSZoYXNoPTNiZTNyNWc4d01WU015aTFxR0F3SmczR25oT2t2a2FMcGY0Z1JWOEJGMDZXWklkb1RCN28wWWc2a2lYemVqRmFkQSZuYW1lPS8lRTYlOTglQTUlRTclOUIlODglRTUlQTQlQTklRTQlQjglOEIlRTYlOTYlQjBkcy5jc3M=",
+                        "url": "aHR0cDovLzEyMC4yNC4yMDQuNzQ6MTg4OC8/ZXhwbG9yZXIvc2hhcmUvZmlsZSZoYXNoPThlYWEzWHd0eXd5QWctMDJSOXNJaHdqOGpoVFZpUjQ2YnRIaTdtOTM1cnAwLTZSN3Rac2N1ZnRfVUdCQTJhRnZtdyZuYW1lPS8lRTYlOTglQTUlRTclOUIlODglRTUlQTQlQTklRTQlQjglOEIlRTYlOTYlQjBkcy5jc3M=",
                         "ua": "okhttp/3.15",
                         "playerType": 1,
                         "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
