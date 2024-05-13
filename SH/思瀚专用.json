@@ -793,15 +793,6 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-			"name": "🚀IPTV🚀",
-			"type": 0,
-			"url": "./tv/live.txt",
-			"playerType": 1,
-			"ua": "okhttp/3.15",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
 			"name": "🚀IPTV-1🚀",
 			"type": 0,
 			"url": "https://cloud.lxweb.cn/f/qonQue/v6zb.txt",
@@ -814,6 +805,15 @@
 			"name": "🚀IPTV-2🚀",
 			"type": 0,
 			"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "✨无忧直播✨",
+			"type": 0,
+			"url": "./tv/live.txt",
 			"playerType": 1,
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
