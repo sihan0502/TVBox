@@ -188,6 +188,7 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
+            "playerType": 1,
             "ext": "./lib/jianpian.json$$$1",
             "timeout": 60
         },
@@ -213,6 +214,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "playerType": 1,
             "ext": {
                 "danmu": true
             },
