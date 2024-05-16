@@ -31,7 +31,7 @@
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
-			"jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
+			"jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;088cef2f88b758b08063a2f3f3ddb08d",
 			"style": {
 				"type": "rect",
 				"ratio": 1
@@ -75,7 +75,7 @@
 			"searchable": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
+			"jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;088cef2f88b758b08063a2f3f3ddb08d",
 			"ext": {
 				"token": "file://TV/ali_token.txt",
 				"cookie": "file://TV/quark_cookie.txt",
