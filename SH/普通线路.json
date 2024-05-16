@@ -222,16 +222,6 @@
             "timeout": 20
         },
         {
-            "key": "影探4K",
-            "name": "🌿影探 ┃ 4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://gvvwvvvvwwwvvvvvvwvwwvwvwvwvwvwvwvwvwvwwvwvwvwvwvwvwvwvvwvwvwvv.lfytyl.com/api.php/app/"
-        },
-        {
             "key": "圣城影视",
             "name": "🏛️圣城 ┃ ❎",
             "type": 3,
@@ -239,7 +229,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/XBPQ.jar"
+            "jar": "./jar/XBPQ.jar",
             "ext": "./lib/sc1080.json"
         },
         {
@@ -247,7 +237,7 @@
             "name": "🐢达达 ┃ ❎",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar"
+            "jar": "./jar/XBPQ.jar",
             "ext": {
                 "分类url": "https://www.dadagui.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
