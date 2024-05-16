@@ -222,6 +222,16 @@
             "timeout": 20
         },
         {
+            "key": "圣城影视",
+            "name": "🏛️圣城 ┃ ❎",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/sc1080.json"
+        },
+        {
             "key": "达达龟",
             "name": "🐢达达 ┃ ❎",
             "type": 3,
