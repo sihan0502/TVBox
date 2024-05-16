@@ -522,6 +522,16 @@
 			"ext": "./lib/tokenm.json"
 		},
 		{
+            		"key": "小鸭2",
+            		"name": "🦆丨小雅 盘【☣️】",
+            		"type": 3,
+            		"api": "http://101.126.71.246:5678/tvbox/libs/alist.min.js",
+            		"searchable": 1,
+            		"quickSearch": 1,
+            		"filterable": 0,
+            		"ext": "http://101.126.71.246:5678/tvbox/json/alist_ext.json;200;video"
+        	},
+		{
 			"key": "影视车",
 			"name": "🛵丨影视 车【☣️】",
 			"type": 3,
