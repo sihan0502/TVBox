@@ -1,6 +1,6 @@
 {
-	"wallpaper_ms": "https://d.kstore.space/download/7799/TVBox/SH/壁纸_msw.json",
-	"wallpaper": "./lib/鞭炮.jpg",
+	"wallpaper_ms": "./壁纸_msw.json",
+	"wallpaper": "./壁纸/鞭炮.jpg",
 
 	"spider": "./jar/pg.jar",
 
