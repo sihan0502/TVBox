@@ -793,15 +793,7 @@
 		}
 	],
 	"lives": [
-		 {
-            		"name": "🛰️春盈直播🛰️",
-            		"type": 0,
-            		"url": "ms_6646f3da0b2d9e69f278cf1e",
-            		"playerType": 1,
-            		"ua": "okhttp/3.15",
-            		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            		"logo": "https://epg.112114.xyz/logo/{name}.png"
-       		},
+		 
 		{
 			"name": "🚀IPTV-1🚀",
 			"type": 0,
@@ -820,6 +812,15 @@
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
+		{
+            		"name": "🛰️春盈直播🛰️",
+            		"type": 0,
+            		"url": "ms_6646f3da0b2d9e69f278cf1e",
+            		"playerType": 1,
+            		"ua": "okhttp/3.15",
+            		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            		"logo": "https://epg.112114.xyz/logo/{name}.png"
+       		},
 		{
                         "name": "☘️春盈天下☘️",
                         "type": 0,
