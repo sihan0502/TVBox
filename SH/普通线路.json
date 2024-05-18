@@ -308,6 +308,43 @@
             }
         },
         {
+            "key": "即看",
+            "name": "👀即看 ┃ ❎",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "简介": "class=\"content_desc full_text clearfix\" style=\"display:none;\">&&收起全集</em>",
+                "数组": "class=\"vodlist_item&&</li>",
+                "图片": "data-background-image=\"&&\"",
+                "副标题": "class=\"xszxj text_right\">&&</span>",
+                "分类二次截取": "class=\"hom_mob_list&&</ul>",
+                "分类数组": "<li&&</li>",
+                "分类标题": ">&&</span",
+                "分类ID": "/tv/&&.html",
+                "分类url": "https://www.jkv.app/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
+            }
+        },
+        {
+            "key": "夕云",
+            "name": "🌤️夕云 ┃ ❎",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "标题": "html\">&&</a>",
+                "副标题": "center\">&&</span>",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "数组": "class=\"mo-paxs-5px&&</li>",
+                "简介": "class=\"mo-paxs-5px mo-ptxs-0px\">&&</div",
+                "线路数组": "class=\"mo-movs-btns&&</a>",
+                "播放数组": "class=\"mo-movs-item&&</ul>",
+                "分类": "电影$20#电视剧$39#动漫$46#综艺$47",
+                "分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"
+            }
+        },
+        {
             "key": "saohuo",
             "name": "🔥骚火 ┃ ❎",
             "type": 3,
