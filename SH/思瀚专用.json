@@ -78,6 +78,7 @@
 			"jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt",
 			"ext": {
 				"token": "file://TV/ali_token.txt",
+				"wogg": true,
 				"cookie": "file://TV/quark_cookie.txt",
 				"filter": "https://already.free.hr/okcaptain/okjar/rm/wogg.json",
 				"danmu": true
@@ -107,7 +108,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
+			"ext": "./lib/tokenm.json$$$https://wogg.link/$$$null$$$1$$$./lib/wogg.json"
 		},
 		{
 			"key": "Wobg",
