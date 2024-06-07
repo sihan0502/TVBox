@@ -97,7 +97,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "json": "./bli/bili.json"
+                "json": "http://127.0.0.1:9978/file/TV/bili.json"
             }
         },
         {
@@ -852,113 +852,6 @@
         }
     ],
     "parses": [
-      {
-      "name": "官解1",
-      "type": 1,
-      "url": "ms_6650342be62a672ee1898733
-",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ]
-      }
-    },
-      {
-      "name": "官解2",
-      "type": 1,
-      "url": "ms_665034a7e62a672ee1898734
-",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ]
-      }
-    },
-      {
-      "name": "官解3",
-      "type": 1,
-      "url": "ms_6650390de62a672ee189876c
-",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ]
-      }
-    },
-      {
-      "name": "官解4",
-      "type": 1,
-      "url": "ms_665039860b2d9e69f279b4c0",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ]
-      }
-    },
         {
             "name": "全源解🎠",
             "type": 1,
@@ -1072,11 +965,6 @@
                     "NetFilx"
                 ]
             }
-        },
-        {
-            "name": "小鱼解🐟",
-            "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="
         },
         {
             "name": "稻香解🌾",
