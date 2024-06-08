@@ -767,16 +767,6 @@
 			"ext": "./lib/tokenm.json$$$./lib/alishare.ebook.txt"
 		},
 		{
-			"key": "csp_zhaifu",
-			"name": "🐾丨宅腐bl【♋】",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-		},
-		{
 			"key": "push_agent",
 			"name": "🛴丨推送 盘【☯️】",
 			"type": 3,
