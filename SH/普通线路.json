@@ -119,6 +119,43 @@
             "changeable": 1,
             "ext": "null$$$1"
         },
+	{
+            "key": "4K影视",
+            "name": "4⃣️K影 ┃ 🌐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "请求头": "",
+                "主页url": "https://www.4kvm.org/",
+                "数组": "<article id=\"post-*\"&&</article>",
+                "图片": "img src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "update\">&&</div>+icon-star2\">&&</div>",
+                "链接": "href=\"&&\"",
+                "简介": "title'>&&</span>+wp-content\">&&</p",
+                "线路二次截取": "",
+                "线路数组": "se-q'>&&</a>",
+                "线路标题": "4K影视专线",
+                "多线数组": "se-q'>&&</a",
+                "多线链接": "href=\"&&\"",
+                "播放二次截取": "playernotice&&</h2>[替换:</span>>>videourls:表题第1集题接\\&mvsource=0接表tables]",
+                "播放数组": "videourls:&&tables[替换:{\"name\":>>表题第#,\"url\":>>集题接\\&source=0\\&ep=#}>>接表]",
+                "播放列表": "表&&表",
+                "播放标题": "题&&题",
+                "播放链接": "接&&接",
+                "播放链接前缀": "https://www.4kvm.org/artplayer?id=+postid-&&\"",
+                "倒序": "0",
+                "影片类型": "sgeneros\">&&</div>",
+                "影片年代": "默认--dateCreated\">*,&&</span>||电影--dateCreated'>*,&&</span>",
+                "导演": "name\">&&</div>",
+                "主演": "默认--演员</h2>&&<div id=\"info||电影--演员</h2>&&分享",
+                "分类url": "https://www.4kvm.org/{cateId}/page/{catePg}/[https://www.4kvm.org/{cateId}/];;r",
+                "分类": "电影&电视剧&美剧&国产剧&韩剧&番剧&热门播放&评风榜",
+                "分类值": "movies&tvshows&classify/meiju&classify/guochan&classify/hanju&classify/fanju&trending&ratings"
+            }
+        },
         {
             "key": "heimuer",
             "name": "🥙木耳 ┃ 🌐",
@@ -341,6 +378,25 @@
                 "播放数组": "class=\"mo-movs-item&&</ul>",
                 "分类": "电影$20#电视剧$39#动漫$46#综艺$47",
                 "分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"
+            }
+        },
+	{
+            "key": "悠云",
+            "name": "⛅悠云 ┃ 🌐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "线路数组": "module-tab-item tab-item\"&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>🍥]+集",
+                "播放数组": "class=\"module-play-list\">&&</div",
+                "播放列表": "<a&&</a",
+                "播放标题": "<span&&</span",
+                "分类url": "https://www.yoyys1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+                "分类二次截取": "class=\"navbar-items&&</ul>",
+                "分类数组": "<li&&</li>",
+                "分类标题": ">&&</span",
+                "分类ID": "/vodtype/&&.html"
             }
         },
         {
