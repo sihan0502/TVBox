@@ -706,6 +706,13 @@
 			"timeout": 600
 		},
 		{
+                        "key": "Local",
+                        "name": "📁丨本机文件【☣️】",
+                        "type": 3,
+                        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+                        "api": "csp_Local"
+                },
+		{
 			"key": "AliShare",
 			"name": "🦊丨阿里分享【☣️】",
 			"type": 3,
