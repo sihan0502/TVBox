@@ -804,7 +804,7 @@
 		{
 			"name": "🚀IPTV-1🚀",
 			"type": 0,
-			"url": "https://cloud.lxweb.cn/f/qonQue/v6zb.txt",
+			"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
 			"playerType": 1,
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
