@@ -156,6 +156,21 @@
                 "分类值": "movies&tvshows&classify/meiju&classify/guochan&classify/hanju&classify/fanju&trending&ratings"
             }
         },
+	{
+            "key": "csp_咖啡影视",
+            "name": "咖啡影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+	    "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+                "播放数组": "module-play-list\">&&</div>",
+                "播放列表": "<a&&</a>",
+                "分类url": "https://cdnbeijin-aliyun-ys1.cfys.xyz/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;rc",
+                "分类": "电影$20#电视剧$21#动漫$23#综艺$22"
+            }
+        },
         {
             "key": "heimuer",
             "name": "🥙木耳 ┃ 🌐",
