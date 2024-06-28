@@ -187,7 +187,6 @@
             "name": "⚛️华为 ┃ 🌐",
             "type": 1,
             "api": "https://hw8.live/api.php/provide/vod/?ac=list",
-            "jar": "./jar/xbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
