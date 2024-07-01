@@ -70,14 +70,6 @@
         "disable_filter": 0
     },
     {
-        "name": "至圣",
-        "url": "https://cj.zhishengyun.top/api.php/provide/vod",
-        "playUrl": "json:https://cj.zhishengyun.top/jx/?url=",
-        "type": "1",
-        "disable_search": 0,
-        "disable_filter": 0
-    },
-    {
         "name": "红牛",
         "url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
         "playUrl": "",
@@ -93,13 +85,6 @@
         "disable_filter": 0
     },
     {
-        "name": "新浪",
-        "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/",
-        "type": "1",
-        "disable_search": 0,
-        "disable_filter": 0
-    },
-    {
         "name": "速播",
         "url": "https://subocaiji.com/api.php/provide/vod/from/subm3u8",
         "type": "1",
@@ -109,13 +94,6 @@
     {
         "name": "飞速",
         "url": "https://www.feisuzy.com/api.php/provide/vod/from/fsm3u8",
-        "type": "1",
-        "disable_search": 0,
-        "disable_filter": 0
-    },
-    {
-        "name": "豪华",
-        "url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
         "type": "1",
         "disable_search": 0,
         "disable_filter": 0
