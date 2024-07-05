@@ -50,19 +50,19 @@
 			"ext": "null$$$1"
 		},
 		{
-			"key": "WoKee_jar_CjGod ",
-			"name": "🥦采集 ┃ 🌐",
-			"type": 3,
-			"api": "csp_CjGod",
-			"searchable": 1,
-			"changeable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			},
-			"jar": "./jar/local.jar",
-			"ext": "./json/cjgod.json"
-		},
+                        "key": "WoKee_jar_CjGod ",
+                        "name": "🥦采集 ┃ 🌐",
+                        "type": 3,
+                        "api": "csp_CjGod",
+                        "searchable": 1,
+                        "changeable": 1,
+                        "style": {
+                              "type": "rect",
+                              "ratio": 1.5
+                        },
+                        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+                        "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/cjgod/cjgod.json"
+                },
 		{
 			"key": "火狐",
 			"name": "🦊火狐 ┃ 🌐",
