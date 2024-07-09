@@ -122,6 +122,22 @@
 			"ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
 		},
 		{
+                        "key": "玩偶",
+                        "name": "👹 | 玩偶饭饭【🍚】",
+                        "type": 3,
+                        "api": "csp_WoGG",
+                        "searchable": 1,
+                        "quickSearch": 1,
+                        "changeable": 0,
+                        "jar": "./jar/fan.txt;md5;fc1b4f17aa8de6068500090f33de88b9",
+                        "ext": {
+                        "Cloud-drive": "tvfan/Cloud-drive.txt",
+                        "from": "4k|auto",
+                        "siteUrl": "https://www.wogg.link/",
+                        "danMu": "弹"
+                        }
+                },
+		{
 			"key": "云盘4k弹幕版",
 			"name": "🌩️丨云盘4K【☯️】",
 			"type": 3,
