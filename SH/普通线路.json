@@ -64,17 +64,6 @@
                         "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/cjgod/cjgod.json"
                 },
 		{
-			"key": "桃子影视",
-			"name": "🍑桃子 ┃ 🌐",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/桃子影视.js"
-		},
-		{
               "key": "桃子",
               "name": "🍑桃子 ┃ 🌐",
               "type": 3,
