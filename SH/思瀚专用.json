@@ -378,6 +378,15 @@
             "timeout": 25
         },
         {
+            "key": "mihdr",
+            "name": "🧉 | 至臻 盘【☣️】",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./lib/tokenm.json$$$https://mihdr.top$$$null$$$1$$$./lib/wogg.json"
+        },
+        {
             "key": "wnlg",
             "name": "🥎丨爱玩 弟【☣️】",
             "type": 3,
@@ -425,15 +434,6 @@
             "filterable": 0,
             "ext": "./lib/tokenm.json$$$satoken=83536a1e-4b96-4a86-96c9-51550ade43fc",
             "timeout": 60
-        },
-        {
-            "key": "mihdr",
-            "name": "🧉 | 至臻 盘【☣️】",
-            "type": 3,
-            "api": "csp_Wobg",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./lib/tokenm.json$$$https://mihdr.top$$$null$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Xpanpan",
