@@ -387,6 +387,15 @@
             "ext": "./lib/tokenm.json$$$https://mihdr.top$$$null$$$1$$$./lib/wogg.json"
         },
         {
+             "key": " csp_趣资源网",
+             "name": "🍄 | 六趣 盘【☣️】",
+             "type": 3,
+             "api": "csp_Wogg",
+             "searchable": 1,
+             "changeable": 1, 
+             "ext": "./lib/tokenm.json$$$https://cms.715d.com$$$null$$$1$$$./lib/wogg.json"
+        },
+        {
             "key": "wnlg",
             "name": "🥎丨爱玩 弟【☣️】",
             "type": 3,
