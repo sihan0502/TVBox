@@ -28,7 +28,7 @@
 		},
 		{
 			"key": "1905",
-			"name": "🍃 | 1905 | py",
+			"name": "🍃 | 1905 | 🅿️",
 			"type": 3,
 			"ext": "",
 			"searchable": 1,
@@ -38,7 +38,7 @@
 		},
 		{
 			"key": "py_cctv",
-			"name": "🍃 | CCTV | py",
+			"name": "🍃 | CCTV | 🅿️",
 			"type": 3,
 			"api": "./lib/cctv.py",
 			"searchable": 0,
