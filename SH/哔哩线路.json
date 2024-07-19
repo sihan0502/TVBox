@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar",
+	"spider": "./jar/fm.jar",
 	"sites": [{
 			"key": "哔哩哔哩",
 			"name": "🍻丨哔哩官源【🅱️】",
