@@ -1,7 +1,6 @@
 {
 	"spider": "./jar/fm.jar",
-	"sites": [
-                {
+	"sites": [{
 			"key": "虎牙直播js",
 			"name": "🍃 | 虎牙直播 | 🐯",
 			"type": 3,
