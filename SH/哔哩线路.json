@@ -57,16 +57,6 @@
 			"ext": "./bli//哔哩合集.json"
 		},
 		{
-			"key": "csp_Bili2",
-			"name": "🍃 | 哔哩合集2 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩合集2.json"
-		},
-		{
 			"key": "舞蹈",
 			"name": "🍃 | 哔哩舞蹈 | 🅱️",
 			"type": 3,
