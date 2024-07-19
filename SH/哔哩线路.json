@@ -197,16 +197,6 @@
 			"ext": "./bli//软件教程.json"
 		},
 		{
-			"key": "歌舞",
-			"name": "🍃 | 印度歌舞 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//印度歌舞.json"
-		},
-		{
 			"key": "csp_Bili幼儿",
 			"name": "📚 | 哔哩幼儿 | 🅱️",
 			"type": 3,
