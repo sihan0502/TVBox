@@ -289,22 +289,6 @@
             "timeout": 25
         },
         {
-            "key": "团长弹幕版",
-            "name": "🎖️丨团长4K【☯️】",
-            "type": 3,
-            "api": "csp_Tzfile",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721215642485/okjpg.txt",
-            "ext": {
-                "token": "file://TV/ali_token.txt",
-                "cookie": "file://TV/quark_cookie.txt",
-                "danmu": true
-            },
-            "timeout": 25
-        },
-        {
             "key": "csp_Qkpanso",
             "name": "🐚丨夸克 搜【☯️】",
             "type": 3,
