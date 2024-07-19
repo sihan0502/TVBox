@@ -53,18 +53,6 @@
             "filterable": 0
         },
         {
-            "key": "哔哩影视",
-            "name": "📺丨哔哩 官【🅱️】",
-            "type": 3,
-            "api": "./bli/py_bilibili_all.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "json": "http://127.0.0.1:9978/file/TV/bili.json"
-            }
-        },
-        {
             "key": "玩偶",
             "name": "👹 | 玩偶饭饭【🍚】",
             "type": 3,
