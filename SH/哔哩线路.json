@@ -3,22 +3,12 @@
 	"sites": [
 		{
 			"key": "py_cctv",
-			"name": "🍃 | CCTV | 🅿️",
+			"name": "🍃 | CCTV | 🇨🇳",
 			"type": 3,
 			"api": "./lib/cctv.py",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0
-		},
-		{
-			"key": "1905",
-			"name": "🍃 | 1905 | 🅿️",
-			"type": 3,
-			"ext": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"api": "./lib/m1905.py"
 		},
 		{
 			"key": "虎牙直播js",
