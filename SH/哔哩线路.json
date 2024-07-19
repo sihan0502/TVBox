@@ -8,6 +8,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2,
+		        "jar"："./jar/pg.jar",
 			"style": {
 				"type": "rect",
 				"ratio": 1.755
