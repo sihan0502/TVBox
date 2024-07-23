@@ -28,7 +28,7 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -76,7 +76,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "wogg": true,
@@ -93,7 +93,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -123,6 +123,23 @@
             "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
         },
         {
+            "key": "立播弹幕版",
+            "name": "🐰丨立播 盘【☯️】",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "uc_cookie": "file://TV/uc_cookie.txt",
+                "danmu": true
+            },
+            "timeout": 30
+        },
+        {
             "key": "云盘4k弹幕版",
             "name": "🌩️丨云盘4K【☯️】",
             "type": 3,
@@ -130,7 +147,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -144,7 +161,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -154,38 +171,47 @@
             "timeout": 25
         },
         {
-            "key": "立播弹幕版",
-            "name": "🐰丨立播 盘【☯️】",
+            "key": "csp_Qkpanso",
+            "name": "🐚丨夸克 盘【☯️】",
             "type": 3,
-            "api": "csp_Libvio",
+            "api": "csp_Qkpanso",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "changeable": 0,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
-                "token": "file://TV/ali_token.txt",
-                "cookie": "file://TV/quark_cookie.txt",
-                "uc_cookie": "file://TV/uc_cookie.txt",
-                "danmu": true
+                "cookie": "file://TV/quark_cookie.txt"
             },
-            "timeout": 30
+            "timeout": 15
         },
         {
-            "key": "运输车弹幕版",
-            "name": "🚚丨运输 车【☯️】",
+            "key": "米搜",
+            "name": "🌾丨米搜 盘【☯️】",
             "type": 3,
-            "api": "csp_Wogg",
+            "api": "csp_Qkpanso",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "changeable": 0,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
-                "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
-                "site": "https://weixine.net/ysc.json",
-                "danmu": true
+                "site": "https://www.misou.fun"
             },
-            "timeout": 25
+            "timeout": 15
+        },
+        {
+            "key": "夸搜",
+            "name": "🚢丨夸搜 盘【☯️】",
+            "type": 3,
+            "api": "csp_Qkso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "ext": {
+                "cookie": "file://TV/quark_cookie.txt"
+            },
+            "timeout": 15
         },
         {
             "key": "土豆网盘弹幕",
@@ -195,7 +221,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -212,7 +238,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -228,7 +254,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -242,7 +268,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -256,7 +282,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -270,7 +296,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -284,7 +310,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -298,7 +324,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt",
                 "danmu": true
@@ -313,7 +339,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt",
                 "danmu": true
@@ -333,7 +359,7 @@
                 "danmu": true
             },
             "timeout": 15,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt"
         },
         {
             "key": "Up云搜",
@@ -343,7 +369,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt"
             },
@@ -357,7 +383,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721650464199/okjpg.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
