@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar",
+    "spider": "https://7211.kstore.space/JAR/pg.jar",
     "sites": [
         {
             "key": "lf_js_search",
