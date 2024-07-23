@@ -332,21 +332,6 @@
             "timeout": 25
         },
         {
-            "key": "csp_Qkpanso",
-            "name": "🐚丨夸克 搜【☯️】",
-            "type": 3,
-            "api": "csp_Qkpanso",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
-            "ext": {
-                "cookie": "file://TV/quark_cookie.txt",
-                "danmu": true
-            },
-            "timeout": 25
-        },
-        {
             "key": "csp_AiPanSou",
             "name": "🥰 | 爱盘 搜【☯️】",
             "type": 3,
@@ -586,17 +571,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://101.126.71.246:5678/tvbox/json/alist_ext.json;200;video"
-        },
-        {
-            "key": "影视车",
-            "name": "🛵丨影视 车【☣️】",
-            "type": 3,
-            "api": "csp_Wogg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$https://weixine.net/ysc.json"
         },
         {
             "key": "Hdhive",
