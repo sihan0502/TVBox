@@ -1,7 +1,7 @@
 {
     "wallpaper_ms": "./壁纸_msw.json",
     "wallpaper": "./lib/鞭炮.jpg",
-    "spider": "./jar/pg.jar",
+    "spider": "https://pan.xccld.com/f/8pZi3/pg.jar",
     "sites": [
         {
             "key": "lf_js_search",
