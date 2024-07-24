@@ -140,6 +140,16 @@
             "timeout": 30
         },
         {
+            "key": "dabaoo",
+            "name": "🤗丨大宝 盘【☯️】",
+            "type": 3,
+            "api": "csp_DaBao",
+            "timeout": 30,
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar"
+        },
+        {
             "key": "云盘4k弹幕版",
             "name": "🌩️丨云盘4K【☯️】",
             "type": 3,
