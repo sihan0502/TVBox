@@ -28,7 +28,7 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -60,7 +60,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+            "jar": "./jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto",
@@ -76,7 +76,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "wogg": true,
@@ -93,7 +93,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -130,7 +130,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -147,7 +147,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -161,7 +161,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -178,7 +178,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt"
             },
@@ -192,7 +192,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt",
                 "site": "https://www.misou.fun"
@@ -207,7 +207,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt"
             },
@@ -221,7 +221,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -238,7 +238,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -254,7 +254,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -268,7 +268,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -282,7 +282,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -296,7 +296,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -310,7 +310,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -324,7 +324,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt",
                 "danmu": true
@@ -344,7 +344,7 @@
                 "danmu": true
             },
             "timeout": 15,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt"
+            "jar": "./jar/okjpg.txt"
         },
         {
             "key": "Up云搜",
@@ -354,7 +354,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt"
             },
@@ -368,7 +368,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
