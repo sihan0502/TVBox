@@ -253,7 +253,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "ext": {
                 "danmu": true
             },
@@ -271,7 +271,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721726098468/okjpg.txt",
+            "jar": "./jar/okjpg.txt",
             "timeout": 20
         },
         {
