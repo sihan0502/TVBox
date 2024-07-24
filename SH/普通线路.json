@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar",
+    "spider": "https://pan.xccld.com/f/8pZi3/pg.jar",
     "sites": [
         {
             "key": "lf_js_search",
@@ -253,7 +253,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "https://pan.xccld.com/f/bnoSm/okjpg.txt",
             "ext": {
                 "danmu": true
             },
@@ -271,7 +271,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./jar/okjpg.txt",
+            "jar": "https://pan.xccld.com/f/bnoSm/okjpg.txt",
             "timeout": 20
         },
         {
