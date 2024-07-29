@@ -395,6 +395,22 @@
             "timeout": 25
         },
         {
+            "key": "115Share",
+            "name": "🌍丨115 盘【☣️】",
+            "type": 3,
+            "api": "csp_P115Share",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 120,
+            "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
             "key": "mihdr",
             "name": "🧉 | 至臻 盘【☣️】",
             "type": 3,
@@ -769,22 +785,6 @@
             "ext": "http://127.0.0.1:9978/file/TV/tokenm.json$$$./lib/thundershare.txt"
         },
         {
-            "key": "115Share",
-            "name": "🐶丨115分享【☣️】",
-            "type": 3,
-            "api": "csp_P115Share",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 0,
-            "timeout": 120,
-            "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-        {
             "key": "AliShareEBook",
             "name": "📚丨阿狸 阅【☣️】",
             "type": 3,
@@ -813,7 +813,7 @@
         {
             "name": "🚀IPTV-1🚀",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
