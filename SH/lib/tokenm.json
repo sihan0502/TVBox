@@ -9,7 +9,7 @@
 "thread_limit":32,
 "is_vip":true,
 "vip_thread_limit":32,
-"vod_flags":"4kz|auto",
+"vod_flags":"4kz|4ko|auto",
 "quark_thread_limit":32,
 "quark_is_vip":false,
 "quark_vip_thread_limit":32,
