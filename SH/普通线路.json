@@ -803,6 +803,11 @@
             "url": "http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="
         },
 	{
+            "name": "4k",
+            "type": 1,
+            "url": "https://ldhz.li0580.com//api/jsonindex.php/?key=aeiwBUFhXzruM4poio&url="
+        },
+	{
             "name": "qq4k",
             "type": 1,
             "url": "https://ldhz.li0580.com/api/jsonindex.php/?key=XoDTtyOvAv6BFMkFGV&url="
