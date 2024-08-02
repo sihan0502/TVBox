@@ -51,7 +51,7 @@
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/cjgod/cjgod.json"
         },
-	{
+        {
             "key": "君离(SP)",
             "name": "💘君离 ┃ 🌐",
             "type": 3,
@@ -89,16 +89,16 @@
             "type": 3,
             "api": "csp_JinPai",
             "searchable": 1,
-              "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
             "quickSearch": 1,
             "changeable": 1
         },
-	{
+        {
             "key": "皮皮虾影视",
             "name": "🦐皮皮虾 ┃ 🌐",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"./jar/XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
             "ext": {
                 "主页url": "http://www.ppxys.vip/",
                 "图片": "data-original=\"&&\"",
@@ -745,7 +745,7 @@
         }
     ],
     "parses": [
-	    {
+        {
             "name": "4k",
             "type": 1,
             "url": "ms_66ac72bd209bbd07d17032b1"
@@ -754,58 +754,6 @@
             "name": "小鱼解🐟",
             "type": 1,
             "url": "http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="
-        },
-        {
-            "name": "全源解🎠",
-            "type": 1,
-            "url": "http://119.91.123.253:2345/Api/yun.php?url=",
-            "ext": {
-                "flag": [
-                    "360",
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                ],
-                "header": {
-                    "User-Agent": "Dart/2.18 (dart:io)"
-                }
-            }
-        },
-        {
-            "name": "官源解🎢",
-            "type": 1,
-            "url": "https://json.湖南省湘剧院.中国/?url="
         },
         {
             "name": "巧技解🐤",
@@ -995,98 +943,6 @@
             },
             "header": {
                 "User-Agent": "Mozilla/5.0"
-            }
-        },
-        {
-            "name": "虾米嗅🦐",
-            "type": 0,
-            "url": "https://jx.xmflv.cc/?url="
-        },
-        {
-            "name": "八零嗅🕵",
-            "type": 0,
-            "url": "https://www.8090.la/8090/?url=",
-            "ext": {
-                "flag": [
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "qq",
-                    "奇艺"
-                ]
-            }
-        },
-        {
-            "name": "夜幕嗅🌃",
-            "type": 0,
-            "url": "https://www.yemu.xyz/?url="
-        },
-        {
-            "name": "免费嗅👃",
-            "type": 0,
-            "url": "https://jx.0ry.cn/?url="
-        },
-        {
-            "name": "无广嗅🤟",
-            "type": 0,
-            "url": "https://jx.m3u8.tv/jiexi/?url=",
-            "ext": {
-                "flag": [
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "qq",
-                    "奇艺"
-                ]
-            }
-        },
-        {
-            "name": "内部嗅⭐️",
-            "type": 0,
-            "url": "https://jx.2s0.cn/player/?url="
-        },
-        {
-            "name": "盘古嗅🌝",
-            "type": 0,
-            "url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="
-        },
-        {
-            "name": "七七嗅🙃",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },
-        {
-            "name": "七新嗅💫",
-            "type": 0,
-            "url": "https://api.52wyb.com/index/?url=",
-            "ext": {
-                "header": {
-                    "referer": "http://www.7xdy.com/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1"
-                },
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "imgo",
-                    "芒果"
-                ]
             }
         }
     ],
@@ -1393,4 +1249,4 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ]
-	    }
+}
