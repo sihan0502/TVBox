@@ -745,6 +745,11 @@
         }
     ],
     "parses": [
+	{
+            "name": "4k",
+            "type": 1,
+            "url": "ms_66ac72bd209bbd07d17032b1"
+        },
         {
             "name": "全源解🎠",
             "type": 1,
@@ -801,11 +806,6 @@
             "name": "小鱼解🐟",
             "type": 1,
             "url": "http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="
-        },
-	{
-            "name": "4k",
-            "type": 1,
-            "url": "ms_66ac72bd209bbd07d17032b1"
         },
 	{
             "name": "甲子",
