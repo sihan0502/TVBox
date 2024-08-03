@@ -419,6 +419,14 @@
             "timeout": 25
         },
         {
+            "key": "TGYunPan",
+            "name": "🎨丨TG 盘【☣️】",
+            "type": 3,
+            "api": "csp_TGYunPan",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$http://144.126.217.226:8000/$$$guaguale115,Aliyundrive_Share_Channel$$$noproxy$$$1"
+        },
+        {
             "key": "115Share",
             "name": "🌍丨115 盘【☣️】",
             "type": 3,
