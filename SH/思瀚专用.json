@@ -450,6 +450,17 @@
             }
         },
         {
+            "key": "Hdhive",
+            "name": "🌐丨影巢 盘【☣️】",
+            "type": 3,
+            "api": "csp_Hdhive",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.hdhive.online/$$$noproxy$$$1"
+        },
+        {
             "key": "mihdr",
             "name": "🧉 | 至臻 盘【☣️】",
             "type": 3,
@@ -477,14 +488,16 @@
             "ext": "./lib/tokenm.json$$$https://tv.yydsys.top$$$null$$$1$$$"
         },
         {
-            "key": "Wolb",
-            "name": "🖌️丨蜡笔 盘【☣️】",
-            "type": 3,
-            "api": "csp_Wobg",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./lib/tokenm.json$$$https://duopan.fun/$$$null$$$1$$$./lib/wogg.json"
-        },
+			"key": "蜡笔网盘",
+			"name": "🖌️丨蜡笔 盘【☣️】",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
+		},
         {
             "key": "YingSo",
             "name": "🌪️ | 影搜 盘【☣️】",
@@ -533,19 +546,19 @@
             "type": 3,
             "api": "csp_Panyq",
             "timeout": 60,
-            "ext": "./lib/tokenm.json"
+            "ext": "./lib/tokenm.json$$$site$$$proxy"
         },
-        {
-            "key": "校长影视",
-            "name": "🔔丨校长 盘【☣️】",
-            "type": 3,
-            "api": "csp_XiaoZhang",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
-        },
+		{
+			"key": "校长影视",
+			"name": "🔔丨校长 盘【☣️】",
+			"type": 3,
+			"api": "csp_XiaoZhang",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
+		},
         {
             "key": "团长资源",
             "name": "✨丨团长 盘【☣️】",
@@ -555,30 +568,38 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$null$$$1"
+            "ext": "./lib/tokenm.json$$$noproxy$$$1"
         },
-        {
-            "key": "Funletu",
-            "name": "🎡丨趣盘 搜【☣️】",
-            "type": 3,
-            "api": "csp_Funletu",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "ext": "./lib/tokenm.json"
-        },
-        {
-            "key": "QuarkPanso",
-            "name": "🔆丨夸克 盘【☣️】",
-            "type": 3,
-            "api": "csp_QuarkPanso",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "ext": "./lib/tokenm.json"
-        },
+		{
+			"key": "Funletu",
+			"name": "🎡丨趣盘 搜【☣️】",
+			"type": 3,
+			"api": "csp_Funletu",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
+		{
+			"key": "QuarkPanso",
+			"name": "🔆丨夸克 盘【☣️】",
+			"type": 3,
+			"api": "csp_QuarkPanso",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
         {
             "key": "ali.lvdoui.top",
             "name": "🥜丨土豆 盘【☣️】",
@@ -607,22 +628,30 @@
             "timeout": 30,
             "ext": "./lib/tokenm.json"
         },
-        {
-            "key": "易搜",
-            "name": "💯丨易搜 盘【☣️】",
-            "type": 3,
-            "api": "csp_YiSo",
-            "timeout": 30,
-            "ext": "./lib/tokenm.json$$$./lib/yiso.txt"
-        },
-        {
-            "key": "混合盘",
-            "name": "💽丨混合 盘【☣️】",
-            "type": 3,
-            "api": "csp_HunHePan",
-            "timeout": 30,
-            "ext": "./lib/tokenm.json"
-        },
+		{
+			"key": "易搜",
+			"name": "💯丨易搜 盘【☣️】",
+			"type": 3,
+			"api": "csp_YiSo",
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$./lib/yiso.txt",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
+		{
+			"key": "混合盘",
+			"name": "💽丨混合 盘【☣️】",
+			"type": 3,
+			"api": "csp_HunHePan",
+			"timeout": 60,
+			"ext": "./lib/tokenm.json",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
         {
             "key": "PanSearch",
             "name": "👀丨盘Se 盘【☣️】",
@@ -631,30 +660,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 30,
-            "ext": "./lib/tokenm.json"
-        },
-        {
-            "key": "Hdhive",
-            "name": "🌐丨影巢 盘【☣️】",
-            "type": 3,
-            "api": "csp_Hdhive",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "ext": "./lib/tokenm.json$$$null$$$1"
-        },
-        {
-            "key": "YunPan",
-            "name": "🌧️丨云 资源【☣️】",
-            "type": 3,
-            "api": "csp_YunPan",
-            "searchable": 1,
-            "changeable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
+            "ext": "./lib/tokenm.json$$$null$$$proxy"
         },
+        {
+			"key": "YunPan",
+			"name": "🌧️丨云 资源【☣️】",
+			"type": 3,
+			"api": "csp_YunPan",
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
+		},
         {
             "key": "YunSo",
             "name": "🌨️丨小云 盘【☣️】",
@@ -699,22 +715,30 @@
             "timeout": 30,
             "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
         },
-        {
-            "key": "88Pan",
-            "name": "🚀丨88 盘【☣️】",
-            "type": 3,
-            "api": "csp_EightEight",
-            "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://662688.xyz"
-        },
-        {
-            "key": "秒搜",
-            "name": "💨丨秒搜 盘【☣️】",
-            "type": 3,
-            "api": "csp_MiaoSou",
-            "timeout": 30,
-            "ext": "./lib/tokenm.json"
-        },
+		{
+			"key": "88Pan",
+			"name": "🚀丨88 盘【☣️】",
+			"type": 3,
+			"api": "csp_EightEight",
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://662688.xyz$$$",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
+		{
+			"key": "秒搜",
+			"name": "💨丨秒搜 盘【☣️】",
+			"type": 3,
+			"api": "csp_MiaoSou",
+			"timeout": 60,
+			"ext": "./lib/tokenm.json",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
         {
             "key": "Panta",
             "name": "⛵丨移动 盘【☣️】",
@@ -766,16 +790,6 @@
             "api": "csp_UpYun",
             "timeout": 30,
             "ext": "./lib/tokenm.json"
-        },
-        {
-            "key": "Meijumi",
-            "name": "♣丨美剧 迷【☣️】",
-            "type": 3,
-            "api": "csp_Meijumi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz$$$null$$$1",
-            "timeout": 600
         },
         {
             "key": "Local",
