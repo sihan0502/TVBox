@@ -363,7 +363,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		subUrl = arr[-1].split('/')
 		maxVideo = subUrl[-1].replace('.m3u8', '')
 		hdUrl = link.replace('main', maxVideo)
-		hdUrl = hdUrl.replace(urlPrefix, 'https://hls.cntv.myalicdn.com')
+		hdUrl = hdUrl.replace(urlPrefix, 'https://hls.cntv.myalicdn.com',1)
 
 		hdRsp = self.TestWebPage(urlStr=hdUrl,header=self.header)
 		if hdRsp == 200:
