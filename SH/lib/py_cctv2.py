@@ -1,6 +1,5 @@
 #coding=utf-8
 #!/usr/bin/python
-import os.path
 import random
 import sys
 sys.path.append('..') 
