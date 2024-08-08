@@ -10,6 +10,14 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
+        },	{
+            "key": "py_cctv1",
+            "name": "📺丨CCTV1【🅰️】",
+            "type": 3,
+            "api": "./lib/py_cctv_1.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
         },
 		{
 			"key": "酷狗",
