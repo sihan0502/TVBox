@@ -360,17 +360,17 @@ class Spider(Spider):  # 元类 默认的元类 type
 		content = html.strip()
 		arr = content.split('\n')
 		urlPrefix = self.get_RegexGetText(Text=link,RegexText='(http[s]?://[a-zA-z0-9.]+)/',Index=1)
-        subUrl = arr[-1].split('/')
-        maxVideo = subUrl[-1].replace('.m3u8', '')
-        hdUrl = link.replace('main', maxVideo)
-        hdUrl = hdUrl.replace(urlPrefix, 'https://newcntv.qcloudcdn.com')
-	hdUrl = hdUrl.replace('https://newcntv.qcloudcdn.com', 'https://hls.cntv.myalicdn.com')
-        hdRsp = self.TestWebPage(urlStr=hdUrl, header=self.header)
-        if hdRsp == 200:
-            url = hdUrl.split('?')[0]
-        else:
-            url = ''
-        return url
+		subUrl = arr[-1].split('/')
+		maxVideo = subUrl[-1].replace('.m3u8', '')
+		hdUrl = link.replace('main', maxVideo)
+		hdUrl = hdUrl.replace(urlPrefix, 'https://hls.cntv.myalicdn.com')
+
+		hdRsp = self.TestWebPage(urlStr=hdUrl,header=self.header)
+		if hdRsp == 200:
+			url = hdUrl
+		else:
+			url=''
+		return url
 	#搜索
 	def get_list_search(self,html,tid):
 		jRoot = json.loads(html)
