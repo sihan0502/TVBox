@@ -6,7 +6,7 @@
             "key": "py_cctv",
             "name": "📺丨CCTV【🅰️】",
             "type": 3,
-            "api": "./lib/py_cctv3.py",
+            "api": "./lib/py_cctv4.py",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
