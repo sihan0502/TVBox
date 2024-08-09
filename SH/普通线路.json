@@ -21,9 +21,9 @@
         },
         {
             "key": "py_cctv",
-            "name": "📺cctv ┃ 🅰️",
+            "name": "📺丨CCTV【🅰️】",
             "type": 3,
-            "api": "./lib/py_cctv_1.py",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/py_cctv_ms.py",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
