@@ -70,7 +70,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723462510172/fan.txt;md5;80004bdf8ea71093c980aa89a7d4e3d9",
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto",
@@ -86,7 +86,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723462510172/fan.txt;md5;80004bdf8ea71093c980aa89a7d4e3d9",
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
@@ -497,16 +497,25 @@
             "ext": "./lib/tokenm.json$$$https://tv.yydsys.top$$$null$$$1$$$"
         },
         {
-			"key": "蜡笔网盘",
-			"name": "🖌️丨蜡笔 盘【☣️】",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
-		},
+   	    "key": "蜡笔网盘",
+	    "name": "🖌️丨蜡笔 盘【☣️】",
+	    "type": 3,
+	    "api": "csp_Wobg",
+	    "quickSearch": 1,
+	    "changeable": 1,
+	    "filterable": 1,
+	    "timeout": 60,
+	    "ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
+	},
+	{
+            "key": "云星",
+            "name": " | 云星 盘【☣️】",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./tokenm.json$$$https://4k.4u4.cn$$$null$$$1$$$./lib/wogg.json"
+        },
         {
             "key": "YingSo",
             "name": "🌪️ | 影搜 盘【☣️】",
