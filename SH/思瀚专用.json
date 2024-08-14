@@ -497,7 +497,7 @@
             "ext": "./lib/tokenm.json$$$https://tv.yydsys.top$$$null$$$1$$$"
         },
         {
-   	    "key": "蜡笔网盘",
+   	    "key": "lbwp",
 	    "name": "🖌️丨蜡笔 盘【☣️】",
 	    "type": 3,
 	    "api": "csp_Wobg",
@@ -509,7 +509,7 @@
 	},
 	{
             "key": "云星",
-            "name": " | 云星 盘【☣️】",
+            "name": "☁️丨云星 盘【☣️】",
             "type": 3,
             "api": "csp_Wobg",
             "searchable": 1,
