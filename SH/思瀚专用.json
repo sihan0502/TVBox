@@ -524,6 +524,15 @@
 			"ext": "./lib/tokenm.json"
 		},
 		{
+                       "key": "奥秘影视",
+                       "name": "Ⓜ️ | 奥秘 盘【☣️】",
+                       "type": 3,
+                       "api": "csp_Wobg",
+                       "searchable": 1,
+                       "changeable": 1,
+                       "ext": "./lib/tokenm.json$$$https://vip.omii.top/$$$null$$$1$$$"
+                },
+		{
 			"key": "Xinshijue",
 			"name": "👁️ | 新视 觉【☣️】",
 			"type": 3,
