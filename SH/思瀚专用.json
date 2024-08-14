@@ -184,6 +184,24 @@
 			"timeout": 25
 		},
 		{
+			"key": "老哥网盘弹幕",
+			"name": "🏀 | 爱玩 哥【☯️】",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"jar": "./jar/okjpg.txt",
+			"ext": {
+				"token": "file://TV/ali_token.txt",
+				"cookie": "file://TV/quark_cookie.txt",
+				"uc_cookie": "file://TV/uc_cookie.txt",
+				"site": "https://tv.yydsys.top",
+				"danmu": true
+			},
+			"timeout": 25
+		},
+		{
 			"key": "csp_Qkpanso",
 			"name": "🐚丨夸克 盘【☯️】",
 			"type": 3,
@@ -374,24 +392,6 @@
 				"token": "file://TV/ali_token.txt"
 			},
 			"timeout": 15
-		},
-		{
-			"key": "老哥网盘弹幕",
-			"name": "🏀 | 爱玩 哥【☯️】",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"jar": "./jar/okjpg.txt",
-			"ext": {
-				"token": "file://TV/ali_token.txt",
-				"cookie": "file://TV/quark_cookie.txt",
-				"uc_cookie": "file://TV/uc_cookie.txt",
-				"site": "https://tv.yydsys.top",
-				"danmu": true
-			},
-			"timeout": 25
 		},
 		{
 			"key": "TGYunPan",
