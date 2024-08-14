@@ -104,6 +104,7 @@
 				"token": "file://TV/ali_token.txt",
 				"wogg": true,
 				"cookie": "file://TV/quark_cookie.txt",
+				"uc_cookie": "file://TV/uc_cookie.txt",
 				"filter": "https://already.free.hr/okcaptain/okjar/rm/wogg.json",
 				"danmu": true
 			}
@@ -120,6 +121,7 @@
 			"ext": {
 				"token": "file://TV/ali_token.txt",
 				"cookie": "file://TV/quark_cookie.txt",
+				"uc_cookie": "file://TV/uc_cookie.txt",
 				"site": "http://wobgg.run-us-west2.goorm.io/",
 				"danmu": true
 			}
@@ -175,6 +177,7 @@
 			"ext": {
 				"token": "file://TV/ali_token.txt",
 				"cookie": "file://TV/quark_cookie.txt",
+				"uc_cookie": "file://TV/uc_cookie.txt",
 				"site": "https://duopan.fun/",
 				"danmu": true
 			},
@@ -206,6 +209,7 @@
 			"ext": {
 				"token": "file://TV/ali_token.txt",
 				"cookie": "file://TV/quark_cookie.txt",
+				"uc_cookie": "file://TV/uc_cookie.txt",
 				"site": "http://www.kxys.网络:7728",
 				"danmu": true
 			},
@@ -266,6 +270,7 @@
 			"ext": {
 				"token": "file://TV/ali_token.txt",
 				"cookie": "file://TV/quark_cookie.txt",
+				"uc_cookie": "file://TV/uc_cookie.txt",
 				"site": "https://tudou.lvdoui.top/",
 				"danmu": true
 			},
@@ -283,6 +288,7 @@
 			"ext": {
 				"token": "file://TV/ali_token.txt",
 				"cookie": "file://TV/quark_cookie.txt",
+				"uc_cookie": "file://TV/uc_cookie.txt",
 				"danmu": true
 			},
 			"timeout": 15
@@ -413,6 +419,7 @@
 			"ext": {
 				"token": "file://TV/ali_token.txt",
 				"cookie": "file://TV/quark_cookie.txt",
+				"uc_cookie": "file://TV/uc_cookie.txt",
 				"site": "https://tv.yydsys.top",
 				"danmu": true
 			},
