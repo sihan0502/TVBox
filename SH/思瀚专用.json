@@ -120,6 +120,7 @@
 			"ext": {
 				"token": "file://TV/ali_token.txt",
 				"cookie": "file://TV/quark_cookie.txt",
+				"site": "http://wobgg.run-us-west2.goorm.io/",
 				"danmu": true
 			}
 		},
@@ -143,7 +144,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
+			"ext": "./lib/tokenm.json$$$http://wobgg.run-us-west2.goorm.io$$$null$$$1$$$./lib/wogg.json"
 		},
 		{
 			"key": "立播弹幕版",
