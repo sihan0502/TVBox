@@ -120,6 +120,7 @@
 			"ext": {
 				"token": "file://TV/ali_token.txt",
 				"cookie": "file://TV/quark_cookie.txt",
+				"site": "http://wobgg.run-us-west2.goorm.io/",
 				"danmu": true
 			}
 		},
