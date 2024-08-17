@@ -150,6 +150,24 @@
             "ext": "./lib/tokenm.json$$$http://wobgg.run-us-west2.goorm.io$$$null$$$1$$$./lib/wogg.json$$$WOBG"
         },
         {
+            "key": "mogg1",
+            "name": "🐯丨木偶 盘【☯️】",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "jar": "./jar/okjpg.txt",
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "uc_cookie": "file://TV/uc_cookie.txt",
+                "site": "http://mogg.top/",
+                "danmu": true
+            },
+            "timeout": 30
+        },
+        {
             "key": "立播弹幕版",
             "name": "🐰丨立播 盘【☯️】",
             "type": 3,
@@ -523,7 +541,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout":60,
-            "ext": "./pgconfig.json$$$http://mogg.top$$$noproxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$http://mogg.top$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "mihdr",
