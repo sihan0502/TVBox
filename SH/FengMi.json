@@ -1,0 +1,284 @@
+{
+    "wallpaper_ms": "./壁纸_msw.json",
+    "wallpaper": "./lib/鞭炮.jpg",
+    "spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+    "sites": [
+        {
+            "key": "lf_js_search",
+            "name": "🍀༺主༒页༻🍀",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 0,
+            "quickSearch": 0,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/lf_search3_domestic_min.js"
+        },
+        {
+            "key": "豆瓣",
+            "name": "🍀️༺豆༒瓣༻🍀",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "./lib/douban.json"
+        },
+        {
+            "key": "ConfigCenter",
+            "name": "👑配置中心👑",
+            "type": 3,
+            "api": "csp_ConfigCenter",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        {
+            "key": "玩偶gg",
+            "name": "👻丨玩偶哥哥【👑】",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json",
+                "siteUrl": "https://www.wogg.bf/",
+                "filter": "./wogg.json"
+            }
+        },
+        {
+            "key": "玩偶 | 蜡笔",
+            "name": "🖍️ | 蜡笔 盘【👑】",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json",
+                "siteUrl": "https://duopan.fun/",
+                "filter": "./wogg.json"
+            }
+        },
+        {
+            "key": "玩偶 | 至臻",
+            "name": "🧉 | 至臻 盘【👑】",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json",
+                "siteUrl": "https://mihdr.top/",
+                "filter": "./wogg.json"
+            }
+        },
+        {
+            "key": "玩偶 | 多多",
+            "name": "🏀 | 多多 盘【👑】",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json",
+                "siteUrl": "https://tv.yydsys.top/",
+                "filter": "./wogg.json"
+            }
+        },
+        {
+            "key": "云星神话",
+            "name": "☁️丨云星 盘【👑】",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json",
+                "siteUrl": "http://4k.4u4.cn/",
+                "filter": "./wogg.json"
+            }
+        },
+        {
+            "key": "网盘6趣",
+            "name": "🍄 | 六趣 盘【👑】",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json",
+                "siteUrl": "http://cms3.715d.com/",
+                "filter": "./wogg.json"
+            }
+        },
+        {
+            "key": "奥秘哥哥",
+            "name": "Ⓜ️ | 奥秘 盘【👑】",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json",
+                "siteUrl": "https://vip.omii.top/",
+                "filter": "./wogg.json"
+            }
+        },
+        {
+            "key": "木偶哥哥",
+            "name": "🪆丨木偶 盘【👑】",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json",
+                "siteUrl": "http://mogg.top/",
+                "filter": "./wogg.json"
+            }
+        },
+        {
+            "key": "土豆网盘",
+            "name": "🥜丨土豆 盘【👑】",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json",
+                "siteUrl": "https://tudou.lvdoui.top/",
+                "filter": "./wogg.json"
+            }
+        },
+        {
+            "key": "表哥网盘",
+            "name": "👿丨玩偶表哥【👑】",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json",
+                "siteUrl": "https://wobgg.run-us-west2.goorm.io/",
+                "filter": "./wogg.json"
+            }
+        },
+        {
+            "key": "星剧社",
+            "name": "⭐丨双子星 盘【👑】",
+            "type": 3,
+            "api": "csp_Star2",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        {
+            "key": "易搜",
+            "name": "💯丨易搜 盘【👑】",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        {
+            "key": "盤搜索",
+            "name": "⭕丨盘搜 盘【👑】",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        {
+            "key": "TgYunPan1",
+            "name": "🔍TgYunPan1 ",
+            "type": 3,
+            "api": "csp_TgYunPan",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "siteUrl": "http://144.126.217.226:8000",
+                "channelUsername": "yunpanshare",
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        {
+            "key": "🔍Tg115云盘",
+            "name": " 🔍TG115云搜",
+            "type": 3,
+            "api": "csp_TgYunPan",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "siteUrl": "http://144.126.217.226:8000",
+                "channelUsername": "https://t.me/Mbox115",
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        {
+            "key": "🔍TgYunPan4",
+            "name": "🔍Tg-Quark",
+            "type": 3,
+            "api": "csp_TgYunPan",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "siteUrl": "http://144.126.217.226:8000",
+                "channelUsername": "Quark_Share_Channel",
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        {
+            "key": "🔍TgYunPan5",
+            "name": "🔍TgYunPan5",
+            "type": 3,
+            "api": "csp_TgYunPan",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "siteUrl": "http://144.126.217.226:8000",
+                "channelUsername": "guaguale115",
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        {
+            "key": "网盘集合",
+            "name": "🌈丨网盘集合【👑】",
+            "type": 3,
+            "api": "csp_网盘集合",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json",
+                "share": "./网盘集合.json"
+            }
+        },
+        {
+            "key": "push_agent",
+            "name": "🛴丨推送 盘【👑】",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "commonConfig": "./peizhi.json"
+            }
+        }
+    ]
+}
