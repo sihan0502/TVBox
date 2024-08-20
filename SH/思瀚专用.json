@@ -45,7 +45,7 @@
         },
         {
             "key": "py_cctv",
-            "name": "📺丨CCTV【🌐】",
+            "name": "📺丨CCTV【🅰️】",
             "type": 3,
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/py_cctv_ms.py",
             "searchable": 1,
@@ -53,18 +53,8 @@
             "filterable": 0
         },
         {
-            "key": "JinPai",
-            "name": "🥇丨金牌【🈴】",
-            "type": 3,
-            "api": "csp_JinPai",
-            "searchable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "drpy_优酷视频",
-            "name": "▶️丨爱优腾芒【🈴】",
+            "name": "▶️丨优酷 官【🅰️】",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
@@ -80,12 +70,26 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723750621533/fan.txt;md5;2d88ca12b97435501ba22ca12ce03d92",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724162869872/fan.txt;md5;5d760b50584f03b3f71c8a6d1c17aa8e",
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto",
                 "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"
+            }
+        },
+        {
+            "key": "抠搜",
+            "name": "🍄 | 抠搜饭饭【🍚】",
+            "type": 3,
+            "api": "csp_KkSs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724162869872/fan.txt;md5;5d760b50584f03b3f71c8a6d1c17aa8e",
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -96,7 +100,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723750621533/fan.txt;md5;2d88ca12b97435501ba22ca12ce03d92",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724162869872/fan.txt;md5;5d760b50584f03b3f71c8a6d1c17aa8e",
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
@@ -550,7 +554,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "changeable": 1,
-            "timeout":60,
+            "timeout": 60,
             "ext": "./lib/tokenm.json$$$http://mogg.top$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
@@ -1183,35 +1187,6 @@
             "type": 1,
             "url": "ms_66ac72bd209bbd07d17032b1"
         },
-            {
-      "name": "🐧4K",
-      "type": 1,
-      "url": "http://www.mpanso.com/woaini.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
         {
             "name": "小鱼解🐟",
             "type": 1,
