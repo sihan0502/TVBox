@@ -44,6 +44,16 @@
             "ext": "./lib/tokenm.json"
         },
         {
+            "key": "JinPai",
+            "name": "🥇┃金牌【🅰️】",
+            "type": 3,
+            "api": "csp_JinPai",
+            "searchable": 1,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "py_cctv",
             "name": "📺丨CCTV【🅰️】",
             "type": 3,
@@ -61,6 +71,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/youku.js"
+        },
+        {
+            "key": "君君",
+            "name": "🚗｜君君4K【🅰️】",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://122.228.85.203:1000/api.php/app/"
         },
         {
             "key": "玩偶",
@@ -669,7 +690,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
+            "ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
         },
         {
             "key": "团长资源",
@@ -1186,7 +1207,22 @@
             "name": "4k",
             "type": 1,
             "url": "ms_66ac72bd209bbd07d17032b1"
+        }, 
+        {
+            "name": "ST4K",
+            "type": 1,
+            "url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
         },
+        {
+            "name": "六趣4k",
+            "type": 1,
+            "url": "http://43.136.41.222:9898/home/api?type=ys&uid=35708&key=adfgjryzFLNORUZ045&url="
+        },
+        {
+            "name": "君君小米",
+            "type": 1,
+            "url": "http://www.mpanso.com/woaini.php?url="
+        },              
         {
             "name": "小鱼解🐟",
             "type": 1,
