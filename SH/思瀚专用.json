@@ -44,8 +44,17 @@
             "ext": "./lib/tokenm.json"
         },
         {
+            "key": "py_cctv",
+            "name": "📺丨CCTV【🌐】",
+            "type": 3,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/py_cctv_ms.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key": "JinPai",
-            "name": "🥇┃金牌【🅰️】",
+            "name": "🥇┃金牌【🌐】",
             "type": 3,
             "api": "csp_JinPai",
             "searchable": 1,
@@ -54,27 +63,8 @@
             "changeable": 1
         },
         {
-            "key": "py_cctv",
-            "name": "📺丨CCTV【🅰️】",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/py_cctv_ms.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "drpy_优酷视频",
-            "name": "▶️丨优酷 官【🅰️】",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/youku.js"
-        },
-        {
             "key": "君君",
-            "name": "🚗｜君君4K【🅰️】",
+            "name": "🍄｜君君【🌐】",
             "playerType": 1,
             "type": 3,
             "api": "csp_AppYsV2",
@@ -82,6 +72,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://122.228.85.203:1000/api.php/app/"
+        },
+        {
+            "key": "drpy_优酷视频",
+            "name": "▶️丨爱优腾芒【🌐】",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/youku.js"
         },
         {
             "key": "玩偶",
@@ -97,34 +97,6 @@
                 "from": "4k|auto",
                 "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"
-            }
-        },
-        {
-            "key": "抠搜",
-            "name": "🍄 | 抠搜饭饭【🍚】",
-            "type": 3,
-            "api": "csp_KkSs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724162869872/fan.txt;md5;5d760b50584f03b3f71c8a6d1c17aa8e",
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "盘他",
-            "name": "🍔 | 盘他饭饭【🍚】",
-            "type": 3,
-            "api": "csp_PanTa",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724162869872/fan.txt;md5;5d760b50584f03b3f71c8a6d1c17aa8e",
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
             }
         },
         {
@@ -328,7 +300,7 @@
         },
         {
             "key": " csp_趣资源网",
-            "name": "🍄 | 六趣 盘【☯️】 ",
+            "name": "🍒 | 六趣 盘【☯️】 ",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -589,7 +561,7 @@
         },
         {
             "key": " csp_趣资源网",
-            "name": "🍄 | 六趣 盘【☣️】",
+            "name": "🍋 | 六趣 盘【☣️】",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
