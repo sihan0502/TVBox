@@ -220,7 +220,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/玩偶[盘].js"
+            "ext": "./zxjs/玩偶哥哥[盘].js"
         },
         {
             "key": "土豆",
@@ -230,7 +230,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/土豆盘.js"
+            "ext": "./zxjs/土豆盘.js"
         },
         {
             "key": "至臻",
@@ -240,17 +240,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/至臻[盘].js"
-        },
-        {
-            "key": "多多",
-            "name": "💠〔多多盘丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./js/多多[盘].js"
+            "ext": "./zxjs/至臻[盘].js"
         },
         {
             "key": "蜡笔",
@@ -260,7 +250,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/蜡笔[盘].js"
+            "ext": "./zxjs/蜡笔[盘].js"
         },
         {
             "key": "云盘[盘]",
@@ -270,47 +260,17 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/云盘[盘].js"
+            "ext": "./zxjs/云盘资源网[盘].js"
         },
         {
             "key": "七七[盘]",
-            "name": "💠〔七七 丨JS™〕",
+            "name": "💠〔七七网盘丨JS™〕",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/七七盘.js"
-        },
-        {
-            "key": "双子盘",
-            "name": "💠〔双子星 搜丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./js/双子星.js"
-        },
-        {
-            "key": "小兔盘",
-            "name": "💠〔小兔盘 搜丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./js/小兔盘.js"
-        },
-        {
-            "key": "鸡盒盘",
-            "name": "💠〔鸡盒盘 搜丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./js/鸡盒盘.js"
+            "ext": "./zxjs/七七盘.js"
         },
         {
             "key": "钛聚盘",
@@ -320,27 +280,37 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/钛聚盘.js"
+            "ext": "./zxjs/钛聚盘.js"
+        },
+        {
+            "key": "tgso盘",
+            "name": "💠〔TGSO 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/tgso.js"
+        },
+        {
+            "key": "易搜网盘",
+            "name": "💠〔易搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/易搜[盘].js"
         },
         {
             "key": "drpy_js_esoua",
-            "name": "💠〔爱搜丨JS™〕",
+            "name": "💠〔爱盘 搜丨JS™〕",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/爱搜.js"
-        },
-        {
-            "key": "狗狗盘",
-            "name": "💠〔狗狗盘 搜丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./js/狗狗盘.js"
+            "ext": "./zxjs/爱搜.js"
         },
         {
             "key": "全盘",
@@ -350,27 +320,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/全盘搜.js"
-        },
-        {
-            "key": "快盘搜",
-            "name": "💠〔快盘 搜丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./js/快盘搜.js"
-        },
-        {
-            "key": "卡帕阿里盘",
-            "name": "💠〔卡帕阿里 搜丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./js/卡帕阿里.js"
+            "ext": "./zxjs/全盘搜.js"
         },
         {
             "key": "夸克饺子盘",
@@ -380,7 +330,107 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/饺子夸克.js"
+            "ext": "./zxjs/饺子夸克.js"
+        },
+        {
+            "key": "快盘搜",
+            "name": "💠〔快盘 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/快盘搜.js"
+        },
+        {
+            "key": "米搜",
+            "name": "💠〔小米 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/小米盘.js"
+        },
+        {
+            "key": "小站搜",
+            "name": "💠〔小站 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/小站盘[搜].js"
+        },
+        {
+            "key": "影搜",
+            "name": "💠〔影搜 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/影搜[搜].js"
+        },
+        {
+            "key": "AQ",
+            "name": "💠〔AQ 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/AQ影视.js"
+        },
+        {
+            "key": "drpy_js_sousou",
+            "name": "💠〔搜搜盘 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/搜搜盘.js"
+        },
+        {
+            "key": "双子盘",
+            "name": "💠〔双子星 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/双子星.js"
+        },        
+        {
+            "key": "小兔盘",
+            "name": "💠〔小兔盘 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/小兔盘.js"
+        },
+        {
+            "key": "鸡盒盘",
+            "name": "💠〔鸡盒盘 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/鸡盒盘.js"
+        },
+        {
+            "key": "小盘盘",
+            "name": "💠〔小盘盘 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/小盘盘.js"
         },
         {
             "key": "兔兔盘",
@@ -390,7 +440,17 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/兔兔盘.js"
+            "ext": "./zxjs/兔兔盘.js"
+        },
+        {
+            "key": "卡帕阿里盘",
+            "name": "💠〔卡帕阿里 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/卡帕阿里.js"
         },
         {
             "key": "卡帕夸克盘",
@@ -400,57 +460,17 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/卡帕夸克.js"
+            "ext": "./zxjs/卡帕夸克.js"
         },
         {
-            "key": "drpy_js_sousou",
-            "name": "💠〔搜搜丨JS™〕",
+            "key": "爱看短剧",
+            "name": "💠〔爱看短剧丨JS™〕",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/搜搜盘.js"
-        },
-        {
-            "key": "米搜",
-            "name": "💠〔小米搜丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./js/小米盘.js"
-        },
-        {
-            "key": "小站搜",
-            "name": "💠〔小站搜丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./js/小站盘[搜].js"
-        },
-        {
-            "key": "影搜",
-            "name": "💠〔影搜丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./js/影搜[搜].js"
-        },
-        {
-            "key": "AQ",
-            "name": "💠〔AQ搜丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./js/AQ影视.js"
+            "ext": "./zxjs/爱看短剧[盘].js"
         },
         {
             "key": "Local",
@@ -463,16 +483,6 @@
             "filterable": 1
         },
         {
-            "key": "dabaoo",
-            "name": "🤗丨大宝 盘【👑】",
-            "type": 3,
-            "api": "csp_DaBao",
-            "timeout": 30,
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar"
-        },
-        {
             "key": "push_agent",
             "name": "🛴丨推送 盘【👑】",
             "type": 3,
@@ -481,7 +491,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./lib/peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         }
     ]
