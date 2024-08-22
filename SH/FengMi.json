@@ -40,20 +40,20 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+            "commonConfig": "./json/peizhi.json"
                 "siteUrl": "https://www.wogg.bf/",
                 "filter": "./json/wogg.json"
             }
         },
         {
-            "key": "玩偶 | 蜡笔",
+            "key": "玩偶蜡笔",
             "name": "🖍️ | 蜡笔 盘【👑】",
             "type": 3,
             "api": "csp_kongbai",
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+            "commonConfig": "./json/peizhi.json"
                 "siteUrl": "https://duopan.fun/",
                 "filter": "./json/wogg.json"
             }
@@ -66,7 +66,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+            "commonConfig": "./json/peizhi.json"
                 "siteUrl": "https://mihdr.top/",
                 "filter": "./json/wogg.json"
             }
@@ -79,7 +79,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+            "commonConfig": "./json/peizhi.json"
                 "siteUrl": "https://tv.yydsys.top/",
                 "filter": "./json/wogg.json"
             }
@@ -92,7 +92,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+            "commonConfig": "./json/peizhi.json"
                 "siteUrl": "http://4k.4u4.cn/",
                 "filter": "./json/wogg.json"
             }
@@ -105,8 +105,8 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
-                "siteUrl": "http://cms3.715d.com/",
+            "commonConfig": "./json/peizhi.json"
+                "siteUrl": "http://43.136.41.222:2333/",
                 "filter": "./json/wogg.json"
             }
         },
@@ -118,7 +118,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+            "commonConfig": "./json/peizhi.json"
                 "siteUrl": "https://vip.omii.top/",
                 "filter": "./json/wogg.json"
             }
@@ -131,7 +131,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+            "commonConfig": "./json/peizhi.json"
                 "siteUrl": "http://mogg.top/",
                 "filter": "./json/wogg.json"
             }
@@ -145,7 +145,7 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+            "commonConfig": "./json/peizhi.json"
                 "siteUrl": "https://tudou.lvdoui.top/",
                 "filter": "./json/wogg.json"
             }
@@ -159,21 +159,21 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+            "commonConfig": "./json/peizhi.json"
                 "siteUrl": "https://wobgg.run-us-west2.goorm.io/",
                 "filter": "./json/wogg.json"
             }
         },
         {
             "key": "星剧社",
-            "name": "⭐丨双子星 盘【👑】",
+            "name": "⭐丨星剧社 搜【👑】",
             "type": 3,
             "api": "csp_Star2",
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./lib/peizhi.json"
             }
         },
         {
@@ -185,7 +185,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./lib/peizhi.json"
             }
         },
         {
@@ -196,63 +196,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json"
-            }
-        },
-        {
-            "key": "TgYunPan1",
-            "name": "🔍TgYunPan1 ",
-            "type": 3,
-            "api": "csp_TgYunPan",
-            "searchable": 1,
-            "filterable": 0,
-            "switchable": 0,
-            "ext": {
-                "siteUrl": "http://144.126.217.226:8000",
-                "channelUsername": "yunpanshare",
-                "commonConfig": "./json/peizhi.json"
-            }
-        },
-        {
-            "key": "🔍Tg115云盘",
-            "name": " 🔍TG115云搜",
-            "type": 3,
-            "api": "csp_TgYunPan",
-            "searchable": 1,
-            "filterable": 0,
-            "switchable": 0,
-            "ext": {
-                "siteUrl": "http://144.126.217.226:8000",
-                "channelUsername": "https://t.me/Mbox115",
-                "commonConfig": "./json/peizhi.json"
-            }
-        },
-        {
-            "key": "🔍TgYunPan4",
-            "name": "🔍Tg-Quark",
-            "type": 3,
-            "api": "csp_TgYunPan",
-            "searchable": 1,
-            "filterable": 0,
-            "switchable": 0,
-            "ext": {
-                "siteUrl": "http://144.126.217.226:8000",
-                "channelUsername": "Quark_Share_Channel",
-                "commonConfig": "./json/peizhi.json"
-            }
-        },
-        {
-            "key": "🔍TgYunPan5",
-            "name": "🔍TgYunPan5",
-            "type": 3,
-            "api": "csp_TgYunPan",
-            "searchable": 1,
-            "filterable": 0,
-            "switchable": 0,
-            "ext": {
-                "siteUrl": "http://144.126.217.226:8000",
-                "channelUsername": "guaguale115",
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./lib/peizhi.json"
             }
         },
         {
@@ -264,9 +208,269 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+            "commonConfig": "./json/peizhi.json"
                 "share": "./json/网盘集合.json"
             }
+        },
+        {
+            "key": "玩偶哥哥",
+            "name": "💠〔玩偶哥哥丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/玩偶[盘].js"
+        },
+        {
+            "key": "土豆",
+            "name": "💠〔土豆盘丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/土豆盘.js"
+        },
+        {
+            "key": "至臻",
+            "name": "💠〔至臻盘丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/至臻[盘].js"
+        },
+        {
+            "key": "多多",
+            "name": "💠〔多多盘丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/多多[盘].js"
+        },
+        {
+            "key": "蜡笔",
+            "name": "💠〔蜡笔盘丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/蜡笔[盘].js"
+        },
+        {
+            "key": "云盘[盘]",
+            "name": "💠〔云盘资源丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/云盘[盘].js"
+        },
+        {
+            "key": "七七[盘]",
+            "name": "💠〔七七 丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/七七盘.js"
+        },
+        {
+            "key": "双子盘",
+            "name": "💠〔双子星 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/双子星.js"
+        },
+        {
+            "key": "小兔盘",
+            "name": "💠〔小兔盘 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/小兔盘.js"
+        },
+        {
+            "key": "鸡盒盘",
+            "name": "💠〔鸡盒盘 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/鸡盒盘.js"
+        },
+        {
+            "key": "钛聚盘",
+            "name": "💠〔钛聚盘 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/钛聚盘.js"
+        },
+        {
+            "key": "drpy_js_esoua",
+            "name": "💠〔爱搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/爱搜.js"
+        },
+        {
+            "key": "狗狗盘",
+            "name": "💠〔狗狗盘 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/狗狗盘.js"
+        },
+        {
+            "key": "全盘",
+            "name": "💠〔全盘 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/全盘搜.js"
+        },
+        {
+            "key": "快盘搜",
+            "name": "💠〔快盘 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/快盘搜.js"
+        },
+        {
+            "key": "卡帕阿里盘",
+            "name": "💠〔卡帕阿里 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/卡帕阿里.js"
+        },
+        {
+            "key": "夸克饺子盘",
+            "name": "💠〔饺子 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/饺子夸克.js"
+        },
+        {
+            "key": "兔兔盘",
+            "name": "💠〔兔兔盘 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/兔兔盘.js"
+        },
+        {
+            "key": "卡帕夸克盘",
+            "name": "💠〔卡帕夸克 搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/卡帕夸克.js"
+        },
+        {
+            "key": "drpy_js_sousou",
+            "name": "💠〔搜搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/搜搜盘.js"
+        },
+        {
+            "key": "米搜",
+            "name": "💠〔小米搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/小米盘.js"
+        },
+        {
+            "key": "小站搜",
+            "name": "💠〔小站搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/小站盘[搜].js"
+        },
+        {
+            "key": "影搜",
+            "name": "💠〔影搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/影搜[搜].js"
+        },
+        {
+            "key": "AQ",
+            "name": "💠〔AQ搜丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./js/AQ影视.js"
+        },
+        {
+            "key": "Local",
+            "name": "📄丨本地文件【👑】",
+            "type": 3,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "api": "csp_Local",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "dabaoo",
+            "name": "🤗丨大宝 盘【👑】",
+            "type": 3,
+            "api": "csp_DaBao",
+            "timeout": 30,
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar"
         },
         {
             "key": "push_agent",
@@ -277,7 +481,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./lib/peizhi.json"
             }
         }
     ]
