@@ -40,7 +40,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-            "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://www.wogg.bf/",
                 "filter": "./json/wogg.json"
             }
@@ -53,7 +53,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-            "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://duopan.fun/",
                 "filter": "./json/wogg.json"
             }
@@ -66,7 +66,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-            "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://mihdr.top/",
                 "filter": "./json/wogg.json"
             }
@@ -79,7 +79,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-            "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://tv.yydsys.top/",
                 "filter": "./json/wogg.json"
             }
@@ -92,7 +92,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-            "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "http://4k.4u4.cn/",
                 "filter": "./json/wogg.json"
             }
@@ -105,7 +105,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-            "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "http://43.136.41.222:2333/",
                 "filter": "./json/wogg.json"
             }
@@ -118,7 +118,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-            "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://vip.omii.top/",
                 "filter": "./json/wogg.json"
             }
@@ -131,7 +131,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-            "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "http://mogg.top/",
                 "filter": "./json/wogg.json"
             }
@@ -145,7 +145,7 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-            "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://tudou.lvdoui.top/",
                 "filter": "./json/wogg.json"
             }
@@ -159,7 +159,7 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-            "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://wobgg.run-us-west2.goorm.io/",
                 "filter": "./json/wogg.json"
             }
@@ -173,7 +173,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./lib/peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -185,7 +185,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./lib/peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -196,7 +196,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./lib/peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -208,7 +208,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-            "commonConfig": "./json/peizhi.json"
+                "commonConfig": "./json/peizhi.json",
                 "share": "./json/网盘集合.json"
             }
         },
