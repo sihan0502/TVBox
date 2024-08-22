@@ -300,7 +300,7 @@
         },
         {
             "key": " csp_趣资源网",
-            "name": "🍄 | 六趣 盘【☯️】 ",
+            "name": "🍒 | 六趣 盘【☯️】 ",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -561,7 +561,7 @@
         },
         {
             "key": " csp_趣资源网",
-            "name": "🍄 | 六趣 盘【☣️】",
+            "name": "🍊 | 六趣 盘【☣️】",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -967,16 +967,16 @@
     ],
     "lives": [
         {
-            "name": "🚀IPTV-1🚀",
+            "name": "🚀APTV🚀",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "🚀IPTV-2🚀",
+            "name": "🚀IPTV🚀",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "playerType": 1,
