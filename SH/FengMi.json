@@ -1,7 +1,7 @@
 {
     "wallpaper_ms": "./壁纸_msw.json",
     "wallpaper": "./lib/鞭炮.jpg",
-    "spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+    "spider": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
     "sites": [
         {
             "key": "lf_js_search",
@@ -29,7 +29,7 @@
             "searchable": 0,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -40,9 +40,9 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://www.wogg.bf/",
-                "filter": "./wogg.json"
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -53,9 +53,9 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://duopan.fun/",
-                "filter": "./wogg.json"
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -66,9 +66,9 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://mihdr.top/",
-                "filter": "./wogg.json"
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -79,9 +79,9 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://tv.yydsys.top/",
-                "filter": "./wogg.json"
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -92,9 +92,9 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "http://4k.4u4.cn/",
-                "filter": "./wogg.json"
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -105,9 +105,9 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "http://cms3.715d.com/",
-                "filter": "./wogg.json"
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -118,9 +118,9 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://vip.omii.top/",
-                "filter": "./wogg.json"
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -131,9 +131,9 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "http://mogg.top/",
-                "filter": "./wogg.json"
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -145,9 +145,9 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://tudou.lvdoui.top/",
-                "filter": "./wogg.json"
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -159,9 +159,9 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://wobgg.run-us-west2.goorm.io/",
-                "filter": "./wogg.json"
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -173,7 +173,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -185,7 +185,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -196,7 +196,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -210,7 +210,7 @@
             "ext": {
                 "siteUrl": "http://144.126.217.226:8000",
                 "channelUsername": "yunpanshare",
-                "commonConfig": "./peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -224,7 +224,7 @@
             "ext": {
                 "siteUrl": "http://144.126.217.226:8000",
                 "channelUsername": "https://t.me/Mbox115",
-                "commonConfig": "./peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -238,7 +238,7 @@
             "ext": {
                 "siteUrl": "http://144.126.217.226:8000",
                 "channelUsername": "Quark_Share_Channel",
-                "commonConfig": "./peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -252,7 +252,7 @@
             "ext": {
                 "siteUrl": "http://144.126.217.226:8000",
                 "channelUsername": "guaguale115",
-                "commonConfig": "./peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -264,8 +264,8 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json",
-                "share": "./网盘集合.json"
+                "commonConfig": "./json/peizhi.json",
+                "share": "./json/网盘集合.json"
             }
         },
         {
@@ -277,7 +277,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         }
     ]
