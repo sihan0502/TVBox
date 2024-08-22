@@ -1,7 +1,7 @@
 {
     "wallpaper_ms": "./壁纸_msw.json",
     "wallpaper": "./lib/鞭炮.jpg",
-    "spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+    "spider": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
     "sites": [
         {
             "key": "lf_js_search",
@@ -264,7 +264,7 @@
         },
         {
             "key": "云盘[盘]",
-            "name": "💠〔云盘资源 搜丨JS™〕",
+            "name": "💠〔云盘资源丨JS™〕",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
@@ -274,7 +274,7 @@
         },
         {
             "key": "七七[盘]",
-            "name": "💠〔七七 搜丨JS™〕",
+            "name": "💠〔七七 丨JS™〕",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
