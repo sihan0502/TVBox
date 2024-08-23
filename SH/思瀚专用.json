@@ -53,6 +53,16 @@
             "filterable": 0
         },
         {
+            "key": "JinPai",
+            "name": "🥇┃金牌【🌐】",
+            "type": 3,
+            "api": "csp_JinPai",
+            "searchable": 1,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "py_emby",
             "name": "🏵️丨公益【🌐】",
             "type": 3,
@@ -66,16 +76,6 @@
                 "password": "gcx110120130",
                 "thread": 0
             },
-            "changeable": 1
-        },
-        {
-            "key": "JinPai",
-            "name": "🥇┃金牌【🌐】",
-            "type": 3,
-            "api": "csp_JinPai",
-            "searchable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
-            "quickSearch": 1,
             "changeable": 1
         },
         {
@@ -159,7 +159,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+            "ext": "./lib/tokenm.json$$$https://wogg.888484.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
         },
         {
             "key": "Wobg",
@@ -316,7 +316,7 @@
         },
         {
             "key": " csp_趣资源网",
-            "name": "🍒 | 六趣 盘【☯️】 ",
+            "name": "🍄 | 六趣 盘【☯️】 ",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -577,7 +577,7 @@
         },
         {
             "key": " csp_趣资源网",
-            "name": "🍊 | 六趣 盘【☣️】",
+            "name": "🍄 | 六趣 盘【☣️】",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -1197,6 +1197,11 @@
             "url": "ms_66ac72bd209bbd07d17032b1"
         },
         {
+            "name": "4k2",
+            "type": 1,
+            "url": "ms_66c8429c463c2d675ffa8bb3"
+        },
+        {
             "name": "Tx4K",
             "type": 1,
             "url": "http://198.44.173.91:1234/lol/json.php?url="
@@ -1205,16 +1210,6 @@
             "name": "ST4K",
             "type": 1,
             "url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
-        },
-        {
-            "name": "六趣4k",
-            "type": 1,
-            "url": "https://jx.6qu.cc/api/?key=3aqIbRsp76Qxw7yXc9&url="
-        },
-        {
-            "name": "君君小米",
-            "type": 1,
-            "url": "http://www.mpanso.com/woaini.php?url="
         },
         {
             "name": "小鱼解🐟",
