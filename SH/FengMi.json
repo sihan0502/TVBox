@@ -220,7 +220,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./zxjs/玩偶哥哥[盘].js"
+            "ext": "./zxjs/玩偶哥哥.js"
         },
         {
             "key": "土豆",
@@ -260,7 +260,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./zxjs/云盘资源网[盘].js"
+            "ext": "./zxjs/云盘资源网.js"
         },
         {
             "key": "七七[盘]",
@@ -281,17 +281,7 @@
             "changeable": 1,
             "timeout": 60,
             "ext": "./zxjs/钛聚盘.js"
-        },
-        {
-            "key": "tgso盘",
-            "name": "💠〔TGSO 搜丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./zxjs/tgso.js"
-        },
+        },       
         {
             "key": "易搜网盘",
             "name": "💠〔易搜丨JS™〕",
@@ -361,17 +351,7 @@
             "changeable": 1,
             "timeout": 60,
             "ext": "./zxjs/小站盘[搜].js"
-        },
-        {
-            "key": "影搜",
-            "name": "💠〔影搜 搜丨JS™〕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "./zxjs/影搜[搜].js"
-        },
+        },       
         {
             "key": "AQ",
             "name": "💠〔AQ 搜丨JS™〕",
