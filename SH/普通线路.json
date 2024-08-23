@@ -32,10 +32,10 @@
             "key": "NanGua",
             "name": "🎃南瓜 ┃ 🌐",
             "type": 3,
-            "api": "csp_NanGua",
+            "api": "csp_Nangua",
             "searchable": 1,
             "changeable": 1,
-            "ext": "null$$$1"
+            "jar": "./jar/okjpg.txt"
         },
         {
             "key": "WoKee_jar_CjGod ",
