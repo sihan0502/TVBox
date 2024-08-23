@@ -53,6 +53,22 @@
             "filterable": 0
         },
         {
+            "key": "py_emby",
+            "name": "🏵️丨公益【🌐】",
+            "type": 3,
+            "api": "./py/py_emby_new.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "server": "https://emby.aca.best:443",
+                "username": "gcx110120130",
+                "password": "gcx110120130",
+                "thread": 0
+            },
+            "changeable": 1
+        },
+        {
             "key": "JinPai",
             "name": "🥇┃金牌【🌐】",
             "type": 3,
