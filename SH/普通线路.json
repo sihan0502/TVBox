@@ -52,38 +52,6 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/cjgod/cjgod.json"
         },
         {
-            "key": "君离(SP)",
-            "name": "💘君离 ┃ 🌐",
-            "type": 3,
-            "api": "csp_AppSk",
-            "jar": "http://tipu.xjqxz.top/box/sk.jar",
-            "ext": {
-                "SiteUrl": "http://sk.jlzj.xyz/app.txt",
-                "域名匹配": [
-                    ".txt",
-                    ".json"
-                ],
-                "授权验证": true,
-                "验证信息": {
-                    "Post": {
-                        "sign": "a758867cf74d7677533ec6c82f15ca76"
-                    },
-                    "BuildCk": true,
-                    "CkFormat": "%s##5483##%s##ckzmbc",
-                    "AesKey": "ygcnbcrvaervztmw",
-                    "AesIv": "1212164105143708"
-                },
-                "AesKey": "ygcnbclnqzsmebxd",
-                "AesIv": "8249692684143708",
-                "线路排序": "APP专用->APP备用->APP备用2->APP备用3->APP备用4->APP备用5",
-                "分类过滤": [
-                    "短剧",
-                    "体育",
-                    "解说"
-                ]
-            }
-        },
-        {
             "key": "JinPai",
             "name": "🥇金牌 ┃ 🌐",
             "type": 3,
@@ -92,25 +60,6 @@
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "皮皮虾影视",
-            "name": "🦐皮皮虾 ┃ 🌐",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "主页url": "http://www.ppxys.vip/",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "副标题": "class=\"module-item-note\">&&</div>",
-                "链接": "href=\"&&\"",
-                "简介": "视频剧情简介:,&&",
-                "线路数组": "class=\"swiper-slide module-tab-item tab-item&&</small>",
-                "线路标题": ">&&<small",
-                "分类url": "http://www.ppxys.vip/s/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/2024.html",
-                "分类": "剧集$1#电影$2#动漫$3#综艺$4"
-            }
         },
         {
             "key": "火狐",
@@ -157,21 +106,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.gs4x7nq4.com"
-        },
-        {
-            "key": "csp_咖啡影视",
-            "name": "☕咖啡 ┃ 🌐",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "播放数组": "module-play-list\">&&</div>",
-                "播放列表": "<a&&</a>",
-                "分类url": "https://cdnbeijin-aliyun-ys1.cfys.xyz/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;rc",
-                "分类": "电影$20#电视剧$21#动漫$23#综艺$22"
-            }
         },
         {
             "key": "heimuer",
