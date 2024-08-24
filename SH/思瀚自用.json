@@ -53,8 +53,56 @@
             "filterable": 0
         },
         {
+            "key": "py_emby",
+            "name": "🌻丨公益 服【🍏】",
+            "type": 3,
+            "api": "./py/py_emby_new.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "server": "https://emby.aca.best:443",
+                "username": "gcx110120130",
+                "password": "NmaswzZn",
+                "thread": 0
+            },
+            "changeable": 1
+        },
+{
+            "key": "py_emby",
+            "name": "🌼丨Empy【🍏】",
+            "type": 3,
+            "api": "./py/py_emby_new.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "server": "http://embymv.tk:8096",
+                "username": "3617",
+                "password": "Y78qmWlg",
+                "thread": 0
+            },
+            "changeable": 1
+        },
+        {
+            "key": "py_emby2",
+            "name": "🏵️丨EMPY【🍏】",
+            "type": 3,
+            "api": "./py/py_emby_new.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "server": "https://emby.aca.best:443",
+                "username": "gcx110120130",
+                "password": "gcx110120130",
+                "thread": 0
+            },
+            "changeable": 1
+        },
+        {
             "key": "JinPai",
-            "name": "🥇┃金牌【🌐】",
+            "name": "🥇┃金牌【⚛️】",
             "type": 3,
             "api": "csp_JinPai",
             "searchable": 1,
@@ -64,7 +112,7 @@
         },
         {
             "key": "君君",
-            "name": "🍄｜君君【🌐】",
+            "name": "🍄｜君君【⚛️】",
             "playerType": 1,
             "type": 3,
             "api": "csp_AppYsV2",
@@ -75,7 +123,7 @@
         },
         {
             "key": "drpy_优酷视频",
-            "name": "▶️丨爱优腾芒【🌐】",
+            "name": "▶️丨爱优腾芒【⚛️】",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,

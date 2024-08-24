@@ -193,6 +193,9 @@ class Spider(Spider):
 	def searchContent(self, key, quick):
 		return self.searchContentPage(key, quick, '1')
 
+	def searchContent(self, keywords, quick, page):
+		return self.searchContentPage(keywords,quick,page)
+
 	def searchContentPage(self, keywords, quick, page):
 		try:
 			embyInfos = self.getAccessToken()
