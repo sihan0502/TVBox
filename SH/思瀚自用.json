@@ -53,7 +53,7 @@
             "filterable": 0
         },
         {
-            "key": "py_emby",
+            "key": "py_emby3",
             "name": "🌻丨公益 服【🍏】",
             "type": 3,
             "api": "./py/py_emby_new.py",
