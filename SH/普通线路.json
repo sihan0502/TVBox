@@ -680,39 +680,30 @@
     ],
     "parses": [
         {
-            "name": "4k",
+            "name": "qq4k",
             "type": 1,
             "url": "ms_66ac72bd209bbd07d17032b1"
         },
-            {
-      "name": "腾4K",
-      "type": 1,
-      "url": "http://www.mpanso.com/woaini.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+        {
+            "name": "小米",
+            "type": 1,
+            "url": "ms_66c8429c463c2d675ffa8bb3"
+        },
+        {
+            "name": "六趣",
+            "type": 1,
+            "url": "ms_66c9758e463c2d675ffa8d57"
+        },
+        {
+            "name": "Tx4K",
+            "type": 1,
+            "url": "http://198.44.173.91:1234/lol/json.php?url="
+        },
+        {
+            "name": "ST4K",
+            "type": 1,
+            "url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+        },
         {
             "name": "小鱼解🐟",
             "type": 1,
