@@ -1179,14 +1179,19 @@
     ],
     "parses": [
         {
-            "name": "4k",
+            "name": "qq4k",
             "type": 1,
             "url": "ms_66ac72bd209bbd07d17032b1"
         },
         {
-            "name": "4k2",
+            "name": "小米",
             "type": 1,
             "url": "ms_66c8429c463c2d675ffa8bb3"
+        },
+        {
+            "name": "六趣",
+            "type": 1,
+            "url": "ms_66c9758e463c2d675ffa8d57"
         },
         {
             "name": "Tx4K",

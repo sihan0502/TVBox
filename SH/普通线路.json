@@ -21,12 +21,33 @@
         },
         {
             "key": "py_cctv",
-            "name": "📺丨CCTV【🅰️】",
+            "name": "📺CCTV ┃ 🌐",
             "type": 3,
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/py_cctv_ms.py",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
+        },
+        {
+            "key": "君君",
+            "name": "🍄君君 ┃ 🌐",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://122.228.85.203:1000/api.php/app/"
+        },
+        {
+            "key": "drpy_优酷视频",
+            "name": "▶️官源 ┃ 🌐",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/youku.js"
         },
         {
             "key": "NanGua",
@@ -521,16 +542,6 @@
             "ext": "./js/iqy.js"
         },
         {
-            "key": "drpy_优酷视频",
-            "name": "▶️优酷 ┃ 🅰️",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/youku.js"
-        },
-        {
             "key": "drpy_芒果TV",
             "name": "🍋芒果 ┃ 🅰️",
             "type": 3,
@@ -680,39 +691,30 @@
     ],
     "parses": [
         {
-            "name": "4k",
+            "name": "qq4k",
             "type": 1,
             "url": "ms_66ac72bd209bbd07d17032b1"
         },
-            {
-      "name": "腾4K",
-      "type": 1,
-      "url": "http://www.mpanso.com/woaini.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+        {
+            "name": "小米",
+            "type": 1,
+            "url": "ms_66c8429c463c2d675ffa8bb3"
+        },
+        {
+            "name": "六趣",
+            "type": 1,
+            "url": "ms_66c9758e463c2d675ffa8d57"
+        },
+        {
+            "name": "Tx4K",
+            "type": 1,
+            "url": "http://198.44.173.91:1234/lol/json.php?url="
+        },
+        {
+            "name": "ST4K",
+            "type": 1,
+            "url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+        },
         {
             "name": "小鱼解🐟",
             "type": 1,
