@@ -53,6 +53,16 @@
             "filterable": 0
         },
         {
+            "key": "drpy_优酷视频",
+            "name": "▶️丨官 源【🌐】",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/youku.js"
+        },
+        {
             "key": "py_emby",
             "name": "🌻丨公益 服【🍏】",
             "type": 3,
@@ -83,16 +93,6 @@
                 "thread": 0
             },
             "changeable": 1
-        },
-        {
-            "key": "drpy_优酷视频",
-            "name": "▶️丨爱优腾芒【⚛️】",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/youku.js"
         },
         {
             "key": "玩偶",
