@@ -63,19 +63,8 @@
             "changeable": 1
         },
         {
-            "key": "君君",
-            "name": "🍄｜君君【🌐】",
-            "playerType": 1,
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://122.228.85.203:1000/api.php/app/"
-        },
-        {
             "key": "drpy_优酷视频",
-            "name": "▶️丨爱优腾芒【🌐】",
+            "name": "▶️丨官源【🌐】",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
