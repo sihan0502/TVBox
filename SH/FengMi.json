@@ -253,6 +253,16 @@
             "ext": "./zxjs/蜡笔[盘].js"
         },
         {
+            "key": "多多盘",
+            "name": "💠〔多多盘丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/多多盘.js"
+        },
+        {
             "key": "七七[盘]",
             "name": "💠〔七七网盘丨JS™〕",
             "type": 3,
@@ -281,6 +291,46 @@
             "changeable": 1,
             "timeout": 60,
             "ext": "./zxjs/易搜[盘].js"
+        },
+        {
+            "key": "drpy_js_聚合盘",
+            "name": "💠〔聚合盘丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/聚合盘.js"
+        },
+        {
+            "key": "drpy_js_dyd",
+            "name": "💠〔DYD丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/dydhhy.js"
+        },
+        {
+            "key": "drpy_js_资源",
+            "name": "💠〔资源丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/ypzyw.js"
+        },
+        {
+            "key": "drpy_js_yyds",
+            "name": "💠〔YYDS丨JS™〕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./zxjs/yydsvip.js"
         },
         {
             "key": "drpy_js_esoua",
@@ -441,6 +491,71 @@
             "changeable": 1,
             "timeout": 60,
             "ext": "./zxjs/爱看短剧[盘].js"
+        },
+        {
+            "key": "TgYunPanLocal1",
+            "name": "TgYunPanLocal1",
+            "type": 3,
+            "api": "csp_TgYunPanLocal",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "channelUsername": "yunpanshare",
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        {
+            "key": "TgYunPanLocal2",
+            "name": "TgYunPanLocal2",
+            "type": 3,
+            "api": "csp_TgYunPanLocal",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "channelUsername": "shareAliyun",
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        {
+            "key": "TgYunPanLocal3",
+            "name": "TgYunPanLocal3",
+            "type": 3,
+            "api": "csp_TgYunPanLocal",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "channelUsername": "kuakeyun",
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        {
+            "key": "TgYunPanLocal4",
+            "name": "TgYunPanLocal4",
+            "type": 3,
+            "api": "csp_TgYunPanLocal",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "channelUsername": "qixingzhenren",
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        {
+            "key": "TgYunPanLocal5",
+            "name": "TgYunPanLocal5",
+            "type": 3,
+            "api": "csp_TgYunPanLocal",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "channelUsername": "guaguale115",
+                "commonConfig": "./peizhi.json"
+            }
         },
         {
             "key": "Local",
