@@ -591,7 +591,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./tokenm.json$$$https://4k.4u4.cn$$$null$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://4k.4u4.cn$$$null$$$1$$$./lib/wogg.json"
         },
         {
             "key": "ali.lvdoui.top",
@@ -832,7 +832,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "http://127.0.0.1:9978/file/TV/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"
+            "ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"
         },
         {
             "key": "DaPanSo",
@@ -930,7 +930,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/TV/tokenm.json$$$./lib/thundershare.txt"
+            "ext": "./lib/tokenm.json$$$./lib/thundershare.txt"
         },
         {
             "key": "AliShareEBook",
