@@ -73,22 +73,6 @@
             "ext": "./js/youku.js"
         },
         {
-            "key": "玩偶",
-            "name": "👹 | 玩偶饭饭【🍚】",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724162869872/fan.txt;md5;5d760b50584f03b3f71c8a6d1c17aa8e",
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto",
-                "siteUrl": "https://www.wogg.link/",
-                "danMu": "弹"
-            }
-        },
-        {
             "key": "玩偶弹幕版",
             "name": "👽丨玩偶哥哥【☯️】",
             "type": 3,
