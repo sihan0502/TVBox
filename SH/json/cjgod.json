@@ -26,13 +26,8 @@
     //    // 默认0 可选配置。0启用分类， 1关闭分类。部分采集站需梯子或分类总是获取失败可以关闭,可加快首页的载入速度
     //    "disable_filter": 0,
     //    }
-  {
-      "name": "君君",
-      "url": "http://122.228.85.203:1000/api.php/app/",
-      "type": 1
-    },
-
- {
+  
+    {
       "name": "木耳",
       "url": "https://json.heimuer.xyz/api.php/provide/vod",
       "type": 1
