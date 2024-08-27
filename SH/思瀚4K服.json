@@ -210,6 +210,20 @@
             "ext": "http://122.228.85.203:1000/api.php/app/"
         },
         {
+            "key": "WoKee_jar_CjGod ",
+            "name": "🥦丨采集 服【🌐】",
+            "type": 3,
+            "api": "csp_CjGod",
+            "searchable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/cjgod/cjgod.json"
+        },
+        {
             "key": "Local",
             "name": "📁丨本机 服【🍏】",
             "type": 3,
