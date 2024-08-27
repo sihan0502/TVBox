@@ -31,132 +31,15 @@
             "filterable": 0
         },
         {
-            "key": "放映厅服",
-            "name": "📽️丨放映 厅【🍏】",
+            "key": "embys",
+            "name": "📽️丨EMBY【🌐】",
             "type": 3,
-            "api": "./py/py_emby_new.py",
+            "api": "csp_Embys",
+            "timeout": 30,
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "server": "http://emby.9191001.xyz:2052",
-                "username": "gcx110120130",
-                "password": "",
-                "thread": 0
-            },
-            "changeable": 1
-        },
-        {
-            "key": "py_emby",
-            "name": "🌻丨公益 服【🍏】",
-            "type": 3,
-            "api": "./py/py_emby_new.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "server": "https://emby.aca.best:443",
-                "username": "gcx110120130",
-                "password": "gcx110120130",
-                "thread": 0
-            },
-            "changeable": 1
-        },
-        {
-            "key": "emby2",
-            "name": "🧸丨动漫 服【🍏】",
-            "type": 3,
-            "api": "./py/py_emby_new.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "server": "https://embyplus.org:443",
-                "username": "gcx110120130",
-                "password": "NmaswzZn",
-                "thread": 0
-            },
-            "changeable": 1
-        },
-        {
-            "key": "垃圾影音公益服",
-            "name": "🎥丨影音 服【🍏】",
-            "type": 3,
-            "api": "./py/py_emby_new.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "server": "http://cf.xmsl.org:80",
-                "username": "gcx110120130",
-                "password": "",
-                "thread": 0
-            },
-            "changeable": 1
-        },
-        {
-            "key": "猫熊服",
-            "name": "🐼丨熊猫 服【🍏】",
-            "type": 3,
-            "api": "./py/py_emby_new.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "server": "https://emby.kim:443",
-                "username": "gcx110120130",
-                "password": "203848",
-                "thread": 0
-            },
-            "changeable": 1
-        },
-        {
-            "key": "py_emby4",
-            "name": "🎬丨影视 服【🍏】",
-            "type": 3,
-            "api": "./py/py_emby_new.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "server": "http://embymv.tk:8096",
-                "username": "3617",
-                "password": "Y78qmWlg",
-                "thread": 0
-            },
-            "changeable": 1
-        },
-        {
-            "key": "追追服",
-            "name": "👀丨追追 服【🍏】",
-            "type": 3,
-            "api": "./py/py_emby_new.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "server": "https://789.123456.al:443",
-                "username": "zscjer",
-                "password": "66253655",
-                "thread": 0
-            },
-            "changeable": 1
-        },       
-        {
-            "key": "POLO儿童服",
-            "name": "🚉丨儿童 服【🍏】",
-            "type": 3,
-            "api": "./py/py_emby_new.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "server": "https://fun.poloemby.xyz:443",
-                "username": "gcx110120130",
-                "password": "gcx110120130",
-                "thread": 0
-            },
-            "changeable": 1
+            "changeable": 1,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "ext": "./json/embys.json"
         },
         {
             "key": "企鹅",
