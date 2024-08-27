@@ -70,7 +70,7 @@
                 "ratio": 1.5
             },
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/cjgod/cjgod.json"
+            "ext": "./json/cjgod.json"
         },
         {
             "key": "JinPai",
