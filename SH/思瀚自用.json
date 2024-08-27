@@ -83,13 +83,12 @@
             "changeable": 1,
             "jar": "./jar/okjpg.txt",
             "ext": {
-                "token": "file://TV/ali_token.txt",
-                "wogg": true,
-                "cookie": "file://TV/quark_cookie.txt",
-                "uc_cookie": "file://TV/uc_cookie.txt",
-                "filter": "https://already.free.hr/okcaptain/okjar/rm/wogg.json",
-                "danmu": true
-            }
+                 "token": "file://TV/ali_token.txt",
+                 "cookie": "file://TV/quark_cookie.txt",
+                 "uc_cookie": "file://TV/uc_cookie.txt",
+                 "wogg": true
+            },
+            "timeout": 30
         },
         {
             "key": "Wogg",
