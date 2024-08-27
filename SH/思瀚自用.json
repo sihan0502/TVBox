@@ -52,17 +52,6 @@
             "quickSearch": 0,
             "filterable": 0
         },
-         {
-            "key": "embys",
-            "name": "📽️丨EMBY【🌐】",
-            "type": 3,
-            "api": "csp_Embys",
-            "timeout": 30,
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
-            "ext": "./json/embys.json"
-        },
         {
             "key": "drpy_优酷视频",
             "name": "▶️丨官 源【🌐】",
@@ -74,6 +63,17 @@
             "ext": "./js/youku.js"
         },
         {
+            "key": "embys",
+            "name": "📽️丨EMBY【🌐】",
+            "type": 3,
+            "api": "csp_Embys",
+            "timeout": 30,
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "ext": "./json/embys.json"
+        },
+       {
             "key": "玩偶弹幕版",
             "name": "👽丨玩偶哥哥【☯️】",
             "type": 3,
@@ -89,7 +89,7 @@
                  "wogg": true
             },
             "timeout": 30
-        },
+        },       
         {
             "key": "Wogg",
             "name": "👻丨玩偶表哥【☣️】",
@@ -100,7 +100,7 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://wogg.888484.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
-        },
+        },      
         {
             "key": "mogg1",
             "name": "🐯丨木偶 盘【☯️】",
@@ -120,7 +120,7 @@
             "timeout": 30
         },
         {
-            "key": "立播弹幕版",
+            "key": "利播弹幕版",
             "name": "🐰丨利播 盘【☯️】",
             "type": 3,
             "api": "csp_Libvio",
@@ -436,11 +436,11 @@
         },
         {
             "key": "TGYunPan",
-            "name": "🎨丨TG 盘【☣️】",
+            "name": "🔆丨TG搜 盘【☣️】",
             "type": 3,
-            "api": "csp_TGYunPan",
+            "api": "csp_TGYunPanLocal",
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://144.126.217.226:8000/$$$guaguale115,Aliyundrive_Share_Channel$$$noproxy$$$1"
+            "ext": "./lib/tokenm.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$proxy$$$1"
         },
         {
             "key": "ucShare",

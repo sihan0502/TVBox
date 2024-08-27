@@ -82,14 +82,13 @@
             "changeable": 1,
             "jar": "./jar/okjpg.txt",
             "ext": {
-                "token": "file://TV/ali_token.txt",
-                "wogg": true,
-                "cookie": "file://TV/quark_cookie.txt",
-                "uc_cookie": "file://TV/uc_cookie.txt",
-                "filter": "https://already.free.hr/okcaptain/okjar/rm/wogg.json",
-                "danmu": true
-            }
-        },
+                 "token": "file://TV/ali_token.txt",
+                 "cookie": "file://TV/quark_cookie.txt",
+                 "uc_cookie": "file://TV/uc_cookie.txt",
+                 "wogg": true
+            },
+            "timeout": 30
+        },       
         {
             "key": "Wogg",
             "name": "👻丨玩偶表哥【☣️】",
@@ -100,7 +99,7 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://wogg.888484.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
-        },
+        },      
         {
             "key": "mogg1",
             "name": "🐯丨木偶 盘【☯️】",
@@ -436,11 +435,11 @@
         },
         {
             "key": "TGYunPan",
-            "name": "🎨丨TG 盘【☣️】",
+            "name": "🔆丨TG搜 盘【☣️】",
             "type": 3,
-            "api": "csp_TGYunPan",
+            "api": "csp_TGYunPanLocal",
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://144.126.217.226:8000/$$$guaguale115,Aliyundrive_Share_Channel$$$noproxy$$$1"
+            "ext": "./lib/tokenm.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$proxy$$$1"
         },
         {
             "key": "ucShare",
@@ -788,7 +787,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"
+            "ext": "http://127.0.0.1:9978/file/TV/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"
         },
         {
             "key": "DaPanSo",
@@ -836,10 +835,7 @@
             "name": "📁丨本机文件【☣️】",
             "type": 3,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
-            "api": "csp_Local",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1
+            "api": "csp_Local"
         },
         {
             "key": "AliShare",
@@ -886,7 +882,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/thundershare.txt"
+            "ext": "http://127.0.0.1:9978/file/TV/tokenm.json$$$./lib/thundershare.txt"
         },
         {
             "key": "AliShareEBook",
@@ -1124,17 +1120,17 @@
     ],
     "parses": [
         {
-            "name": "qq4k",
+            "name": "4k1",
             "type": 1,
             "url": "ms_66ac72bd209bbd07d17032b1"
         },
         {
-            "name": "小米",
+            "name": "4k2",
             "type": 1,
             "url": "ms_66c8429c463c2d675ffa8bb3"
         },
         {
-            "name": "六趣",
+            "name": "4k3",
             "type": 1,
             "url": "ms_66c9758e463c2d675ffa8d57"
         },
