@@ -83,30 +83,12 @@
             "changeable": 1,
             "jar": "./jar/okjpg.txt",
             "ext": {
-                "token": "file://TV/ali_token.txt",
-                "wogg": true,
-                "cookie": "file://TV/quark_cookie.txt",
-                "uc_cookie": "file://TV/uc_cookie.txt",
-                "filter": "https://already.free.hr/okcaptain/okjar/rm/wogg.json",
-                "danmu": true
-            }
-        },
-        {
-            "key": "玩偶表哥弹幕",
-            "name": "🤖丨玩偶弟弟【☯️】",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "jar": "./jar/okjpg.txt",
-            "ext": {
-                "token": "file://TV/ali_token.txt",
-                "cookie": "file://TV/quark_cookie.txt",
-                "uc_cookie": "file://TV/uc_cookie.txt",
-                "site": "http://wobgg.run-us-west2.goorm.io/",
-                "danmu": true
-            }
+                 "token": "file://TV/ali_token.txt",
+                 "cookie": "file://TV/quark_cookie.txt",
+                 "uc_cookie": "file://TV/uc_cookie.txt",
+                 "wogg": true
+            },
+            "timeout": 30
         },
         {
             "key": "Wogg",
@@ -118,17 +100,6 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://wogg.888484.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
-        },
-        {
-            "key": "Wobg",
-            "name": "👿丨玩偶表弟【☣️】",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "ext": "./lib/tokenm.json$$$http://wobgg.run-us-west2.goorm.io$$$null$$$1$$$./lib/wogg.json$$$WOBG"
         },
         {
             "key": "mogg1",
