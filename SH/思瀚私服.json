@@ -148,7 +148,7 @@
         {
             "name": "☘️春盈天下☘️",
             "type": 0,
-            "url": "./tv/春盈直播.txt",
+            "url": "./tv/春盈天下.txt",
             "ua": "okhttp/3.15",
             "playerType": 1,
             "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
