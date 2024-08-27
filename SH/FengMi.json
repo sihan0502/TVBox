@@ -200,6 +200,17 @@
             }
         },
         {
+            "key": "紙條搜",
+            "name": "📰丨紙條 搜【👑】",
+            "type": 3,
+            "api": "csp_XiaoZhiTiao",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./json/peizhi.json"
+            }
+        },
+        {
             "key": "网盘集合",
             "name": "🌈丨网盘集合【👑】",
             "type": 3,
