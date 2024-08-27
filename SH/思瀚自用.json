@@ -52,6 +52,17 @@
             "quickSearch": 0,
             "filterable": 0
         },
+         {
+            "key": "embys",
+            "name": "📽️丨EMBY【🌐】",
+            "type": 3,
+            "api": "csp_Embys",
+            "timeout": 30,
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "ext": "./json/embys.json"
+        },
         {
             "key": "drpy_优酷视频",
             "name": "▶️丨官 源【🌐】",
