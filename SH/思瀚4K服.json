@@ -159,6 +159,57 @@
             "changeable": 1
         },
         {
+            "key": "企鹅",
+            "name": "🐧丨企鹅 官【🌐】",
+            "type": 3,
+            "api": "https://raw.gitmirror.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://raw.gitmirror.com/PizazzGY/TVBox/main/JS/腾讯视频.js"
+        },
+        {
+            "key": "芒果",
+            "name": "🥭丨芒果 官【🌐】",
+            "type": 3,
+            "api": "http://1.12.237.246:9696/tvbox/lib/drpy2.min.js",
+            "ext": "http://1.12.237.246:9696/tvbox/lib/mangguo.js"
+        },
+        {
+            "key": "hipy_js_优酷[官]",
+            "name": "▶️丨优酷 官【🌐】",
+            "type": 3,
+            "api": "https://bitbucket.org/xduo/libs/raw/master//drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://bitbucket.org/xduo/libs/raw/master//drpy_js/优酷[官].js"
+        },
+        {
+            "key": "奇珍异果[官]",
+            "name": "🥝丨爱奇 艺【🌐】",
+            "type": 3,
+            "api": "https://bitbucket.org/xduo/libs/raw/master//drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://bitbucket.org/xduo/libs/raw/master//drpy_js/奇珍异兽[官].js"
+        },
+        {
+            "key": "君君",
+            "name": "🍄丨君君 集【🌐】",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://122.228.85.203:1000/api.php/app/"
+        },
+        {
             "key": "Local",
             "name": "📁丨本机 服【🍏】",
             "type": 3,
