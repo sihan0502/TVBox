@@ -1,0 +1,297 @@
+{
+  // 首页拉取全自动分类的最长时间,不建议设置很长时间,首次拉取不到的分类会在后续打开时再次拉取,有缓存
+  "filter_timeout": 8,
+  //搜索最长时间,不建议设置很长时间,优先靠前的采集站
+  "search_timeout": 10,
+  //（可选配置 ）期望搜索结果的站源数量，可配和搜索时长共存，俩个条件谁先到立即返回
+  //举例： 搜索时长设置8秒  搜索结果个数设置 10个，比如搜索10个耗时3秒 那就3秒返回结果。
+  "search_count": 30,
+  //屏蔽分类
+  "disable_filters": [
+    "伦理",
+    "三级",
+    "俩性"
+  ],
+  "sites": [
+    //    {
+    //    "name": "飞速",
+    //    //地址 不需要带 ?后面的参数
+    //    "url": "https://www.feisuzy.com/api.php/provide/vod/from/fsm3u8",
+    //    // 0 xml采集站  1 json采集站
+    //    "type": 1,
+    //    //专用播放头,可选配置。采集站无特殊要求不要配置,会影响播放性能 json:xxx代表播放格式为json(推荐)， parse:xxx代表播放格式为网页嗅探
+    //    "playUrl": "json:xxxx",
+    //    // 默认0 可选配置。0启用搜索， 1关闭搜索。部分采集站会停用搜索功能
+    //    "disable_search": 0,
+    //    // 默认0 可选配置。0启用分类， 1关闭分类。部分采集站需梯子或分类总是获取失败可以关闭,可加快首页的载入速度
+    //    "disable_filter": 0,
+    //    }
+  {
+      "name": "君君",
+      "url": "http://122.228.85.203:1000/api.php/app/",
+      "type": 1
+    },
+
+ {
+      "name": "木耳",
+      "url": "https://json.heimuer.xyz/api.php/provide/vod",
+      "type": 1
+    },
+    {
+      "name": "豪华",
+      "url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
+      "type": 1,
+      "disable_search": 1,
+      "disable_filter": 0
+    },
+    {
+      "name": "新浪",
+      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/",
+      "type": 1,
+      "disable_search": 1,
+      "disable_filter": 0
+    },
+    {
+      "name": "欧克",
+      "url": "https://api.okzy.org/api.php/provide/vod/from/okm3u8",
+      "type": 1,
+      "disable_search": 1,
+      "disable_filter": 0
+    },
+    {
+      "name": "红牛",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
+      "type": 1,
+      "disable_search": 1,
+      "disable_filter": 0
+    },
+    {
+      "name": "快车",
+      "url": "https://caiji.kczyapi.com/api.php/provide/vod/at/json",
+      "type": 1,
+      "disable_search": 1,
+      "disable_filter": 0
+    },
+    {
+      "name": "映迷",
+      "url": "https://www.inmi.app/api.php/provide/vod/at/json",
+      "type": 1,
+      "disable_search": 1,
+      "disable_filter": 0
+    },
+    {
+      "name": "闪电",
+      "url": "https://sdzyapi.com/api.php/provide/vod/",
+      "type": 1,
+      "disable_search": 1,
+      "disable_filter": 0
+    },
+    {
+      "name": "光速",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
+      "type": 1,
+      "disable_search": 1,
+      "disable_filter": 0
+    },
+    {
+      "name": "八戒",
+      "url": "http://cj.bajiecaiji.com/inc/apijson_vod.php/from/bjm3u8",
+      "type": 1,
+      "disable_search": 1,
+      "disable_filter": 0
+    },
+    {
+      "name": "淘片",
+      "url": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
+      "type": 1,
+      "disable_search": 1,
+      "disable_filter": 0
+    },
+   
+    {
+      "name": "华为",
+      "url": "https://hw8.live/api.php/provide/vod/at/json",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "樱花",
+      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "量子",
+      "url": "https://lzizy7.com/api.php/provide/vod/from/lzm3u8",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "非凡",
+      "url": "http://ffzy5.tv/api.php/provide/vod/from/ffm3u8",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "看看",
+      "url": "https://zy.hikan.xyz/api.php/provide/vod/",
+      "playUrl": "json:https://www.dmplay.xyz/decrypt/index?url=",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "艾旦",
+      "url": "https://lovedan.net/api.php/provide/vod",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "极速",
+      "url": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+      "playUrl": "",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "卧龙",
+      "url": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "1080",
+      "url": "http://api.1080zyku.com/inc/api_mac10.php",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "快看",
+      "url": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan",
+      "type": 1,
+      "disable_search": 1,
+      "disable_filter": 0
+    },
+    {
+      "name": "360",
+      "url": "https://360zy.com/api.php/provide/vod",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "速播",
+      "url": "https://subocaiji.com/api.php/provide/vod/from/subm3u8",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "飞速",
+      "url": "https://www.feisuzy.com/api.php/provide/vod/from/fsm3u8",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "爱坤",
+      "url": "https://ikunzyapi.com/api.php/provide/vod",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "天空",
+      "url": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "小猫",
+      "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "playUrl": "https://jx.xmflv.com/?url=",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "影图",
+      "url": "https://cj.vodimg.top/api.php/provide/vod/at/json",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "金鹰",
+      "url": "https://jyzyapi.com/provide/vod/at/xml/from/jinyingm3u8",
+      "type": 0,
+      "disable_search": 1,
+      "disable_filter": 0
+    },
+    {
+      "name": "U酷",
+      "url": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "无尽",
+      "url": "https://api.wujinapi.me/api.php/provide/vod/",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "飞速",
+      "url": "https://www.feisuzyapi.com/api.php/provide/vod/",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "最大",
+      "url": "https://api.zuidapi.com/api.php/provide/vod/",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "飘零",
+      "url": "https://p2100.net/api.php/provide/vod/",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "天翼",
+      "url": "https://www.911ysw.top/tianyi.php/provide/vod/",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "小黄人",
+      "url": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "39影视",
+      "url": "https://www.39kan.com/api.php/provide/vod/",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    }
+  ]
+}
