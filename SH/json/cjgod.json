@@ -26,7 +26,14 @@
     //    // 默认0 可选配置。0启用分类， 1关闭分类。部分采集站需梯子或分类总是获取失败可以关闭,可加快首页的载入速度
     //    "disable_filter": 0,
     //    }
-  
+    
+    {
+      "name": "小猫",
+      "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
     {
       "name": "木耳",
       "url": "https://json.heimuer.xyz/api.php/provide/vod",
@@ -63,13 +70,6 @@
     {
       "name": "快车",
       "url": "https://caiji.kczyapi.com/api.php/provide/vod/at/json",
-      "type": 1,
-      "disable_search": 1,
-      "disable_filter": 0
-    },
-    {
-      "name": "映迷",
-      "url": "https://www.inmi.app/api.php/provide/vod/at/json",
       "type": 1,
       "disable_search": 1,
       "disable_filter": 0
@@ -127,21 +127,6 @@
     {
       "name": "非凡",
       "url": "http://ffzy5.tv/api.php/provide/vod/from/ffm3u8",
-      "type": 1,
-      "disable_search": 0,
-      "disable_filter": 0
-    },
-    {
-      "name": "看看",
-      "url": "https://zy.hikan.xyz/api.php/provide/vod/",
-      "playUrl": "json:https://www.dmplay.xyz/decrypt/index?url=",
-      "type": 1,
-      "disable_search": 0,
-      "disable_filter": 0
-    },
-    {
-      "name": "艾旦",
-      "url": "https://lovedan.net/api.php/provide/vod",
       "type": 1,
       "disable_search": 0,
       "disable_filter": 0
@@ -206,14 +191,6 @@
     {
       "name": "天空",
       "url": "https://api.tiankongapi.com/api.php/provide/vod/",
-      "type": 1,
-      "disable_search": 0,
-      "disable_filter": 0
-    },
-    {
-      "name": "小猫",
-      "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-      "playUrl": "https://jx.xmflv.com/?url=",
       "type": 1,
       "disable_search": 0,
       "disable_filter": 0
