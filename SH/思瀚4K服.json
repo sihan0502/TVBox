@@ -127,6 +127,22 @@
             "changeable": 1
         },
         {
+            "key": "追追服",
+            "name": "👀丨追追 服【🍏】",
+            "type": 3,
+            "api": "./py/py_emby_new.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "server": "https://789.123456.al:443",
+                "username": "zscjer",
+                "password": "66253655",
+                "thread": 0
+            },
+            "changeable": 1
+        },       
+        {
             "key": "POLO儿童服",
             "name": "🚉丨儿童 服【🍏】",
             "type": 3,
