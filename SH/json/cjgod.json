@@ -4,8 +4,8 @@
   //搜索最长时间,不建议设置很长时间,优先靠前的采集站
   "search_timeout": 8,
   //（可选配置 ）期望搜索结果的站源数量，可配和搜索时长共存，俩个条件谁先到立即返回
-  //举例： 搜索时长设置8秒  搜索结果个数设置 10个，比如搜索10个耗时3秒 那就3秒返回结果。
-  "search_count": 30,
+  //举例： 搜索时长设置8秒  搜索结果个数设置 10个，比如搜索10个耗时3秒 那就3秒返回结果。可调整成超时的2倍
+  "search_count": 16,
   //屏蔽分类
   "disable_filters": [
     "伦理",
@@ -76,6 +76,13 @@
     {
       "name": "非凡",
       "url": "http://ffzy5.tv/api.php/provide/vod/from/ffm3u8",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "艾旦",
+      "url": "https://lovedan.net/api.php/provide/vod",
       "type": 1,
       "disable_search": 0,
       "disable_filter": 0
