@@ -1,5 +1,12 @@
 {
     "servers": [
+        
+        {
+            "server": "http://emby.9191001.xyz:2052",
+            "username": "gcx110120130",
+            "password": "",
+            "name": "📽️丨放映 厅【🍏】"
+        },
         {
             "server": "https://789.123456.al:443",
             "username": "zscjer",
@@ -23,12 +30,6 @@
             "username": "gcx110120130",
             "password": "203848",
             "name": "🐼丨熊猫 服【🍏】"
-        },
-        {
-            "server": "http://emby.9191001.xyz:2052",
-            "username": "gcx110120130",
-            "password": "",
-            "name": "📽️丨放映 厅【🍏】"
         },
         {
             "server": "http://embymv.tk:8096",
