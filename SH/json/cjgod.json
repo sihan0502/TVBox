@@ -2,7 +2,7 @@
   // 首页拉取全自动分类的最长时间,不建议设置很长时间,首次拉取不到的分类会在后续打开时再次拉取,有缓存
   "filter_timeout": 8,
   //搜索最长时间,不建议设置很长时间,优先靠前的采集站
-  "search_timeout": 10,
+  "search_timeout": 8,
   //（可选配置 ）期望搜索结果的站源数量，可配和搜索时长共存，俩个条件谁先到立即返回
   //举例： 搜索时长设置8秒  搜索结果个数设置 10个，比如搜索10个耗时3秒 那就3秒返回结果。
   "search_count": 30,
@@ -17,20 +17,25 @@
     //    "name": "飞速",
     //    //地址 不需要带 ?后面的参数
     //    "url": "https://www.feisuzy.com/api.php/provide/vod/from/fsm3u8",
-    //    // 0 xml采集站  1 json采集站
+    //    // 0 xml采集站  1 json采集站 3 AppYsV2源
     //    "type": 1,
-    //    //专用播放头,可选配置。采集站无特殊要求不要配置,会影响播放性能 json:xxx代表播放格式为json(推荐)， parse:xxx代表播放格式为网页嗅探
+    //    //专用播放头,可选配置。采集站无特殊要求不要配置,AppYsV2源无需配置。 jx 代表使用壳子的解析，json:xxx代表播放格式为json(推荐)， parse:xxx代表播放格式为网页嗅探
     //    "playUrl": "json:xxxx",
     //    // 默认0 可选配置。0启用搜索， 1关闭搜索。部分采集站会停用搜索功能
     //    "disable_search": 0,
     //    // 默认0 可选配置。0启用分类， 1关闭分类。部分采集站需梯子或分类总是获取失败可以关闭,可加快首页的载入速度
     //    "disable_filter": 0,
     //    }
-    
+     {
+      "name": "君君",
+      "type": 3,
+      "url": "http://122.228.85.203:1000/api.php/app/"
+    },
     {
       "name": "小猫",
       "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
       "type": 1,
+      "playUrl": "jx",
       "disable_search": 0,
       "disable_filter": 0
     },
@@ -40,66 +45,10 @@
       "type": 1
     },
     {
-      "name": "豪华",
-      "url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
-      "type": 1,
-      "disable_search": 1,
-      "disable_filter": 0
-    },
-    {
-      "name": "新浪",
-      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/",
-      "type": 1,
-      "disable_search": 1,
-      "disable_filter": 0
-    },
-    {
-      "name": "欧克",
-      "url": "https://api.okzy.org/api.php/provide/vod/from/okm3u8",
-      "type": 1,
-      "disable_search": 1,
-      "disable_filter": 0
-    },
-    {
-      "name": "红牛",
-      "url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
-      "type": 1,
-      "disable_search": 1,
-      "disable_filter": 0
-    },
-    {
-      "name": "快车",
-      "url": "https://caiji.kczyapi.com/api.php/provide/vod/at/json",
-      "type": 1,
-      "disable_search": 1,
-      "disable_filter": 0
-    },
-    {
-      "name": "闪电",
-      "url": "https://sdzyapi.com/api.php/provide/vod/",
-      "type": 1,
-      "disable_search": 1,
-      "disable_filter": 0
-    },
-    {
-      "name": "光速",
-      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
-      "type": 1,
-      "disable_search": 1,
-      "disable_filter": 0
-    },
-    {
-      "name": "八戒",
-      "url": "http://cj.bajiecaiji.com/inc/apijson_vod.php/from/bjm3u8",
-      "type": 1,
-      "disable_search": 1,
-      "disable_filter": 0
-    },
-    {
       "name": "淘片",
       "url": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
       "type": 1,
-      "disable_search": 1,
+      "disable_search": 0,
       "disable_filter": 0
     },
    
@@ -134,7 +83,6 @@
     {
       "name": "极速",
       "url": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
-      "playUrl": "",
       "type": 1,
       "disable_search": 0,
       "disable_filter": 0
