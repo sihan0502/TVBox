@@ -53,26 +53,6 @@
             "filterable": 0
         },
         {
-            "key": "JinPai",
-            "name": "🥇┃金牌【🌐】",
-            "type": 3,
-            "api": "csp_JinPai",
-            "searchable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_优酷视频",
-            "name": "▶️丨官源【🌐】",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/youku.js"
-        },
-        {
             "key": "玩偶弹幕版",
             "name": "👽丨玩偶哥哥【☯️】",
             "type": 3,
