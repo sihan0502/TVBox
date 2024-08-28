@@ -213,6 +213,54 @@
       "disable_search": 0,
       "disable_filter": 0
     },
+{
+            "name": "酷影",
+            "type": 3,
+            "url": "https://www.tvkuys.xyz/api.php/app/"
+        },
+        {
+            "name": "小猫",
+            "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+            "type": 1,
+            "playUrl": "jx",
+            "disable_search": 0,
+            "disable_filter": 0
+        },
+        {
+            "name": "奈飞",
+            "type": 3,
+            "url": "https://yanetflix.me/api.php/app/"
+        },
+        {
+            "name": "河狸",
+            "type": 3,
+            "url": "https://www.heli888.cc/api.php/app/"
+        },
+        {
+            "name": "思古",
+            "type": 3,
+            "url": "https://siguyy.cn/api.php/app/"
+        },
+        {
+            "name": "追剧兔",
+            "type": 3,
+            "url": "https://www.zjtu.one/api.php/app/"
+        },
+        {
+            "name": "电影馆",
+            "type": 3,
+            "url": "https://4kdyg.top/api.php/v1.vod"
+        },
+        {
+            "name": "新感觉",
+            "type": 3,
+            "url": "http://43.248.100.147:9891/api.php/app/"
+        },
+        {
+            "name": "小马",
+            "type": 3,
+            "url": "https://mas.szyyds.cn/api.php/app/"
+        },
     {
       "name": "39影视",
       "url": "https://www.39kan.com/api.php/provide/vod/",
