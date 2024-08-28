@@ -81,6 +81,13 @@
       "disable_filter": 0
     },
     {
+      "name": "艾旦",
+      "url": "https://lovedan.net/api.php/provide/vod",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
       "name": "极速",
       "url": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
       "type": 1,
