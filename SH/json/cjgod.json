@@ -219,14 +219,6 @@
             "url": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
-            "name": "小猫",
-            "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-            "type": 1,
-            "playUrl": "jx",
-            "disable_search": 0,
-            "disable_filter": 0
-        },
-        {
             "name": "奈飞",
             "type": 3,
             "url": "https://yanetflix.me/api.php/app/"
