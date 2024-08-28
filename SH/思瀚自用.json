@@ -53,16 +53,6 @@
             "filterable": 0
         },
         {
-            "key": "drpy_优酷视频",
-            "name": "▶️丨官 源【🌐】",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/youku.js"
-        },
-        {
             "key": "embys",
             "name": "📽️丨EMBY【🌐】",
             "type": 3,
