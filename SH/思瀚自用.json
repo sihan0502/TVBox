@@ -73,6 +73,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
+            "searchTop": true,
             "jar": "./jar/okjpg.txt",
             "ext": {
                  "token": "file://TV/ali_token.txt",
@@ -89,6 +90,7 @@
             "api": "csp_Wogg",
             "quickSearch": 1,
             "changeable": 1,
+            "searchTop": true,
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://wogg.888484.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
@@ -101,29 +103,13 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
+            "searchTop": true,
             "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
                 "uc_cookie": "file://TV/uc_cookie.txt",
                 "site": "http://mogg.top/",
-                "danmu": true
-            },
-            "timeout": 30
-        },
-        {
-            "key": "利播弹幕版",
-            "name": "🐰丨利播 盘【☯️】",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar": "./jar/okjpg.txt",
-            "ext": {
-                "token": "file://TV/ali_token.txt",
-                "cookie": "file://TV/quark_cookie.txt",
-                "uc_cookie": "file://TV/uc_cookie.txt",
                 "danmu": true
             },
             "timeout": 30
@@ -339,6 +325,24 @@
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
             }
+        },
+        
+        {
+            "key": "利播弹幕版",
+            "name": "🐰丨利播 盘【☯️】",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "jar": "./jar/okjpg.txt",
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "uc_cookie": "file://TV/uc_cookie.txt",
+                "danmu": true
+            },
+            "timeout": 30
         },
         {
             "key": "七夜弹幕版",
