@@ -158,13 +158,6 @@
       "disable_filter": 0
     },
     {
-      "name": "金鹰",
-      "url": "https://jyzyapi.com/provide/vod/at/xml/from/jinyingm3u8",
-      "type": 0,
-      "disable_search": 1,
-      "disable_filter": 0
-    },
-    {
       "name": "U酷",
       "url": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8",
       "type": 1,
