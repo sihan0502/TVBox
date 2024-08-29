@@ -36,6 +36,8 @@
             "api": "csp_CjGod",
             "searchable": 1,
             "changeable": 1,
+            "searchTop": true,
+            "searchCount": 35,
             "style": {
                 "type": "rect",
                 "ratio": 1.5
