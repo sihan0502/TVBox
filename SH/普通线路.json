@@ -32,16 +32,16 @@
         {
             "key": "WoKee_jar_CjGod ",
             "name": "💫采集 ┃ 🌐",
-            "type": 3,
-            "api": "csp_CjGod",
-            "searchable": 1,
-            "changeable": 1,
-            "searchTop": true,
-            "searchCount": 35,
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
+             "type": 3,
+             "api": "csp_CjGod",
+             "searchable": 1,
+             "changeable": 1,
+             "style": {
+             "type": "rect",
+             "ratio": 1.5
+                   },
+             "searchTop": true,
+             "searchCount": 40,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
             "ext": "./json/cjgod.json"
         },
