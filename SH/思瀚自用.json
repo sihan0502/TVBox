@@ -463,7 +463,8 @@
             "type": 3,
             "api": "csp_TGYunPan",
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://107.174.253.228:9999/$$$hao115,Aliyundrive_Share_Channel,kuakeyun,shareAliyun,ZYFX2022$$$null$$$1"
+            "searchTop": true,
+            "ext": "./pgconfig.json$$$http://107.174.253.228:9999/$$$wpzyhj,wanwansubchat,guaguale1150,aliyundriveShare,shareAliyun_Group$$$noproxy$$$1"
         },
         {
             "key": "ucShare",
