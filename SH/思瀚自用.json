@@ -463,7 +463,6 @@
             "type": 3,
             "api": "csp_TGYunPan",
             "timeout": 60,
-            "searchTop": true,
             "ext": "./pgconfig.json$$$http://107.174.253.228:9999/$$$wpzyhj,wanwansubchat,guaguale1150,aliyundriveShare,shareAliyun_Group$$$noproxy$$$1"
         },
         {
