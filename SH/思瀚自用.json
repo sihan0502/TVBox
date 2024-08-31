@@ -65,6 +65,32 @@
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
             "ext": "./json/embys.json"
         },
+        {
+            "key": "drpy_优酷视频",
+            "name": "▶️丨官 源【🌐】",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/youku.js"
+        },
+        {
+            "key": "WoKee_jar_CjGod ",
+            "name": "💫丨采 集【🌐】",
+             "type": 3,
+             "api": "csp_CjGod",
+             "searchable": 1,
+             "changeable": 1,
+             "style": {
+             "type": "rect",
+             "ratio": 1.5
+                   },
+             "searchTop": true,
+             "searchCount": 40,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "ext": "./json/cjgod.json"
+        },
        {
             "key": "玩偶弹幕版",
             "name": "👽丨玩偶哥哥【☯️】",
