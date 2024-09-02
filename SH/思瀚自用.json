@@ -73,6 +73,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "searchTop": true,
             "ext": "./js/腾讯4k[优].js"
         },
         {
