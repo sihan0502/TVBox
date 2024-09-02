@@ -1138,21 +1138,6 @@
     ],
     "parses": [
         {
-            "name": "4k1",
-            "type": 1,
-            "url": "ms_66ac72bd209bbd07d17032b1"
-        },
-        {
-            "name": "4k2",
-            "type": 1,
-            "url": "ms_66c8429c463c2d675ffa8bb3"
-        },
-        {
-            "name": "4k3",
-            "type": 1,
-            "url": "ms_66c9758e463c2d675ffa8d57"
-        },
-        {
             "name": "Tx4K",
             "type": 1,
             "url": "http://198.44.173.91:1234/lol/json.php?url="
