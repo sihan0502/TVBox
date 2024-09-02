@@ -63,7 +63,7 @@
             "searchTop": true,
             "searchCount": 10,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
-            "ext": "./json/embys.json"
+            "ext": ""
         },
         {
             "key": "drpy_优酷视频",
