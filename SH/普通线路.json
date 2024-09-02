@@ -29,17 +29,6 @@
             "filterable": 0
         },
         {
-            "key": "腾讯4k[优]",
-            "name": "🐧企鹅 ┃ 🌐",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "searchTop": true,
-            "ext": "./js/腾讯4K.js"
-        },
-        {
             "key": "WoKee_jar_CjGod ",
             "name": "💫采集 ┃ 🌐",
              "type": 3,
