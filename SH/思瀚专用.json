@@ -60,7 +60,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/腾讯4k[优].js"
+            "searchTop": true,
+            "ext": "./js/腾讯4K.js"
         },
         {
             "key": "drpy_优酷视频",
