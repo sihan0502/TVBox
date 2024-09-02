@@ -51,7 +51,17 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
-        },    
+        },
+        {
+            "key": "腾讯4k[优]",
+            "name": "🐧丨企 鹅【🌐】",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/腾讯4k[优].js"
+        },
         {
             "key": "drpy_优酷视频",
             "name": "▶️丨官 源【🌐】",
