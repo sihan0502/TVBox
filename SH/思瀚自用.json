@@ -945,6 +945,14 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
+            "name": "☘️春盈天下☘️",
+            "type": 0,
+            "url": "./tv/春盈直播.txt",
+            "ua": "okhttp/3.15",
+            "playerType": 1,
+            "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
             "name": "💝天天开心💝",
             "type": 0,
             "url": "http://ttkx.live:55/lib/kx2024.txt",
@@ -952,14 +960,6 @@
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "☘️春盈天下☘️",
-            "type": 0,
-            "url": "./tv/春盈直播.txt",
-            "ua": "okhttp/3.15",
-            "playerType": 1,
-            "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "✨无忧直播✨",
@@ -974,6 +974,15 @@
             "name": "🛰️思瀚直播🛰️",
             "type": 0,
             "url": "./tv/自用直播1.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+        {
+            "name": "💝天天开心💝",
+            "type": 0,
+            "url": "http://rihou.cc:555/gggg.nzk",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
