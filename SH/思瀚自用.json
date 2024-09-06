@@ -158,6 +158,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
+            "searchTop": true,
             "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
