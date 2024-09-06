@@ -73,7 +73,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "searchTop": true,
             "ext": "./js/youku.js"
         },
         {
@@ -87,7 +86,6 @@
                 "type": "rect",
                 "ratio": 1.5
             },
-            "searchTop": true,
             "searchCount": 40,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
             "ext": "./json/cjgod.json"
@@ -100,6 +98,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
+            "searchTop": true,
             "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
@@ -117,6 +116,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
+            "searchTop": true,
             "jar": "./jar/okjpg.txt",
             "ext": {
                 "token": "file://TV/ali_token.txt",
@@ -147,6 +147,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
+            "searchTop": true,
             "ext": "./lib/tokenm.json$$$http://wanou.xn--yi7aa.top:3108/$$$null$$$1$$$./lib/wogg.json"
         },
         {
