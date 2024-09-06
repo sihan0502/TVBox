@@ -499,6 +499,14 @@
             }
         },
         {
+            "key": "TGYunPan1",
+            "name": "🎨丨TG 盘【☣️】",
+            "type": 3,
+            "api": "csp_TGYunPan",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$http://107.174.253.228:9999/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$noproxy$$$1"
+        },
+        {
             "key": "115Share",
             "name": "🌍丨115 盘【☣️】",
             "type": 3,
