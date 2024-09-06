@@ -139,6 +139,17 @@
             "ext": "./lib/tokenm.json$$$https://wogg.888484.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
         },
         {
+            "key": "Wobg表哥",
+            "name": "👿丨玩偶表哥【☣️】",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json$$$http://wanou.xn--yi7aa.top:3108/$$$null$$$1$$$./lib/wogg.json"
+        },
+        {
             "key": "mogg1",
             "name": "🐯丨木偶 盘【☯️】",
             "type": 3,
