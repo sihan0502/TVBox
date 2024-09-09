@@ -81,14 +81,14 @@
             "name": "👀丨HKA 服"
         },
         {
-            "server": "ms_66ac72bd209bbd07d1703212",
-            "name": "🌐丨IPV6 服",
-            "disable_filter": 1
-        },
-        {
             "server": "ms_66ac72bd209bbd07d1703221",
             "name": "🅿️丨PLS 服",
             "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+            "disable_filter": 1
+        },
+        {
+            "server": "ms_66ac72bd209bbd07d1703212",
+            "name": "🌐丨IPV6 服",
             "disable_filter": 1
         },
         {
