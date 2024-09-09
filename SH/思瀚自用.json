@@ -61,7 +61,7 @@
             "searchable": 1,
             "changeable": 1,
             "searchTop": true,
-            "searchCount": 20,
+            "searchCount": 25,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
             "ext": "./json/embys.json"
         },
