@@ -54,7 +54,7 @@
 			"name": "✨丨卡戎 服",
 			"proxy": "http://127.0.0.1:10079/p/0/proxy/",
 			"disable_filter": 1
-		}
+		},
                 {
                         "server": "ms_66ac72bd209bbd07d1703230",
                         "name": "♈丨大V影院"
@@ -94,6 +94,6 @@
                         "server": "ms_66ac72bd209bbd07d1703229",
                         "name": "🍎丨Apop 服",
                         "proxy": "http://127.0.0.1:10079/p/0/proxy/"
-                },
+                }
 	]
 }
