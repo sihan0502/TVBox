@@ -1205,29 +1205,9 @@
     ],
     "parses": [
         {
-            "name": "qq4k",
-            "type": 1,
-            "url": "ms_66ac72bd209bbd07d17032b1"
-        },
-        {
             "name": "小米",
             "type": 1,
-            "url": "ms_66c8429c463c2d675ffa8bb3"
-        },
-        {
-            "name": "六趣",
-            "type": 1,
-            "url": "ms_66c9758e463c2d675ffa8d57"
-        },
-        {
-            "name": "六趣2",
-            "type": 1,
-            "url": "http://tvbox.qq976853694.serv00.net/api/?key=BbLuTqIT51uMgkDUxf&url="
-        },
-        {
-            "name": "Tx4K",
-            "type": 1,
-            "url": "http://198.44.173.91:1234/lol/json.php?url="
+            "url": "http://xiaomi2189.xiyan.chat/yu.php?url="
         },
         {
             "name": "ST4K",
@@ -1235,14 +1215,14 @@
             "url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
         },
         {
-            "name": "小鱼解🐟",
-            "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="
+            "name": "2S0",
+            "type": 0,
+            "url": "https://jx.2s0.cn/player/?url="
         },
         {
-            "name": "巧技解🐤",
-            "type": 1,
-            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+            "name": "yemu",
+            "type": 0,
+            "url": "https://www.yemu.xyz/v/d.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1275,9 +1255,9 @@
             }
         },
         {
-            "name": "巧技解🐣",
-            "type": 1,
-            "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+            "name": "m3u8",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1302,7 +1282,7 @@
             }
         },
         {
-            "name": "稻香解🌾",
+            "name": "xmf",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
@@ -1395,153 +1375,6 @@
             },
             "header": {
                 "User-Agent": "Mozilla/5.0"
-            }
-        },
-        {
-            "name": "XGJ官方专线",
-            "type": "1",
-            "url": "http://43.248.100.147:1122/bba/json.php?url=",
-            "flag": [
-                "youku",
-                "qq",
-                "qiyi",
-                "bilibili",
-                "mgtv",
-                "pptv",
-                "xigua"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "XMY专线",
-            "type": "1",
-            "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
-            "flag": [
-                "NBY"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "LX专线",
-            "type": "1",
-            "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-            "flag": [
-                "LXTX"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "OL专线",
-            "type": "1",
-            "url": "http://110.40.39.158:5000/api/jiexi/common?Key=7idBzIqEEFyf4AYYXt&url=",
-            "flag": [
-                "BTOL"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "4K专线",
-            "type": "1",
-            "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url=",
-            "flag": [
-                "4kvip"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "MX专线",
-            "type": "1",
-            "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url=",
-            "flag": [
-                "m78"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "BD专线",
-            "type": "1",
-            "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
-            "flag": [
-                "m78"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "MY专线",
-            "type": "1",
-            "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
-            "flag": [
-                "mytv"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "龙龙管解",
-            "type": "1",
-            "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-            "flag": [
-                "youku",
-                "qq",
-                "qiyi",
-                "bilibili",
-                "mgtv",
-                "pptv",
-                "xigua"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "新感觉聚合",
-            "type": "1",
-            "url": "http://43.248.100.147:1122/XGJ/keyef2f3dc4asd1fd564f132asc2asd1f.php?url=",
-            "flag": [
-                "youku",
-                "qq",
-                "qiyi",
-                "bilibili",
-                "mgtv",
-                "pptv",
-                "xigua",
-                "NBY",
-                "ETH-",
-                "mytv",
-                "nmys",
-                "BTOL",
-                "caihongyun",
-                "4kvip",
-                "m78"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "动漫专线",
-            "type": "1",
-            "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
-            "flag": [
-                "yhdm"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
             }
         },
         {
