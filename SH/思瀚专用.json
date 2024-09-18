@@ -176,7 +176,7 @@
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
                 "uc_cookie": "file://TV/uc_cookie.txt",
-                "site": "https://duopan.fun/",
+                "site": "http://labipan.com/",
                 "danmu": true
             },
             "timeout": 25
@@ -212,7 +212,7 @@
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
                 "uc_cookie": "file://TV/uc_cookie.txt",
-                "site": "https://tudou.lvdoui.top/",
+                "site": "https://yunpan.yunpay.cc/",
                 "danmu": true
             },
             "timeout": 25
@@ -548,7 +548,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
+            "ext": "./lib/tokenm.json$$$http://labipan.com/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
         },
         {
             "key": "奥秘影视",
@@ -576,7 +576,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "./lib/tokenm.json$$$https://tudou.lvdoui.top$$$null$$$1"
+            "ext": "./lib/tokenm.json$$$https://yunpan.yunpay.cc/$$$null$$$1"
         },
         {
             "key": "YingSo",
