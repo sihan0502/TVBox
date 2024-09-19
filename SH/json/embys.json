@@ -41,17 +41,6 @@
             "name": "🦚丨琴鸟 服"
         },
         {
-            "server": "ms_66ac72bd209bbd07d1703212",
-            "name": "🐼丨熊猫 服",
-            "disable_filter": 1
-        },
-        {
-            "server": "ms_66ac72bd209bbd07d1703220",
-            "name": "✨丨卡戎 服",
-            "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-            "disable_filter": 1
-        },
-        {
             "server": "ms_66ac72bd209bbd07d1703230",
             "name": "♈丨大威 服"
         },
@@ -64,8 +53,21 @@
             "name": "🍄丨见手 青"
         },
         {
+            "server": "ms_66ac72bd209bbd07d1703212",
+            "name": "🐼丨熊猫 服",
+            "disable_filter": 1
+        },
+        {
+            "server": "ms_66ac72bd209bbd07d1703220",
+            "name": "✨丨卡戎 服",
+            "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+            "disable_filter": 1
+        },
+        {
             "server": "ms_66ac72bd209bbd07d1703218",
-            "name": "🐭丨卷毛 鼠"
+            "name": "🐭丨卷毛 鼠",
+            "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+            "disable_filter": 1
         },
         {
             "server": "ms_66ac72bd209bbd07d1703219",
@@ -80,19 +82,20 @@
             "name": "👀丨HKA 服"
         },
         {
+            "server": "ms_66ac72bd209bbd07d1703224",
+            "name": "Ⓜ️丨MIS 服"
+        },
+        {
             "server": "ms_66ac72bd209bbd07d1703221",
             "name": "🅿️丨PLS 服",
             "proxy": "http://127.0.0.1:10079/p/0/proxy/",
             "disable_filter": 1
         },
         {
-            "server": "ms_66ac72bd209bbd07d1703224",
-            "name": "Ⓜ️丨MIS 服"
-        },
-        {
             "server": "ms_66ac72bd209bbd07d1703229",
             "name": "🍎丨Apop 服",
-            "proxy": "http://127.0.0.1:10079/p/0/proxy/"
+            "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+            "disable_filter": 1
         }
     ]
 }
