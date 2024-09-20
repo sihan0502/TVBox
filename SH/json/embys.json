@@ -21,7 +21,7 @@
       "server": "ms_a4078fca6e9c4628bd6280b27a2af862"
     },
     {
-      "disable_filter": 0,
+      "disable_filter": 1,
       "name": "🐭丨卷毛 鼠",
       "proxy": "http://127.0.0.1:10079/p/0/proxy/",
       "server": "ms_7d41c4103f944135be5fecade08bc978"
@@ -47,7 +47,7 @@
       "server": "ms_4aaa7afb12b9482e855dc7fd8f9a673b"
     },
     {
-      "disable_filter": 0,
+      "disable_filter": 1,
       "name": "🅿️丨普拉 斯",
       "proxy": "http://127.0.0.1:10079/p/0/proxy/",
       "server": "ms_e37bf55d7b2b466baeca78104defcd35"
@@ -68,7 +68,7 @@
       "server": "ms_4bebf0c2c79c49b5bae5966099bd93bd"
     },
     {
-      "disable_filter": 0,
+      "disable_filter": 1,
       "name": "✨丨卡戎 服",
       "proxy": "http://127.0.0.1:10079/p/0/proxy/",
       "server": "ms_ceea716cd3f84d1dbb4f49a96eb8b03e"
@@ -134,13 +134,13 @@
       "server": "ms_dea2d4a8aac144b285eef74643d7fe7c"
     },
     {
-      "disable_filter": 0,
+      "disable_filter": 1,
       "name": "🌾丨Misty",
       "proxy": "http://127.0.0.1:10079/p/0/proxy/",
       "server": "ms_7f5e20725e1b4bb4ba74ca444d1bac3e"
     },
     {
-      "disable_filter": 0,
+      "disable_filter": 1,
       "name": "🍑丨Peach",
       "proxy": "http://127.0.0.1:10079/p/0/proxy/",
       "server": "ms_bf4fff0a9525437d90bb5c78db3395a7"
