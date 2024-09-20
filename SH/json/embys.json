@@ -12,8 +12,13 @@
     },
     {
       "disable_filter": 0,
-      "name": "🚁丨直升 机",
-      "server": "ms_be9e7ff998c143bc8c18d6cb43de9098"
+      "name": "🪅丨垃圾 服",
+      "server": "ms_61f27d276b0144929abf1190e3efb100"
+    },
+    {
+      "disable_filter": 0,
+      "name": "🎋丨天南 筑",
+      "server": "ms_f55637008e2d46fb881ce47b0ea28702"
     },
     {
       "disable_filter": 0,
@@ -22,14 +27,9 @@
     },
     {
       "disable_filter": 1,
-      "name": "🐭丨卷毛 鼠",
+      "name": "✨丨卡戎 服",
       "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-      "server": "ms_7d41c4103f944135be5fecade08bc978"
-    },
-    {
-      "disable_filter": 0,
-      "name": "🎋丨天南 筑",
-      "server": "ms_f55637008e2d46fb881ce47b0ea28702"
+      "server": "ms_ceea716cd3f84d1dbb4f49a96eb8b03e"
     },
     {
       "disable_filter": 0,
@@ -64,22 +64,6 @@
     },
     {
       "disable_filter": 0,
-      "name": "🐼丨熊猫 服",
-      "server": "ms_4bebf0c2c79c49b5bae5966099bd93bd"
-    },
-    {
-      "disable_filter": 1,
-      "name": "✨丨卡戎 服",
-      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-      "server": "ms_ceea716cd3f84d1dbb4f49a96eb8b03e"
-    },
-    {
-      "disable_filter": 0,
-      "name": "🪅丨垃圾 服",
-      "server": "ms_61f27d276b0144929abf1190e3efb100"
-    },
-    {
-      "disable_filter": 0,
       "name": "🕊️丨非越 服",
       "server": "ms_fcad294b9e094adbb970fa590a428f0d"
     },
@@ -92,6 +76,22 @@
       "disable_filter": 0,
       "name": "♈丨大V  服",
       "server": "ms_67d54bee67f74176a16f8e8944afe7b9"
+    },
+    {
+      "disable_filter": 0,
+      "name": "🚁丨直升 机",
+      "server": "ms_be9e7ff998c143bc8c18d6cb43de9098"
+    },
+    {
+      "disable_filter": 1,
+      "name": "🐭丨卷毛 鼠",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_7d41c4103f944135be5fecade08bc978"
+    },
+    {
+      "disable_filter": 0,
+      "name": "🐼丨熊猫 服",
+      "server": "ms_4bebf0c2c79c49b5bae5966099bd93bd"
     },
     {
       "disable_filter": 0,
