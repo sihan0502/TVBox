@@ -89,8 +89,9 @@
       "server": "ms_7d41c4103f944135be5fecade08bc978"
     },
     {
-      "disable_filter": 0,
+      "disable_filter": 1,
       "name": "🐼丨熊猫 服",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
       "server": "ms_4bebf0c2c79c49b5bae5966099bd93bd"
     },
     {
