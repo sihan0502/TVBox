@@ -113,7 +113,7 @@
             "searchTop": true,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://wogg.888484.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+            "ext": "./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Wobg表哥",
@@ -548,7 +548,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./lib/tokenm.json$$$http://labipan.com/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
+            "ext": "./lib/tokenm.json$$$http://labipan.com/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "奥秘影视",
