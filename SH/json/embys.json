@@ -91,7 +91,7 @@
     {
       "disable_filter": 1,
       "name": "🐼丨熊猫 服",
-      "proxy": "http://127.0.0.1:10172/p/0/proxy/",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
       "server": "ms_4bebf0c2c79c49b5bae5966099bd93bd"
     },
     {
@@ -137,13 +137,13 @@
     {
       "disable_filter": 1,
       "name": "🌾丨Misty",
-      "proxy": "http://127.0.0.1:10172/p/0/proxy/",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
       "server": "ms_7f5e20725e1b4bb4ba74ca444d1bac3e"
     },
     {
       "disable_filter": 1,
       "name": "🍑丨Peach",
-      "proxy": "http://127.0.0.1:10172/p/0/proxy/",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
       "server": "ms_bf4fff0a9525437d90bb5c78db3395a7"
     },
     {
