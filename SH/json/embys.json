@@ -143,7 +143,7 @@
     {
       "disable_filter": 1,
       "name": "🍑丨Peach",
-      "proxy": "http://127.0.0.1:10172/p/0/proxy/",
+      "proxy": "proxy",
       "server": "ms_bf4fff0a9525437d90bb5c78db3395a7"
     },
     {
