@@ -53,19 +53,6 @@
             "filterable": 0
         },
         {
-            "key": "embys",
-            "name": "📽️丨EMBY【🌐】",
-            "type": 3,
-            "api": "csp_Embys",
-            "timeout": 30,
-            "searchable": 1,
-            "changeable": 1,
-            "searchTop": true,
-            "searchCount": 35,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
-            "ext": "./json/embys.json"
-        },
-        {
             "key": "WoKee_jar_CjGod ",
             "name": "💫丨采 集【🌐】",
             "type": 3,
