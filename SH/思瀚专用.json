@@ -41,6 +41,10 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 2
+            },
             "ext": "./lib/tokenm.json"
         },
         {
