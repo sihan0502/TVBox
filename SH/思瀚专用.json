@@ -938,7 +938,7 @@
             "name": "🚀APTV🚀",
             "type": 0,
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u",
-            "playerType": 1,
+           
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -947,7 +947,7 @@
             "name": "🚀IPTV🚀",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 1,
+            
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -957,14 +957,14 @@
             "type": 0,
             "url": "./tv/春盈直播.txt",
             "ua": "okhttp/3.15",
-            "playerType": 1,
+            
             "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "✨无忧直播✨",
             "type": 0,
             "url": "./tv/live.txt",
-            "playerType": 1,
+            
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
@@ -973,7 +973,7 @@
             "name": "🛰️思瀚直播🛰️",
             "type": 0,
             "url": "./tv/自用直播1.txt",
-            "playerType": 1,
+            
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
