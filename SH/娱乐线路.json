@@ -2,22 +2,6 @@
 	"spider": "./jar/pg.jar",
 	"sites": [
 		{
-			"key": "Yinyuetai",
-			"name": "🍃 | 音悦 台 | ☂",
-			"type": 3,
-			"api": "csp_Yinyuetai",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "酷狗",
-			"name": "🍃 | 酷狗音乐 | ♕",
-			"type": 3,
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
 			"key": "hipy_js_KTV歌厅[听]",
 			"name": "🍃 | 拾光音乐 | ☪",
 			"type": 3,
@@ -28,6 +12,14 @@
 			"order_num": 0,
 			"jar": "./jar//xmbjm.jar",
 			"ext": "./js/KTV歌厅[听].js"
+		},
+		{
+			"key": "酷狗",
+			"name": "🍃 | 酷狗音乐 | ♕",
+			"type": 3,
+			"api": "csp_Kugou",
+			"searchable": 1,
+			"changeable": 0
 		},
 		{
 			"key": "虎牙直播js",
