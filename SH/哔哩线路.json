@@ -1,18 +1,37 @@
 {
-	"spider": "./jar/fm.jar",
+	"spider": "./jar/pg.jar",
 	"sites": [
 		{
-			"key": "py_cctv",
-			"name": "🍃 | CCTV | 🇨🇳",
+			"key": "Yinyuetai",
+			"name": "🍃 | 音悦 台 | ☂",
 			"type": 3,
-			"api": "./lib/cctv.py",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
+			"api": "csp_Yinyuetai",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "酷狗",
+			"name": "🍃 | 酷狗音乐 | ♕",
+			"type": 3,
+			"api": "csp_Kugou",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "hipy_js_KTV歌厅[听]",
+			"name": "🍃 | 拾光音乐 | ☪",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"jar": "./jar//xmbjm.jar",
+			"ext": "./js/KTV歌厅[听].js"
 		},
 		{
 			"key": "虎牙直播js",
-			"name": "🍃 | 虎牙直播 | 🐯",
+			"name": "🍃 | 虎牙直播 | ☬",
 			"type": 3,
 			"api": "./js/apiv421drpy1.min.js",
 			"style": {
@@ -25,7 +44,7 @@
 		},
 		{
 			"key": "csp_XYQBiu_斗鱼",
-			"name": "🍃 | 斗鱼直播 | 🐠",
+			"name": "🍃 | 斗鱼直播 | 〠",
 			"type": 3,
 			"api": "./js/apiv421drpy1.min.js",
 			"style": {
@@ -37,206 +56,19 @@
 			"ext": "./js/斗鱼直播.js"
 		},
 		{
-			"key": "csp_哔哩短剧",
-			"name": "🍃 | 哔哩短剧 | 🅱️",
-			"type": 3,
+			"key":"bili",
+			"name":"🍃 | 哔哩合集 | ☃",
+			"type":3,
 			"api": "csp_Bili",
 			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩短剧.json"
-		},
-		{
-			"key": "csp_Bili1",
-			"name": "🍃 | 哔哩合集 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩合集.json"
-		},
-		{
-			"key": "舞蹈",
-			"name": "🍃 | 哔哩舞蹈 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩舞蹈.json"
-		},
-		{
-			"key": "演唱会",
-			"name": "🍃 | 哔哩歌会 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩演唱会.json"
-		},
-		{
-			"key": "MV",
-			"name": "🍃 | 哔哩MTV | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩MTV.json"
-		},
-		{
-			"key": "戏曲",
-			"name": "🍃 | 哔哩戏曲 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩戏曲.json"
-		},
-		{
-			"key": "美食",
-			"name": " 🍃 | 哔哩美食 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩美食.json"
-		},
-		{
-			"key": "棋牌",
-			"name": " 🍃 | 哔哩棋牌 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩棋牌.json"
-		},
-		{
-			"key": "UP主",
-			"name": " 🍃 | 哔哩UP | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩UP主.json"
-		},
-		{
-			"key": "PS",
-			"name": "🍃 | 哔哩PS | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩PS.json"
-		},
-		{
-			"key": "外语",
-			"name": "🍃 | 哔哩外语 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩外语.json"
-		},
-		{
-			"key": "球类",
-			"name": "🍃 | 哔哩球球 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩球球.json"
-		},
-		{
-			"key": "足球",
-			"name": "🍃 | 哔哩足球 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩球星.json"
-		},
-		{
-			"key": "体育",
-			"name": "🍃 | 哔哩体育 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩体育.json"
-		},
-		{
-			"key": "软件",
-			"name": " 🍃 | 软件教程 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//软件教程.json"
-		},
-		{
-			"key": "csp_Bili幼儿",
-			"name": "📚 | 哔哩幼儿 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
 			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./bli//幼儿乐园.json"
-		},
-		{
-			"key": "csp_Bili少儿",
-			"name": "📚 | 哔哩少儿 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./bli//少儿教育.json"
-		},
-		{
-			"key": "csp_Bili小学",
-			"name": "📚 | 哔哩小学 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./bli//小学课堂.json"
-		},
-		{
-			"key": "csp_Bili初中",
-			"name": "📚 | 哔哩初中 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./bli//初中课堂.json"
-		},
-		{
-			"key": "csp_Bili高中",
-			"name": "📚 | 哔哩高中 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./bli//高中课堂.json"
+			"changeable": 0,
+			"ext":{
+				"type":"KTV#MTV#MV#演唱会#广场舞#音乐#舞蹈#戏曲#8K",
+				"cookie":""
+			}
 		}
-
+		
 	],
 	"rules": [],
 	"parses": [],
