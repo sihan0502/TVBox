@@ -56,6 +56,24 @@
             "quickSearch": 0,
             "filterable": 0
         },
+	    {
+            "key": "哔哩弹幕",
+            "name": "🅱️丨哔 哩【🌐】",
+            "type": 3,
+            "api": "csp_Bilimd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	        "jar": "./jar/spider.jar",
+            "style": {
+                   "type": "rect",
+                   "ratio": 1.597
+            	   },
+            "ext": {
+                   "cookie": "file://TV/bilibili.txt"
+            	   },
+            "timeout": 10
+        },   
         {
             "key": "WoKee_jar_CjGod ",
             "name": "💫丨采 集【🌐】",
