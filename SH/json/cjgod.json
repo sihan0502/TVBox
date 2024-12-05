@@ -27,19 +27,18 @@
     //    "disable_filter": 0,
     //    }
     {
-      "name": "君君",
-      "type": 3,
-      "url": "http://122.228.85.203:1000/api.php/app/"
-    },
-    {
-      "name": "小猫",
-      "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-      "type": 1,
-      "playUrl": "jx"
-    },
+      "name": "如意",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/",
+      "type": 1
+   },
     {
       "name": "木耳",
       "url": "https://json.heimuer.xyz/api.php/provide/vod",
+      "type": 1
+    },
+    {
+      "name": "魔都",
+      "url": "http://moduzy1.com/api.php/provide/vod/",
       "type": 1
     },
     {
@@ -60,7 +59,8 @@
     {
       "name": "看看",
       "url": "https://zy.hikan.xyz/api.php/provide/vod",
-      "type": 1
+      "type": 1,
+      "playUrl": "https://dmplay.knowhub.vip/d?url="
     },
     {
       "name": "量子",
@@ -83,11 +83,6 @@
       "type": 1
     },
     {
-      "name": "卧龙",
-      "url": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "type": 1
-    },
-    {
       "name": "1080",
       "url": "http://api.1080zyku.com/inc/api_mac10.php",
       "type": 1
@@ -100,11 +95,6 @@
     {
       "name": "速播",
       "url": "https://subocaiji.com/api.php/provide/vod/from/subm3u8",
-      "type": 1
-    },
-    {
-      "name": "飞速",
-      "url": "https://www.feisuzy.com/api.php/provide/vod/from/fsm3u8",
       "type": 1
     },
     {
@@ -130,11 +120,6 @@
     {
       "name": "无尽",
       "url": "https://api.wujinapi.me/api.php/provide/vod/",
-      "type": 1
-    },
-    {
-      "name": "飞速",
-      "url": "https://www.feisuzyapi.com/api.php/provide/vod/",
       "type": 1
     },
     {
@@ -178,24 +163,9 @@
       "url": "https://siguyy.cn/api.php/app/"
     },
     {
-      "name": "追剧兔",
-      "type": 3,
-      "url": "https://www.zjtu.one/api.php/app/"
-    },
-    {
       "name": "电影馆",
       "type": 3,
       "url": "https://4kdyg.top/api.php/v1.vod"
-    },
-    {
-      "name": "新感觉",
-      "type": 3,
-      "url": "http://43.248.100.147:9891/api.php/app/"
-    },
-    {
-      "name": "小马",
-      "type": 3,
-      "url": "https://mas.szyyds.cn/api.php/app/"
     },
     {
       "name": "39影视",
