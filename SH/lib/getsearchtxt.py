@@ -1,157 +1,118 @@
-﻿#coding=utf-8
-#!/usr/bin/python
+#!/usr/bin/env python3
+
 import sys
+import re
 import json
+import requests
 import time
-from datetime import datetime
-from difflib import SequenceMatcher
-from urllib.parse import quote, unquote
-sys.path.append('..')
-from base.spider import Spider
+import traceback
+import gzip
 
-class Spider(Spider):  # 元类 默认的元类 type
-	def getName(self):
-		return "B站番剧"
+p=re.compile(r'.*/s/(.*)')
+skipp = re.compile(r'.*(cover|screen|频道).*',re.IGNORECASE)
+reqcount=1
+sharedict=set()
 
-	def init(self, extend):
-		try:
-			self.extendDict = json.loads(extend)
-		except:
-			self.extendDict = {}
+def getlist(w,shareid, fileid,morepage):
+    global p
+    global skipp
+    global reqcount
+    global sharedict
 
-	def isVideoFormat(self, url):
-		pass
+    reqcount += 1
+    if reqcount % 5 == 0:
+        print(f"reqcount:{reqcount} shareid:{shareid} fileid:{fileid}",file=sys.stderr)
+        #time.sleep(1)
+    url = f'http://192.168.101.188:9978/proxy?do=pikpak&type=list&share_id={shareid}&file_id={fileid}&pass_code=&morepage={morepage}'
+    print(f"url: {url}",file=sys.stderr)
+    resp = requests.get(url)
+    content = resp.content.decode('utf-8')
+    lines = content.split("\n")
+    if "folder" not in content and len(lines)<=4:
+        return
+    isfirst=True
+    for line in lines:
+        if isfirst:
+            isfirst=False
+            print(f"first line:{line}",file=sys.stderr)
+        if skipp.match(line):
+            continue
+        linearr = line.split('\t')
+        if len(linearr)>2:
+            m = p.match(linearr[0])
+            if m:
+                arr = m.group(1).split("/")
+            else:
+                arr = linearr[0].split("/")
+            shareid=arr[0]
+            fileid=arr[1] if len(arr)>1 else ""
+            if shareid+"/"+fileid in sharedict:
+                print(f"skip shareid{shareid} fileid:{fileid}", file=sys.stderr)
+                continue
+            w.write(line+"\n")
+            w.flush()
+            if linearr[2] == "folder":
+                getlist(w,shareid,fileid,False)
 
-	def manualVideoCheck(self):
-		pass
+    if len(lines)>0:
+        getlist(w,shareid,fileid,True)
 
-	def homeContent(self, filter):
-		result = {}
-		cateManual = {
-			"番剧": "1",
-			"国创": "4",
-			"电影": "2",
-			"综艺": "7",
-			"电视剧": "5",
-		}
-		classes = []
-		for k in cateManual:
-			classes.append({
-				'type_name': k,
-				'type_id': cateManual[k]
-			})
-		result['class'] = classes
-		if filter:
-			result['filters'] = self.config['filter']
-			currentYear = datetime.now().year
-			for resultfilter in result['filters']:
-				for rf in result['filters'][resultfilter]:
-					if rf['key'] == 'year':
-						for rfv in rf['value']:
-							if rfv['n'].isdigit():
-								if int(rfv['n']) < currentYear:
-									pos = rf['value'].index(rfv)
-									for year in range(currentYear, int(rfv['n']), -1):
-										rf['value'].insert(pos, {'v': f'[{str(year)},{str(year+1)})', 'n': str(year)})
-										pos += 1
-									break
-								else:
-									break
-					elif rf['key'] == 'release_date':
-						for rfv in rf['value']:
-							if rfv['n'].isdigit():
-								if int(rfv['n']) < currentYear:
-									pos = rf['value'].index(rfv)
-									for year in range(currentYear, int(rfv['n']), -1):
-										rf['value'].insert(pos, {'v': f'[{str(year)}-01-01 00:00:00,{str(year+1)}-01-01 00:00:00)', 'n': str(year)})
-										pos += 1
-									break
-								else:
-									break
-		return result
+def main():
+    try:
+        f = gzip.open(sys.argv[1]+".raw.gz",mode="rt",encoding="utf-8")
+        if f is not None:
+            print(f"found gz raw file:{sys.argv[1]}.raw.gz, extract it",file=sys.stderr)
+            with(open(sys.argv[1]+".raw","w",encoding="utf-8")) as w:
+                while(True):
+                    lines = f.readlines()
+                    if len(lines)<=0:
+                        break
+                    for line in lines:
+                        line=line.strip()
+                        w.write(line+"\n")
+            f.seek(0)
+    except:
+        traceback.print_exc()
+        try:
+            f = open(sys.argv[1]+".raw","r",encoding="utf-8")
+        except:
+            f = None
+    if f is not None:
+        print("found old raw file")
+        while True:
+            lines = f.readlines()
+            if len(lines)<=0:
+                break
+            for line in lines:
+                linearr = line.split("\t")
+                m = p.match(linearr[0])
+                if m:
+                    arr = m.group(1).split("/")
+                else:
+                    arr = linearr[0].split("/")
+                if len(arr)>1:
+                    shareid = arr[0]
+                    fileid = arr[1]
+                    sharedict.add(shareid+"/"+fileid)
+        f.close()
+        print(f"old raw file record:{len(sharedict)}")
+    else:
+        print("no old raw file")
+    with(open(sys.argv[1]+".raw","a+",encoding="utf-8")) as w:
+        with(open(sys.argv[1],"r",encoding="utf-8")) as f:
+            j = json.load(f)
+            for c in j:
+                shareid=c.get("type_id")
+                fileid=""
+                m = p.match(shareid)
+                if m:
+                    arr = m.group(1).split("/")
+                else:
+                    arr = shareid.split("/")
+                shareid=arr[0]
+                fileid=arr[1] if len(arr)>1 else ""
+                if shareid+"/"+fileid in sharedict:
+                    continue
+                getlist(w,shareid,fileid,False)
 
-	def homeVideoContent(self):
-		return self.categoryContent('1', '1', False, {})
-
-	def categoryContent(self, cid, page, filter, ext):
-		page = int(page)
-		result = {}
-		videos = []
-		cookie, _, _ = self.getCookie('{}')
-		url = 'https://api.bilibili.com/pgc/season/index/result?order=2&sort=0&pagesize=20&type=1&st={}&season_type={}&page={}'.format(cid, cid, page)
-		for key in ext:
-			url += f'&{key}={quote(ext[key])}'
-		r = self.fetch(url, headers=self.header, cookies=cookie, timeout=5)
-		data = json.loads(self.cleanText(r.text))
-		vodList = data['data']['list']
-		for vod in vodList:
-			aid = str(vod['season_id']).strip()
-			title = self.removeHtmlTags(self.cleanText(vod['title']))
-			img = vod['cover'].strip()
-			remark = vod['index_show'].strip()
-			videos.append({
-				"vod_id": aid,
-				"vod_name": title,
-				"vod_pic": img,
-				"vod_remarks": remark
-			})
-		lenvideos = len(videos)
-		if data['data']['has_next'] == 1:
-			pagecount = page + 1
-		else:
-			pagecount = page
-		result['list'] = videos
-		result['page'] = page
-		result['pagecount'] = pagecount
-		result['limit'] = lenvideos
-		result['total'] = lenvideos
-		return result
-
-	def detailContent(self, did):
-		did = did[0]
-		url = "http://api.bilibili.com/pgc/view/web/season?season_id={0}".format(did)
-		r = self.fetch(url, headers=self.header, timeout=10)
-		data = json.loads(self.cleanText(r.text))
-		vod = {
-			"vod_id": did,
-			"vod_name": self.removeHtmlTags(data['result']['title']),
-			"vod_pic": data['result']['cover'],
-			"type_name": data['result']['share_sub_title'],
-			"vod_actor": data['result']['actors'].replace('\n', '，'),
-			"vod_content": self.removeHtmlTags(data['result']['evaluate'])
-		}
-		videoList = data['result']['episodes']
-		playUrl = ''
-		for video in videoList:
-			eid = video['id']
-			cid = video['cid']
-			name = self.removeHtmlTags(video['share_copy']).replace("#", "-").replace('$', '*')
-			remark = time.strftime('%H:%M:%S', time.gmtime(video['duration']/1000))
-			if remark.startswith('00:'):
-				remark = remark[3:]
-			playUrl = playUrl + '[{}]/{}${}_{}#'.format(remark, name, eid, cid)
-		vod['vod_play_from'] = 'B站番剧'
-		vod['vod_play_url'] = playUrl.strip('#')
-		result = {
-			'list': [
-				vod
-			]
-		}
-		return result
-
-	def searchContent(self, key, quick):
-		return self.searchContentPage(key, quick, '1')
-
-	def searchContentPage(self, key, quick, page):
-		videos = []
-		cookie = ''
-		if 'cookie' in self.extendDict:
-			cookie = self.extendDict['cookie']
-		if 'json' in self.extendDict:
-			r = self.fetch(self.extendDict['json'], timeout=10)
-			if 'cookie' in r.json():
-				cookie = r.json()['cookie']
-		if cookie == '':
-			cookie = '{}'
-		elif type(cookie) == str and cookie.startswith('http'):
-			cookie = self.fetch(cookie,
+main()
