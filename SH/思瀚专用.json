@@ -76,6 +76,146 @@
             "searchCount": 40,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
             "ext": "./json/cjgod.json"
+        },Blame
+{
+    "wallpaper_ms": "./壁纸_msw.json",
+    "wallpaper": "./lib/鞭炮.jpg",
+    "spider": "./jar/pg.jar",
+    "sites": [
+        {
+            "key": "lf_js_search",
+            "name": "꧁༺主༒页༻꧂",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 0,
+            "quickSearch": 0,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/lf_search3_domestic_min.js"
+        },
+        {
+            "key": "配置中心",
+            "name": "☯️️༺OK配置༻☯️",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "jar": "./jar/okjpg.txt",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            }
+        },
+        {
+            "key": "网盘配置",
+            "name": "☣️️༺PG配置༻☣️",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 2
+            },
+            "ext": "./lib/tokenm.json"
+        },
+	{
+            "key": "CCTV",
+            "name": "📺丨央视精品【🌐】",
+            "type": 3,
+            "api": "csp_CCTV",
+            "timeout": 30,
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+	    "ext": "http://110.42.41.38:5757/proxy/央视大全[官]|http://144.24.40.190:5757/proxy/央视大全[官]" //支持多个代理 用 | 分割
+        },
+	{
+            "key": "哔哩弹幕",
+            "name": "🅱️丨哔哩哔哩【🌐】",
+            "type": 3,
+            "api": "csp_Bilimd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	    "searchTop": true,
+	    "jar": "./jar/spider.jar",
+            "style": {
+                   "type": "rect",
+                   "ratio": 1.597
+            	   },
+            "ext": {
+                   "cookie": "file://TV/bili_cookie.txt"
+                   },
+            "timeout": 10
+        },    
+        {
+            "key": "WoKee_jar_CjGod ",
+            "name": "💫丨采集大全【🌐】",
+            "type": 3,
+            "api": "csp_CjGod",
+            "searchable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "searchCount": 40,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "ext": "./json/cjgod.json"
+        },
+        {
+            "key": "玩偶弹幕版",
+            "name": "👽丨玩偶哥哥【☯️】",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "searchTop": true,
+            "jar": "./jar/okjpg.txt",
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "uc_cookie": "file://TV/uc_cookie.txt",
+                "wogg": true
+            },
+            "timeout": 30
+        },
+        {
+            "key": "表哥弹幕",
+            "name": "👺丨玩偶表哥【☯️】",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "jar": "./jar/okjpg.txt",
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+		"uc_cookie": "file://TV/uc_cookie.txt",
+                "site": "http://wanou.xn--yi7aa.top:3108/",
+                "danmu": true
+            },
+            "timeout": 25
+        },
+        {
+            "key": "mogg1",
+            "name": "🐯丨木偶哥哥【☯️】",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "searchTop": true,
+            "jar": "./jar/okjpg.txt",
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "uc_cookie": "file://TV/uc_cookie.txt",
+                "site": "http://www.mogg.top/",
+                "danmu": true
+            },
+            "timeout": 30
         },
         {
             "key": "Wogg",
@@ -87,7 +227,7 @@
             "searchTop": true,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://woggapi.333232.xyz/$$$noproxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://www.wogg.net/|https://wogg.xxooo.cf/|https://wogg.888484.xyz/|https://www.wogg.bf/|https://woggapi.333232.xyz/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Wobg表哥",
@@ -107,9 +247,8 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "changeable": 1,
-            "searchTop": true,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://mogg.top$$$noproxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$http://www.muoupan.top/|http://www.mogg.top/|http://mogg.小胡.top/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "ucShare",
