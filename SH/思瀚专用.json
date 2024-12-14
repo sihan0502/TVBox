@@ -13,6 +13,15 @@
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/lf_search3_domestic_min.js"
         },
         {
+            "key": "豆瓣",
+            "name": "🍀️༺豆༒瓣༻🍀",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "./lib/douban.json"
+        },
+        {
             "key": "网盘配置",
             "name": "☣️️༺配༒置༻☣️",
             "type": 3,
