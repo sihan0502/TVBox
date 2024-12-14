@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "lf_js_search",
-            "name": "☯️༺主༒页༻☯️",
+            "name": "⚛️༺主༒页༻⚛️",
             "type": 3,
             "searchable": 0,
             "changeable": 0,
@@ -14,7 +14,7 @@
         },
         {
             "key": "豆瓣",
-            "name": "🍀️༺豆༒瓣༻🍀",
+            "name": "❇️༺豆༒瓣༻✳️",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -36,7 +36,7 @@
         },
         {
             "key": "py_cctv",
-            "name": "📺丨CCTV【🌐】",
+            "name": "📺丨央视精品【🌐】",
             "type": 3,
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/py_cctv_ms.py",
             "searchable": 1,
@@ -45,7 +45,7 @@
         },
         {
             "key": "哔哩弹幕",
-            "name": "🅱️丨哔 哩【🌐】",
+            "name": "🅱️丨哔哩哔哩【🌐】",
             "type": 3,
             "api": "csp_Bilimd",
             "searchable": 1,
@@ -64,7 +64,7 @@
         },
         {
             "key": "WoKee_jar_CjGod ",
-            "name": "💫丨采 集【🌐】",
+            "name": "💫丨采集大全【🌐】",
             "type": 3,
             "api": "csp_CjGod",
             "searchable": 1,
